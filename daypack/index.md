@@ -56,4 +56,7 @@ The _inferior section_ of the shoulder strap is connected to the pack with a ste
 - insert the folded webbing into the second fold of the fabric
 
 ![](./images/IMG_20220225_200537_HDR.jpg)
-The shoulder strap
+
+
+
+![](./images/IMG_20220225_194109_HDR.jpg)
