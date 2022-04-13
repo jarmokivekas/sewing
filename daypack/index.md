@@ -57,6 +57,10 @@ The _inferior section_ of the shoulder strap is connected to the pack with a ste
 
 ![](./images/IMG_20220225_200537_HDR.jpg)
 
+# Posterior panel
+
+The exterior face of the posterior panel has PALS webbing, a patch of velcro loop, and the side release bulckle resptacles for the compression straps. You may also leave the compression strap buckles, and opt for a beavertail instead.
+
 
 
 ![](./images/IMG_20220225_194109_HDR.jpg)
