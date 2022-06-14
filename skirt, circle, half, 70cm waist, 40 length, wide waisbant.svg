@@ -122,14 +122,14 @@
        transform="translate(21.394264,-11.075225)"><tspan
          x="178.19785"
          y="482.72107"
-         id="tspan96113">inner radius 220mm
+         id="tspan99085">inner radius 220mm
 </tspan><tspan
          x="178.19785"
          y="501.24194"
-         id="tspan96115">(determines waistband </tspan><tspan
+         id="tspan99087">(determines waistband </tspan><tspan
          x="178.19785"
          y="519.76281"
-         id="tspan96117">circumference)</tspan></text>
+         id="tspan99089">circumference)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14.8167px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.264583"
@@ -137,20 +137,15 @@
        y="160.42056"
        id="text21425"><tspan
          sodipodi:role="line"
-         id="tspan21423"
          style="font-size:14.8167px;stroke-width:0.264583"
          x="1.8483914"
-         y="160.42056">Waist band panel width = perimeter of inner radius </tspan><tspan
+         y="160.42056"
+         id="tspan99049">Waist band panel width = perimeter of inner radius, 700mm</tspan><tspan
          sodipodi:role="line"
          style="font-size:14.8167px;stroke-width:0.264583"
          x="1.8483914"
          y="178.94144"
-         id="tspan52657">-</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:14.8167px;stroke-width:0.264583"
-         x="1.8483914"
-         y="197.46231"
-         id="tspan21427" /></text>
+         id="tspan97269" /></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 617.97253,276.43481 H -198.80809"
@@ -165,18 +160,18 @@
        transform="translate(27.076092,-19.680268)"><tspan
          x="617.97253"
          y="276.43481"
-         id="tspan96119">Fold panel lengthwise
+         id="tspan99091">Fold panel lengthwise
 </tspan><tspan
          x="617.97253"
          y="294.95568"
-         id="tspan96121">Fold will be the superior edge </tspan><tspan
+         id="tspan99093">Fold will be the superior edge </tspan><tspan
          x="617.97253"
          y="313.47656"
-         id="tspan96123">of the waisband.
+         id="tspan99095">of the waisband.
 </tspan><tspan
          x="617.97253"
          y="331.99743"
-         id="tspan96125">Channel for optional elastic.</tspan></text>
+         id="tspan99097">Channel for optional elastic.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14.81666667px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.264583;fill:none"
