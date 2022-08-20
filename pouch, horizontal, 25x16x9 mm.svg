@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="1019.5866mm"
+   height="544.33411mm"
+   viewBox="0 0 1019.5866 544.33411"
    version="1.1"
    id="svg969"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -24,11 +24,11 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-center="true"
-     inkscape:zoom="1.4680714"
-     inkscape:cx="-1701.8927"
-     inkscape:cy="368.85127"
+     inkscape:zoom="0.27354818"
+     inkscape:cx="1712.6782"
+     inkscape:cy="1155.1895"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,13 +38,18 @@
      inkscape:snap-object-midpoints="true"
      inkscape:bbox-paths="true"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true" />
+     inkscape:snap-intersection-paths="true"
+     fit-margin-top="50"
+     fit-margin-left="50"
+     fit-margin-right="50"
+     fit-margin-bottom="50" />
   <defs
      id="defs966" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(624.92815,5.2938586)">
     <rect
        style="vector-effect:non-scaling-stroke;fill:#a0892c;fill-opacity:0.543543;stroke:#000000;stroke-width:0.00297854;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
        id="rect1153"
@@ -157,17 +162,17 @@
        id="path45725" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -246.90066,334.1905 v -75.54843 l 0,230.39816"
+       d="M -246.90066,334.1905 V 258.64207 489.04023"
        id="path45813"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -371.90066,72.737329 0,227.403751"
+       d="M -371.90066,72.737329 V 300.14108"
        id="path45990"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -121.90066,93.851021 0,206.290059"
+       d="M -121.90066,93.851021 V 300.14108"
        id="path46110"
        sodipodi:nodetypes="cc" />
     <text
@@ -179,23 +184,23 @@
        transform="translate(-33.590325,-10.580763)"><tspan
          x="-541.45184"
          y="260.04544"
-         id="tspan1970">Cut from the edge to the seam allowance where the  </tspan><tspan
+         id="tspan998">Cut from the edge to the seam allowance where the  </tspan><tspan
          x="-541.45184"
          y="266.21907"
-         id="tspan1972">superiao and inferior panels match with the posterior </tspan><tspan
+         id="tspan1000">superiao and inferior panels match with the posterior </tspan><tspan
          x="-541.45184"
          y="272.39269"
-         id="tspan1974">and enterior panel corners. 
+         id="tspan1002">and enterior panel corners. 
 </tspan><tspan
          x="-541.45184"
          y="278.5663"
-         id="tspan1976">NOTE: use the crners of the seam, not the cut fabric. </tspan><tspan
+         id="tspan1004">NOTE: use the crners of the seam, not the cut fabric. </tspan><tspan
          x="-541.45184"
          y="284.73992"
-         id="tspan1978">That is, using the size of the fabric if it had no seam </tspan><tspan
+         id="tspan1006">That is, using the size of the fabric if it had no seam </tspan><tspan
          x="-541.45184"
          y="290.91353"
-         id="tspan1980">allowance (demarked as dotted line)</tspan></text>
+         id="tspan1008">allowance (demarked as dotted line)</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -422.81395,238.93943 50.91329,-33.15333"
@@ -241,24 +246,24 @@
            y="242.54912">15 mm allowance</tspan></text>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -371.90066,198.85102 v 15 0"
        id="path1366" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -371.90066,93.85102 v 15"
        id="path1481" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -121.90066,93.85102 v 15"
        id="path1483" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -121.90066,198.85102 v 15"
        id="path1598" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -452.44098,139.14956 0,-64.221 0,152.48555"
+       d="m -452.44098,139.14956 v -64.221 152.48555"
        id="path1680"
        sodipodi:nodetypes="ccc" />
   </g>
