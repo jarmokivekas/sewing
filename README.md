@@ -151,21 +151,33 @@ There are three main ways to carry this pack
 ## rucksack, external frame
 
 
-## scrunchie
-
-
 ## shoulder straps, detechable, webbing
-
-
-## skirt, circle, half, 70cm waist, 40 length, wide waisbant
-
-
-## swimsuits
 
 
 ## thermal cloak
 
+Materials:
 
+- Main fabric:
+    - stong but thin waterproof, windproof, thermally reflective fabric
+    - e.g. "Nylon Tarp Fabric, PU coated 70g/m2" from shelvy outdoor https://www.shelbyoutdoor.com/product_info.php?products_id=90
+    - this is a non breathable coating, to make it more waterproof and durable than breathable membranes
+- Zippers
+    - zippers need to be separating
+    - ideally with dual pull so they can be opened from both directions
+    - 
+
+
+### Thermal cloak size options
+
+There are 3 main sizes of themal cloak that make most sense to me:
+
+- 150cm x 150m
+    - This is nice because you can use the full width of a normal 150cm wide fabric roll
+    - All three zippers are also the same length.
+    - you won't be able to use it as a sleeping bag cover, as it is not long enough to lie down in
+
+- approx 110cm x 210
 ## tube scarf
 
 
@@ -179,3 +191,22 @@ There are three main ways to carry this pack
 - particularly useful for activites where you spend a lot of time on the ground without a tent.
 - for cold weather, add an aluminum reflective mat in addition to a foam pad for extra warmth (kaira extreme, for example)
 - use a simple thin pad in the summer when extra insulation is not needed
+
+## sleeping bag liner
+
+- e.g polarfleece
+- 75 cm width if using regular 150 cm wide fabric
+    - most are 90 cm wide, but sold as one size and also fit bigger people
+- polar fleece weight 250 g/m^2 => 2 meter of fabric is 750g
+    - mummy shape will reduce some of that weight
+- attachment point for carinthia Defence or Tropen bag.
+    - Tropen attachemnts
+        - one on either side of the footbox (loop both inside and outside)
+        - midway down the length of the sleeping bag on either sides. (loop on the inside, nothing on outside)
+        - on either side at the shoulders. (loop inside, nothin on outside)
+    - defence 4
+        - 4 in the hood
+        - either side half way down
+        - either side of the foot footbox
+        - one at the center of the footbox
+        - all are loops
