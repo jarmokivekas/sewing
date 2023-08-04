@@ -7,10 +7,10 @@ Shoulder harness features:
 - spreads load on a wide surface area
 - shoulder harness module: the pack itself may be changed
 - buckle for load lifters
-- PASL style webbing at the front for attaching module
-	- [sternum strap, 20mm, modular](sternum%20strap,%2020mm,%20modular.md) compatible
+- PALS style webbing at the front for attaching module
+	- [sternum strap, 20mm, modular](../sternum%20strap,%2020mm,%20modular/sternum%20strap,%2020mm,%20modular.md) compatible
 	- [shoulder strap pocket] compatible
-	- [chest pack](chest%20pack.svg) compatible
+	- [kit bag](../kit%20bag/chest%20pack.svg) compatible
 
 
 
@@ -79,4 +79,26 @@ In the original Hill people gear product, all the stitching is done through both
 
 The shoulder strap webbing should ideally lie in the middle of the shoulder strap. Use chalk or a marker to mark the center line along the fabric
 
+
+# Accessories
+
+
+
+## Load lifter straps
+
+1. cut 2 lengths 50cm of 20mm or 25mm webbing
+2. bar tack a 5 cm loop on one end of each (a grab handle)
+3. attach one end to the shoulder harness' tri-glide buckle
+4. thread the end with the loop though the tension buckle on the pack
+
+## Pack attachment utility strap
+
+
+Different packs may have different ways of attaching to the shoulder harness. For packs with two d-ring attachment points, use a [utility strap, short](../utility%20strap,%20short/utility%20strap,%20short.md)
+
+To attach the pack:
+
+- thread the utility strap thought the D-ring on the pack
+	- the tri-glide on the strap must be large enough that it doesn't fit through the D-ring
+- weave the free end of the utility strap through the tri-glide on the shoulder harness
 
