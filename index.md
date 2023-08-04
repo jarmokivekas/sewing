@@ -12,11 +12,18 @@ Sewing designs, patterns, and resources
 
 - WIP
 
-## backpack, daypack, large
+## [backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large)
 
-- Backpack with modular (detachable) shoulder straps
+
+- A [full .svg sewing pattern ](backpack,%20daypack,%20large/backpack,%20daypack,%20large.svg) is available 
+- Backpack with modular (detachable) shoulder straps, [shoulder straps, detechable, webbing](shoulder%20straps,%20detechable,%20webbing.svg)
 - PALS webbing on the posterior face and the sides.
 - optionally PALS on the bottom panel (personally i find it very useful)
+- carry handle
+- water bladder pocket & passthrough
+- fully opening panel loading zipper
+- two zippered inside pockets in the posterior panel
+- compatible with [shoulder harness, yolk](shoulder%20harness,%20yolk/shoulder%20harness,%20yolk.md)
 
 
 # Load carrying modules
@@ -41,6 +48,7 @@ The [shoulder harness, yolk](shoulder%20harness,%20yolk/shoulder%20harness,%20yo
 - I've found the curve on the belt to be unnecessary, and makes the PALS webbing not work as well as it could
     - make a less anatomic belt which is essentially just a long rectangle next time.
     - that would allow full use of PALS which is continuous along the intire length of the bels
+    - 
 
 
 ## bikepack, handlebar
