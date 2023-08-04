@@ -1,3 +1,8 @@
+---
+permalink: /sternum strap, 20mm, modular/sternum strap, 20mm, modular
+title: sternum strap, 20mm, modular
+layout: page
+---
 # Materials
 
 material | amount
@@ -7,7 +12,7 @@ side-release buckle, 20mm, plug | 1
 side-release buckle, 20mm, receptacle | 1
 webbing, 20mm | 1 meter
 
-![](material.svg)
+![](materials.svg)
 # Assembly
 
 ## Left side

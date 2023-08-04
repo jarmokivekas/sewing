@@ -1,3 +1,8 @@
+---
+permalink: ./shoulder harness, yolk
+title: Soulder harness, yolk
+layout: page
+---
 
 This is a modular yolk style harness inspired (nearly copied) by the Hill people gear shoulder harness that they sell with their various packs.
 

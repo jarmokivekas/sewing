@@ -25,9 +25,9 @@ Sewing designs, patterns, and resources
 ## shoulder straps, detechable, webbing
 
 
-## [shoulder harness, yolk](shoulder%20harness,%20yolk.md)
+## [shoulder harness, yolk](shoulder%20harness,%20yolk/shoulder%20harness,%20yolk.md)
 
-The [shoulder harness, yolk](shoulder%20harness,%20yolk.md) is inspired by a piece of equipment byHill People Gear. It's a single-piece shoulder harness that wraps around the back of the neck, spreading the carried weight over a large surface area. Features a light 5mm padding, Two types of backpack attachment points, buckles for load lifters, and PALS-style webbing at the front for attaching other modules or a sternum strap.  
+The [shoulder harness, yolk](shoulder%20harness,%20yolk/shoulder%20harness,%20yolk.md) is inspired by a piece of equipment byHill People Gear. It's a single-piece shoulder harness that wraps around the back of the neck, spreading the carried weight over a large surface area. Features a light 5mm padding, Two types of backpack attachment points, buckles for load lifters, and PALS-style webbing at the front for attaching other modules or a sternum strap.  
 
 ![](yolk%20size%20reference.jpeg)
 

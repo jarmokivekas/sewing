@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="329.94376mm"
-   height="127.87364mm"
-   viewBox="0 0 329.94376 127.87364"
+   width="359.55453mm"
+   height="135.06203mm"
+   viewBox="0 0 359.55453 135.06203"
    version="1.1"
    id="svg74413"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
    sodipodi:docname="utility strap, short.svg"
+   inkscape:export-filename="../298c6344/utility strap, short, tri-glide.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -36,9 +39,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.78068776"
-     inkscape:cx="634.05631"
-     inkscape:cy="345.20843"
+     inkscape:zoom="0.41180152"
+     inkscape:cx="150.55797"
+     inkscape:cy="545.16555"
      inkscape:window-width="1846"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -180,35 +183,35 @@ Options for color, precision, label formatting and display
        class="rect75799 path-effect81396 measure-arrow-marker"
        inkscape:stockid="ArrowDINout-start"
        orient="auto"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        sodipodi:insensitive="true">
       <path
-         d="M 0,0 -16,2.11 -16,0.5 -26,0.5 -26,-0.5 -16,-0.5 -16,-2.11 z"
+         d="M 0,0 -16,2.11 V 0.5 h -10 v -1 h 10 v -1.61 z"
          class="rect75799 path-effect81396 measure-arrow"
          id="ArrowDINout-start_path"
-         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
     </marker>
     <marker
        id="ArrowDINout-end"
        class="rect75799 path-effect81396 measure-arrow-marker"
        inkscape:stockid="ArrowDINout-end"
        orient="auto"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        sodipodi:insensitive="true">
       <path
-         d="M 0,0 16,-2.11 16,-0.5 26,-0.5 26,0.5 16,0.5 16,2.11 z"
+         d="m 0,0 16,-2.11 v 1.61 h 10 v 1 H 16 v 1.61 z"
          class="rect75799 path-effect81396 measure-arrow"
          id="ArrowDINout-end_path"
-         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
     </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(16.411528,-89.367602)">
+     transform="translate(15.038689,-85.481239)">
     <path
        style="vector-effect:non-scaling-stroke;fill:#786721;fill-opacity:1;stroke:#000000;stroke-width:0.888959;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
        id="rect75799"
@@ -219,7 +222,8 @@ Options for color, precision, label formatting and display
        inkscape:path-effect="#path-effect81396"
        class="UnoptimicedTransforms"
        d="M 33.282234,111.67817 H 313.28223 v 25.4 H 33.282234 Z"
-       sodipodi:type="rect" />
+       sodipodi:type="rect"
+       transform="translate(15.345837,3.7041668)" />
     <path
        id="path9435"
        style="vector-effect:non-scaling-stroke;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.259331;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.509002;-inkscape-stroke:hairline"
@@ -228,35 +232,35 @@ Options for color, precision, label formatting and display
        inkscape:path-effect="#path-effect9439"
        inkscape:original-d="m -11,128 v -13 c 0,-2 -2,-4 -4,-4 h -16 c -2,0 -4,1 -4,3 v 14 m 4,0 0.0105,-12.9028 C -30.988607,114 -30,114 -28,114 c 2,0 3,4e-5 3,1 0,2 -1,8 -1,13 m 6,0 c 0,-5 -1,-11 -1,-13 0,-1.00499 1.262515,-1 3,-1 1.737486,0 3,-0.30383 3,1 v 13"
        class="UnoptimicedTransforms"
-       transform="translate(18.588472,-3.6218309)"
+       transform="translate(34.463482,0.08233591)"
        inkscape:transform-center-x="-5.3914875" />
     <rect
        style="vector-effect:non-scaling-stroke;fill:#786721;fill-opacity:1;stroke:#000000;stroke-width:0.823016;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
        id="rect79131"
        width="240"
        height="25.4"
-       x="73.032471"
-       y="173.94087" />
+       x="88.378319"
+       y="177.64499" />
     <rect
        style="vector-effect:non-scaling-stroke;fill:#504416;fill-opacity:1;stroke:#000000;stroke-width:0.335995;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
        id="rect79865"
        width="40"
        height="25.4"
-       x="73.032471"
-       y="173.94087" />
+       x="88.378319"
+       y="177.64499" />
     <path
        id="path9501"
        style="vector-effect:non-scaling-stroke;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.259331;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.509002;-inkscape-stroke:hairline"
        inkscape:transform-center-x="0.43295676"
        inkscape:transform-center-y="0.30390789"
        d="m -30.999845,111 c -1.999996,0 -4.000273,0.99982 -4.000273,2.99982 V 128 h 4.000273 l 0.01034,-12.90257 c 8.93e-4,-1.0972 0.989486,-1.09761 2.989482,-1.09761 1.999996,0 2.999816,-2e-5 2.999816,0.99994 0,0.091 -0.0023,0.19318 -0.0062,0.30024 h 4.013192 c -0.004,-0.10706 -0.0067,-0.20926 -0.0067,-0.30024 0,-1.00499 1.262336,-0.99994 2.999817,-0.99994 0.542963,0 1.039899,-0.0295 1.46606,-0.0305 0.937556,-0.002 1.534274,0.13405 1.534274,1.03043 V 128 h 3.999755 v -13.00024 c 0,-2 -1.999759,-3.99976 -3.999755,-3.99976 z m 0,34 c -1.999996,0 -4.000273,-0.99982 -4.000273,-2.99982 V 128 h 4.000273 l 0.01034,12.90257 c 8.93e-4,1.0972 0.989486,1.09761 2.989482,1.09761 1.999996,0 2.999816,2e-5 2.999816,-0.99994 0,-0.091 -0.0023,-0.19318 -0.0062,-0.30024 h 4.013192 c -0.004,0.10706 -0.0067,0.20926 -0.0067,0.30024 0,1.00499 1.262336,0.99994 2.999817,0.99994 0.542963,0 1.039899,0.0295 1.46606,0.0305 0.937556,0.002 1.534274,-0.13405 1.534274,-1.03043 V 128 h 3.999755 v 13.00024 c 0,2 -1.999759,3.99976 -3.999755,3.99976 z"
-       transform="translate(101.38648,58.640869)"
+       transform="translate(116.73241,62.345038)"
        inkscape:path-effect="#path-effect9542"
        inkscape:original-d="m -30.999845,111 c -1.999996,0 -4.000273,0.99982 -4.000273,2.99982 V 128 h 4.000273 l 0.01034,-12.90257 c 8.93e-4,-1.0972 0.989486,-1.09761 2.989482,-1.09761 1.999996,0 2.999816,-2e-5 2.999816,0.99994 0,0.091 -0.0023,0.19318 -0.0062,0.30024 h 4.013192 c -0.004,-0.10706 -0.0067,-0.20926 -0.0067,-0.30024 0,-1.00499 1.262336,-0.99994 2.999817,-0.99994 0.542963,0 1.039899,-0.0295 1.46606,-0.0305 0.937556,-0.002 1.534274,0.13405 1.534274,1.03043 V 128 h 3.999755 v -13.00024 c 0,-2 -1.999759,-3.99976 -3.999755,-3.99976 z"
        class="UnoptimicedTransforms" />
     <g
        id="g38816"
-       transform="translate(-14.321695,-55.763623)">
+       transform="translate(1.0241416,-52.059454)">
       <g
          id="g38811"
          style="stroke:#000000;stroke-opacity:1">
@@ -274,20 +278,20 @@ Options for color, precision, label formatting and display
     </g>
     <path
        style="fill:#504416;stroke:#000000;stroke-width:0.499999"
-       d="M 73.282471,99.165537 V 143.67077"
+       d="M 88.628314,103.92806 V 148.4333"
        id="path84576"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke:none;stroke-width:0.499999"
-       x="54.858543"
-       y="93.686371"
+       x="70.204391"
+       y="98.448875"
        id="text84632"><tspan
          sodipodi:role="line"
          id="tspan84630"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke:none;stroke-width:0.5"
-         x="54.858543"
-         y="93.686371">Fold 4 cm </tspan></text>
+         x="70.204391"
+         y="98.448875">Fold 4 cm </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:monospace;-inkscape-font-specification:monospace;fill:#504416;stroke:none;stroke-width:0.499999"
@@ -302,14 +306,21 @@ Options for color, precision, label formatting and display
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke:none;stroke-width:0.499999"
-       x="9.1712446"
-       y="217.16132"
+       x="93.274757"
+       y="215.11719"
        id="text84805"><tspan
          sodipodi:role="line"
          id="tspan84803"
          style="stroke-width:0.5"
-         x="9.1712446"
-         y="217.16132">Bar tack twice</tspan></text>
+         x="93.274757"
+         y="215.11719">Bar tack twice</tspan></text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.499999"
+       id="rect91720"
+       width="359.55453"
+       height="135.06203"
+       x="-15.038689"
+       y="85.481239" />
   </g>
   <path
      id="infoline-on-start-0-path-effect81396"
@@ -378,7 +389,7 @@ Options for color, precision, label formatting and display
   <path
      id="infoline-on-start-2-path-effect81396"
      class="rect75799 path-effect81396 measure-helper-line measure-line"
-     d="m 329.69376,47.710567 v 12"
+     d="m 343.66676,55.301097 v 12"
      sodipodi:insensitive="true"
      inkscape:label="dinhelpline"
      style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
@@ -387,29 +398,29 @@ Options for color, precision, label formatting and display
      id="text-on-2-path-effect81396"
      class="rect75799 path-effect81396 measure-label"
      sodipodi:insensitive="true"
-     x="181.54267"
-     y="59.968345"
+     x="195.51567"
+     y="67.558874"
      style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:5.64444px"><tspan
        sodipodi:role="line"
        id="tspan81418">280mm</tspan></text>
   <path
      id="infoline-on-end-2-path-effect81396"
      class="rect75799 path-effect81396 measure-helper-line measure-line"
-     d="m 49.693762,47.710567 v 12"
+     d="m 63.66676,55.301097 v 12"
      sodipodi:insensitive="true"
      inkscape:label="dinhelpline"
      style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
   <path
      id="infoline-2-path-effect81396"
      class="rect75799 path-effect81396 measure-DIM-line measure-line"
-     d="M 325.69376,57.710567 H 199.28328 m -19.17904,0 H 53.693762"
+     d="M 339.66676,65.301097 H 213.25628 m -19.17904,0 H 67.66676"
      sodipodi:insensitive="true"
      inkscape:label="dinline"
      style="marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
   <path
      id="infoline-on-start-3-path-effect81396"
      class="rect75799 path-effect81396 measure-helper-line measure-line"
-     d="m 49.693762,47.710567 h -12"
+     d="m 63.66676,55.301097 h -12"
      sodipodi:insensitive="true"
      inkscape:label="dinhelpline"
      style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
@@ -418,23 +429,23 @@ Options for color, precision, label formatting and display
      id="text-on-3-path-effect81396"
      class="rect75799 path-effect81396 measure-label"
      sodipodi:insensitive="true"
-     x="35.49957"
-     y="35.010567"
+     x="49.472568"
+     y="42.601097"
      style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:5.64444px"
-     transform="rotate(-90,41.95154,35.010567)"><tspan
+     transform="rotate(-90,55.924538,42.601097)"><tspan
        sodipodi:role="line"
        id="tspan81424">25mm</tspan></text>
   <path
      id="infoline-on-end-3-path-effect81396"
      class="rect75799 path-effect81396 measure-helper-line measure-line"
-     d="m 49.693762,22.310567 h -12"
+     d="m 63.66676,29.901097 h -12"
      sodipodi:insensitive="true"
      inkscape:label="dinhelpline"
      style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
   <path
      id="infoline-3-path-effect81396"
      class="rect75799 path-effect81396 measure-DIM-line measure-line"
-     d="M 39.693762,43.710567 V 42.60112 m 0,-15.181106 v -1.109447"
+     d="M 53.66676,51.301097 V 50.19165 m 0,-15.181106 v -1.109447"
      sodipodi:insensitive="true"
      inkscape:label="dinline"
      style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
