@@ -77,7 +77,6 @@ In the original Hill people gear product, all the stitching is done through both
 
 ### Shoulder straps
 
-The shoulder strap webbing should ideally lie in the middle of the shoulder strap. Use chalk or a marker to mark the center line along the 
-The construction is relatively straight-forward
+The shoulder strap webbing should ideally lie in the middle of the shoulder strap. Use chalk or a marker to mark the center line along the fabric
 
-![[shoulder harnenss, yolk.svg]]
+
