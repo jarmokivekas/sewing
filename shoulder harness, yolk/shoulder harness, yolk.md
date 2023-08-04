@@ -13,7 +13,7 @@ Shoulder harness features:
 - shoulder harness module: the pack itself may be changed
 - buckle for load lifters
 - PALS style webbing at the front for attaching module
-	- [sternum strap, 20mm, modular](../sternum%20strap,%2020mm,%20modular/sternum%20strap,%2020mm,%20modular.md) compatible
+	- [sternum strap, 20mm, modular](../sternum%20strap,%2020mm,%20modular/sternum%20strap,%2020mm,%20modular) compatible
 	- [shoulder strap pocket] compatible
 	- [kit bag](../kit%20bag/chest%20pack.svg) compatible
 
@@ -152,7 +152,7 @@ This assumes the pack has asdjustment the adjustement buckesl. We just need to p
 ## Pack attachment utility strap
 
 
-Different packs may have different ways of attaching to the shoulder harness. For packs with two d-ring attachment points, use a [utility strap, short](../utility%20strap,%20short/utility%20strap,%20short.md)
+Different packs may have different ways of attaching to the shoulder harness. For packs with two d-ring attachment points, use a [utility strap, short](../utility%20strap,%20short/utility%20strap,%20short)
 
 To attach the pack:
 
@@ -163,7 +163,7 @@ To attach the pack:
 
 ## Sternum strap
 
-[sternum strap, 20mm, modular](../sternum%20strap,%2020mm,%20modular/sternum%20strap,%2020mm,%20modular.md) fits well as a sternum strap for this harness. It attaches with tri-glide buckles to the shoulder straps. The PALS loops help set the height at which the sternum strap sits.
+[sternum strap, 20mm, modular](../sternum%20strap,%2020mm,%20modular/sternum%20strap,%2020mm,%20modular) fits well as a sternum strap for this harness. It attaches with tri-glide buckles to the shoulder straps. The PALS loops help set the height at which the sternum strap sits.
 
 
 
