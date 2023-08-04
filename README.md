@@ -1,4 +1,6 @@
 
+this is the readme. itsa copy of index 
+
 
 Sewing designs, patterns, and resources
 

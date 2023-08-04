@@ -5,7 +5,6 @@ title: Soulder harness, yolk
 This is a modular yolk style harness inspired (nearly copied) by the Hill people gear shoulder harness that they sell with their various packs.
 
 
-
 Shoulder harness features:
 
 - both shoulder straps are part of the same piece that wraps around the neck
@@ -18,12 +17,15 @@ Shoulder harness features:
 	- [kit bag](../kit%20bag/chest%20pack.svg) compatible
 
 
-
 I've used this for example with
 
 - [[backpacbackpack, daypack, large]
 - [backpack, small, rolltop, utility shoulder strap]
 - Savotta Jääkäri XL, with some additional modules to the ruck frame
+
+# CAD files
+
+All the pattern images are available as a .svg vector file here: [shoulder harness, yolk.svg](shoulder%20harness,%20yolk.svg). The pattern is drawn to scale.
 
 
 # Materials
