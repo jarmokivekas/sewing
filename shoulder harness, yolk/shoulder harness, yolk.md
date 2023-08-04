@@ -44,6 +44,8 @@ It's important to note, that the shape of the yolk is provided by the cut patter
 
 
 # Cut
+![](cut.png)
+
 
 1. cut 25 mm webbing (4 pieces)
 2. cut 40 mm webbin (1 piece)
