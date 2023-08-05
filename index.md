@@ -29,7 +29,7 @@ Sewing designs, patterns, and resources
 # Load carrying modules
 
 
-## [shoulder strap, 50mm webbing](shoulder%20strap,%2050mm%20%20webbing/shoulder%20strap,%2050mm%20webbing.md)
+## [shoulder strap, 50mm webbing, with quick release](shoulder%20strap,%2050mm%20%20webbing,%20with%20quick%20release/shoulder%20strap,%2050mm%20webbing,%20with%20quick%20release.md)
 shoulder straps, modular, webbing
 
 Simple webbing-only shoulder straps for modular packs. Originally designed for  [backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large) but I've also used them for carrying large Ortelieb drybags, among other things.
