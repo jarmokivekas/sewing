@@ -1,5 +1,5 @@
 ---
-permalink: /utility strap, short
+title: Utility strap, short
 ---
 
 28 cm length of 25mm wide webbing. One end folded and sewn around center post of tri-glide buckle. Used for attaching rucksack bag to external frame.
