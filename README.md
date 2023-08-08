@@ -19,11 +19,11 @@ Sewing designs, patterns, and resources
 
 ---
 
-[shoulder harness, yolk](shoulder%20harness,%20yolk/shoulder%20harness,%20yolk)
-- The [shoulder harness, yolk](shoulder%20harness,%20yolk/shoulder%20harness,%20yolk) is inspired by a piece of equipment byHill People Gear. It's a single-piece shoulder harness that wraps around the back of the neck, spreading the carried weight over a large surface area. Features a light 5mm padding, Two types of backpack attachment points, buckles for load lifters, and PALS-style webbing at the front for attaching other modules or a sternum strap.  
+[shoulder harness, yoke](shoulder%20harness,%20yoke.md)
+- The [shoulder harness, yoke](shoulder%20harness,%20yoke.md) is inspired by a piece of equipment byHill People Gear. It's a single-piece shoulder harness that wraps around the back of the neck, spreading the carried weight over a large surface area. Features a light 5mm padding, Two types of backpack attachment points, buckles for load lifters, and PALS-style webbing at the front for attaching other modules or a sternum strap.  
 
 
-![yolk size reference](shoulder%20harness,%20yolk/yolk%20size%20reference.jpeg)
+![yoke size reference](yoke%20size%20reference.jpeg)
 
 ---
 
@@ -57,7 +57,7 @@ Sewing designs, patterns, and resources
 	- water bladder pocket & passthrough
 	- fully opening panel loading zipper
 	- two zippered inside pockets in the posterior panel
-	- compatible with [shoulder harness, yolk](shoulder%20harness,%20yolk/shoulder%20harness,%20yolk.md)
+	- compatible with [shoulder harness, yoke](shoulder%20harness,%20yoke.md)
 
 ---
 

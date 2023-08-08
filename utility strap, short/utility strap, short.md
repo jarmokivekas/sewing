@@ -31,7 +31,7 @@ Material for one strap
 
 
 - Savotta Jääkäri XL type pack-to-frame attachment
-- [shoulder harness, yolk](../shoulder%20harness,%20yolk/shoulder%20harness,%20yolk.md) pack-to-harness attachment
+- [shoulder harness, yoke](shoulder%20harness,%20yoke.md) pack-to-harness attachment
 - [chest pack](../kit%20bag/chest%20pack.svg) suspension from back pack shoulder harness that has a D-ring
 
 ![final](final.jpg)

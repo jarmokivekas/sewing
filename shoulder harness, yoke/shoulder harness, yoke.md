@@ -1,8 +1,8 @@
 ---
-title: Soulder harness, yolk
+title: Soulder harness, yoke
 ---
 
-This is a modular yolk style harness inspired (nearly copied) by the Hill people gear shoulder harness that they sell with their various packs.
+This is a modular yoke style harness inspired (nearly copied) by the Hill people gear shoulder harness that they sell with their various packs.
 
 
 Shoulder harness features:
@@ -25,7 +25,7 @@ I've used this for example with
 
 # CAD files
 
-All the pattern images are available as a .svg vector file here: [shoulder harness, yolk.svg](shoulder%20harness,%20yolk.svg). The pattern is drawn to scale.
+All the pattern images are available as a .svg vector file here: [shoulder harness, yoke.svg](shoulder%20harness,%20yoke.svg). The pattern is drawn to scale.
 
 
 # Materials
@@ -47,7 +47,7 @@ See **Acessories** section for additional modules you may want to include with t
 
 # Drafting the pattern
 
-It's important to note, that the shape of the yolk is provided by the cut pattern of the bottom- and top fabric. The specific pattern presented here is one I've drafted for myself to fit my body. You may want to consider drafting you own shape, and adapting the pattern. Unlike some simpler shoulder straps, yolks are not a one-size-fits-all solution in my experience. 
+It's important to note, that the shape of the yoke is provided by the cut pattern of the bottom- and top fabric. The specific pattern presented here is one I've drafted for myself to fit my body. You may want to consider drafting you own shape, and adapting the pattern. Unlike some simpler shoulder straps, yokes are not a one-size-fits-all solution in my experience. 
 
 
 
