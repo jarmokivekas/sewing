@@ -1,10 +1,10 @@
 ---
 title: karttatasku
 images:
-- image: "/uploads/beer/2.jpg"
-- image: "/uploads/beer/3.jpg"
-- image: "/uploads/beer/4.jpg"
-- image: "/uploads/beer/1.jpg"
+  - url: "/uploads/beer/2.jpg"
+    caption: "this is two"
+  - url: "/uploads/beer/3.jpg"
+    caption: "the third picture"
 variant_type: size
 variants:
 - name: half-a-pint
@@ -23,5 +23,6 @@ hell
 The product has the following images
 
 {% for image in page.images %}
-- the url to the image is: {{ image }}
+- the url to the image is: {{ image.url }}
+- the caption is {{ image.caption }}
 {% endfor %}
