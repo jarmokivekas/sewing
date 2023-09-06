@@ -1,10 +1,13 @@
 ---
 title: karttatasku
 images:
-  - url: "/uploads/beer/2.jpg"
+  - url: "/uploads/img/2.jpg"
     caption: "this is two"
-  - url: "/uploads/beer/3.jpg"
+  - url: "/uploads/img/3.jpg"
     caption: "the third picture"
+product_description: """
+
+"""
 variant_type: size
 variants:
 - name: half-a-pint
@@ -17,7 +20,7 @@ order_number: 2
 ---
 
 
-hell
+
 
 
 The product has the following images
