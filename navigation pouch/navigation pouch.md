@@ -1,5 +1,5 @@
 ---
-layout: product_page
+layout: page
 title: navigation pouch
 images:
   - url: "/uploads/img/2.jpg"
@@ -18,7 +18,7 @@ variants:
 order_number: 2
 ---
 
-
+**this is the frist line of `content` in navigation_puch.md
 
 - pals attachment
 

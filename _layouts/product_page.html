@@ -3,33 +3,10 @@ layout: default
 ---
 
 
-
-This is a product page, this text is tfom the product_page layout. This inherits from layout:default
-
-
-
-These data are from the product page yaml. (not the layout, the actual page). The product has the following images
-
-{% for image in page.images %}
-- the url to the image is: {{ image.url }}
-- the caption is {{ image.caption }}
-{% endfor %}
-
-
-
-Use this, but check for page.layout or something else that defines it as a product page
-```
-{% for page in site.pages %}
-  {% if page.categories contains 'fruit' %}
-    <div class="item">
-      <h3>{{page.title}}</h3>
-      <p>{{page.description}}</p>
-    </div>
-  {% endif %}
-{% endfor %}
-```
-
+<p> 
 
 Now for the actual bodycopy of the product page:
+</p>
+
 
 {{ content }}
