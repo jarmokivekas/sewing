@@ -14,23 +14,33 @@ Sewing designs, patterns, and resources
 
 
 [shoulder strap, 50mm webbing, with quick release](shoulder%20strap,%2050mm%20%20webbing,%20with%20quick%20release/shoulder%20strap,%2050mm%20webbing,%20with%20quick%20release)
+
 - Simple webbing-only shoulder straps for modular packs.
 - Originally designed for  [backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large)
 - I've also used them for carrying large Ortelieb drybags, among other things.
 - quick-release adjustment buckles for getting the pack of quickly. (Personally used for skating on sea ice)
 
+![complete](shoulder%20strap,%2050mm%20%20webbing,%20with%20quick%20release/complete.png)
+
 ---
 
-[shoulder harness, yoke](shoulder%20harness,%20yoke)
+[shoulder harness, yoke](shoulder%20harness,%20yoke/shoulder%20harness,%20yoke)
+
 - The [shoulder harness, yoke](shoulder%20harness,%20yoke/shoulder%20harness,%20yoke) is inspired by a piece of equipment byHill People Gear. It's a single-piece shoulder harness that wraps around the back of the neck, spreading the carried weight over a large surface area. Features a light 5mm padding, Two types of backpack attachment points, buckles for load lifters, and PALS-style webbing at the front for attaching other modules or a sternum strap.  
 
-
-![yoke size reference](yoke%20size%20reference.jpeg)
+![export_final](shoulder%20harness,%20yoke/export_final.svg)
 
 ---
 
+[sternum strap, 20mm, modular](sternum%20strap,%2020mm,%20modular/sternum%20strap,%2020mm,%20modular)
 
-[[belt, modular, pulk harness]]
+Simple shoulder sternum strap module for backpack. Attaches to the shoulder straps with tri-glide buckles.
+
+![final](sternum%20strap,%2020mm,%20modular/final.svg)
+
+---
+
+Belt, modular, pulk harness
 
 - Originally cloned from a Jääkäri XL rucksack hip belt.
 - I've found the curve on the belt to be unnecessary, and makes the PALS webbing not work as well as it could
@@ -38,12 +48,10 @@ Sewing designs, patterns, and resources
     - that would allow full use of PALS which is continuous along the intire length of the bels
     - 
 
+![belt, modular, pulk harness](belt,%20modular,%20pulk%20harness.svg)
 
 # Packs and bags
 
-- [[bikepack, handlebar]]
-
----
 
 - [[bikepack, frame bag sling]]
 	- very fun concept of a single-shoulder sling bag that converts into a bicycle frame bag.
@@ -61,6 +69,8 @@ Sewing designs, patterns, and resources
 	- two zippered inside pockets in the posterior panel
 	- compatible with [shoulder harness, yoke](shoulder%20harness,%20yoke.md)
 
+![backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large.svg)
+
 ---
 
 - [[rucksack, external frame]]
@@ -71,27 +81,27 @@ Sewing designs, patterns, and resources
 # Organiziers and trinket bags
 
 
-## chest kit bag
+[kit bag](kit%20bag/kit%20bag.md)
 
+![chest pack](kit%20bag/chest%20pack.svg)
 
-
-The [kit bag](kit%20bag/kit%20bag) is a pack that's meant to be carried high in the chest, attached to the front of a backpack houlder harness.
+The is a pack that's meant to be carried high in the chest, attached to the front of a backpack houlder harness.
 
 - Lots of elastic webbing and multiple compartments to keep small items organized
 - main body large enough to carry hold bigger items
 	- binoculars, books, water bottle
-
-![](kit%20bag/DSC01863.JPG)
 ---
 
-[field note kit, small.svg](field%20note%20kit,%20small.svg)]
+[field note kit, small](field%20note%20kit,%20small.svg)
 
-- pattern not drawn
+
 - small zipper pouch for small field notebook, some pens. Also fits a smartphone
 - decent amount of organization possibility
-- webbing loop for hanging with a carabiner
+- webbing loop for hanging with a carbine
 
 
+
+![field note kit, small.svg](field%20note%20kit,%20small.svg)
 
 
 # [PALS pouches](PALS%20pouches)
