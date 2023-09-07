@@ -1,6 +1,22 @@
 ---
 layout: page
 title: navigation pouch
+
+---
+
+**this is the frist line of `content` in navigation_puch.md
+
+- pals attachment
+
+- chemlight attachment loop underneath lid
+    - piece of elastic webbing that mounts a chemlight horisontally across the top of the pouch.
+    - when the pouch is closed, the light is hidden.
+    - when the pouch is open, it illuminates the contents of the pouch
+    - e.g for map reading
+
+this page should have this frontmatter:
+
+```
 images:
   - url: "/uploads/img/2.jpg"
     caption: "this is two"
@@ -16,16 +32,4 @@ variants:
   price: 4.25
   sku: beerpint
 order_number: 2
----
-
-**this is the frist line of `content` in navigation_puch.md
-
-- pals attachment
-
-- chemlight attachment loop underneath lid
-    - piece of elastic webbing that mounts a chemlight horisontally across the top of the pouch.
-    - when the pouch is closed, the light is hidden.
-    - when the pouch is open, it illuminates the contents of the pouch
-    - e.g for map reading
-
-
+```
