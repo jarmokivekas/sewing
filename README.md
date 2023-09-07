@@ -1,6 +1,3 @@
----
-layout: home
----
 
 Sewing designs, patterns, and resources
 
@@ -80,16 +77,16 @@ Belt, modular, pulk harness
 
 # Organiziers and trinket bags
 
-
 [kit bag](kit%20bag/kit%20bag.md)
 
-![chest pack](kit%20bag/chest%20pack.svg)
 
 The is a pack that's meant to be carried high in the chest, attached to the front of a backpack houlder harness.
 
 - Lots of elastic webbing and multiple compartments to keep small items organized
 - main body large enough to carry hold bigger items
 	- binoculars, books, water bottle
+![chest pack](kit%20bag/chest%20pack.svg)
+
 ---
 
 [field note kit, small](field%20note%20kit,%20small.svg)
@@ -104,15 +101,51 @@ The is a pack that's meant to be carried high in the chest, attached to the fron
 ![field note kit, small.svg](field%20note%20kit,%20small.svg)
 
 
-# [PALS pouches](PALS%20pouches)
-
-All the PALS pouches documented so far at [PALS pouches](PALS%20pouches.md)
+# PALS pouches
 
 
 
+## pouch, horizontal, 25x16x9 mm
+
+- Nice relatively large pouch that work well for example as a side pouch on a hip belt
+- This fits for example (not all the same time):
+    - binocluars
+    - water bottle and some snacks
+    - all you navigation equipment
+    - a rain jacket
+    - an uninsulated thermal cloack
+    - tarp
+    - hammock + suspension
+
+![pouch, horizontal, 25x16x9 cm](pouch%20modules/pouch,%20horizontal,%2025x16x9%20cm.svg)
+
+## pouch, lidded, 2x3
+
+- Mainly designed to fit a 1 litre water bottle.
+
+![pouch, lidded, 2x3](pouch%20modules/pouch,%20lidded,%202x3.svg)
+## pouch, small, 0.9L, zipper
+
+- a cute little poke ball of a pouch
+- good for stuffing snack wrappers and other trash while on the move
+
+![pouch, small, 0.9L, zipper](pouch%20modules/pouch,%20small,%200.9L,%20zipper.svg)
+## pouch, cute
+
+Very, very small pouch made originally as a joke
+## pouch, vertical, large
+
+
+Large pouch to add increase rucksack carry capacity.
+
+- this pattern is partially incomplete. Some imensions are not correct.
+
+![pouch, vertical, large](pouch%20modules/pouch,%20vertical,%20large.svg)
 # Clothing
 
 [tube scarf](tube%20scarf)
+
+---
 
 
 [swiss army mitten.svg](mitten.svg)
@@ -132,12 +165,24 @@ All the PALS pouches documented so far at [PALS pouches](PALS%20pouches.md)
 - Basic hammock from ripstop nylon
 - goes well with a whoopie sling on one end and a ladder string on the other end. Made from amsteel.
 
+
+
 ---
 
 [thermal cloak](thermal%20cloak)
 
 
 - a blatant rip-off of the Särmä TST thermal cloak
+
+![thermal cloak](thermal%20cloak.svg)
+
+---
+
+BIvy bags
+
+Many different alternatives for bivy bags. These are meant to be sewn in a waterproof breathable fabric. 
+
+![bivy](bivy.svg)
 
 ---
 
