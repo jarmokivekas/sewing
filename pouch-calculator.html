@@ -201,48 +201,7 @@
 
 
     <script>
-update_params_to_form()
-
-function draw() {
-
-    let pouch = get_pouch_params();
-
-    anterior = fabric_rect(
-        document.querySelector("svg#anterior"),
-        0,
-        0,
-        pouch.width,
-        pouch.height,
-        pouch.corner_radius,
-        pouch.seam_allowance,
-    )
-
-
-    posterior = fabric_rect(
-        document.querySelector("svg#posterior"),
-        0,
-        0,
-        pouch.width,
-        pouch.height,
-        pouch.corner_radius,
-        pouch.seam_allowance,
-    )
-
-
-    // superior = fabric_rect(
-    //     svg,
-    //     draw_padding*2 + 3*seam_allowance + width,
-    //     draw_padding+seam_allowance,
-    //     width,
-    //     height,
-    //     corner_radius,
-    //     seam_allowance,
-    // )
-   
-    // svg.setAttribute("viewbox", "0 0 " + 2*params.get('width'))
-}
-
-//draw()
-        </script>
+        update_params_to_form()
+    </script>
 </body>
 </html>

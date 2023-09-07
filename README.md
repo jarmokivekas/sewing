@@ -1,13 +1,10 @@
 ---
-permalink: README.md
+title: Gear projects
 ---
 
-Sewing designs, patterns, and resources
 
 
-
-# Patterns & projects
-
+This site is a collection of outdoor gear sewing patterns and instructions. All the patterns are drafted by myself, although some are very heavily influenced by products already on the market. You are welcome to use or modify the patterns for your own projects. Unless otherwise stated, consider everything licensed as Creative Commons – Attribution-ShareAlike CC-BY-SA
 
 
 # Load carrying modules
