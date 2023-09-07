@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: product_page
 title: navigation pouch
 
 ---

@@ -1,4 +1,6 @@
-
+---
+layout: home
+---
 
 Sewing designs, patterns, and resources
 
@@ -11,7 +13,7 @@ Sewing designs, patterns, and resources
 # Load carrying modules
 
 
-[shoulder strap, 50mm webbing, with quick release](shoulder%20strap,%2050mm%20%20webbing,%20with%20quick%20release/shoulder%20strap,%2050mm%20webbing,%20with%20quick%20release.md)
+[shoulder strap, 50mm webbing, with quick release](shoulder%20strap,%2050mm%20%20webbing,%20with%20quick%20release/shoulder%20strap,%2050mm%20webbing,%20with%20quick%20release)
 - Simple webbing-only shoulder straps for modular packs.
 - Originally designed for  [backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large)
 - I've also used them for carrying large Ortelieb drybags, among other things.
@@ -19,8 +21,8 @@ Sewing designs, patterns, and resources
 
 ---
 
-[shoulder harness, yoke](shoulder%20harness,%20yoke.md)
-- The [shoulder harness, yoke](shoulder%20harness,%20yoke.md) is inspired by a piece of equipment byHill People Gear. It's a single-piece shoulder harness that wraps around the back of the neck, spreading the carried weight over a large surface area. Features a light 5mm padding, Two types of backpack attachment points, buckles for load lifters, and PALS-style webbing at the front for attaching other modules or a sternum strap.  
+[shoulder harness, yoke](shoulder%20harness,%20yoke)
+- The [shoulder harness, yoke](shoulder%20harness,%20yoke/shoulder%20harness,%20yoke) is inspired by a piece of equipment byHill People Gear. It's a single-piece shoulder harness that wraps around the back of the neck, spreading the carried weight over a large surface area. Features a light 5mm padding, Two types of backpack attachment points, buckles for load lifters, and PALS-style webbing at the front for attaching other modules or a sternum strap.  
 
 
 ![yoke size reference](yoke%20size%20reference.jpeg)
