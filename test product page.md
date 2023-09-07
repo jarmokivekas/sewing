@@ -29,3 +29,17 @@ The product has the following images
 - the url to the image is: {{ image.url }}
 - the caption is {{ image.caption }}
 {% endfor %}
+
+
+
+Use this, but check for page.layout or something else that defines it as a product page
+```
+{% for page in site.pages %}
+  {% if page.categories contains 'fruit' %}
+    <div class="item">
+      <h3>{{page.title}}</h3>
+      <p>{{page.description}}</p>
+    </div>
+  {% endif %}
+{% endfor %}
+```
