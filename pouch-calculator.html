@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{
+            font-family: monospace;
+        }
+        form{
+            display: block;
+            float: left;
+            width: 20%
+        }
+        svg {
+            display: block;
+            float: left;
+            width: 80%
+        }
+    </style>
+</head>
+<body>
+    <form action="">
+
+        <fieldset>
+            <legend>Pouch features</legend>
+            <label for="closure_type">closure_type</label><br>
+            <input type="text" name="closure_type"  id="closure_type" list="closure_type_list">
+            <datalist id="closure_type_list">
+            <option value="zipper, clamshell">
+            <option value="zipper, half">
+            <option value="lid & buckle">
+            </datalist>
+
+        </fieldset>
+        <fieldset>
+            <legend>Pouch dimensions</legend>
+            <label for="width">width</label><br>    <input type="number" name="width"  id="width"> mm<br />
+            <label for="height">height</label><br>  <input type="number" name="height" id="height"> mm<br />
+            <label for="depth">depth</label><br>    <input type="number" name="depth"  id="depth"> mm<br />
+            <label for="corner_radius">corner_radius</label><br><input type="number" name="corner_radius" id="corner_radius"> mm<br />
+            <label for="seam_allowance">seam_allowance</label><br><input type="number" name="seam_allowance" id="seam_allowance"> mm<br />
+
+        </fieldset>
+        <input type="submit">
+    </form>
+
+
+    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="800" viewBox="0 0 100 100"> -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+
+        <rect width="100%" height="100%" fill="#eee" />
+        </svg>
+<script>
+
+function update_url_params() {
+    let params = (new URL(document.location)).searchParams;
+    console.log(params)
+    for (const [key, value] of params.entries()) {
+        document.getElementById(key).value = value;
+    }
+}
+
+
+update_url_params()
+
+// draw a rectangular panel of fabric + the seam allowance. May have rounded corners
+// x,y,width,height refer to the fabric without the seam allowance.
+function fabric_rect(svg,x,y,width,height,corner_radius,allowance) {
+
+    let allowance_rect =  document.createElementNS("http://www.w3.org/2000/svg", "rect");
+    allowance_rect.setAttribute("x", x-allowance);
+    allowance_rect.setAttribute("y", y-allowance);
+    allowance_rect.setAttribute("width", width+2*allowance);
+    allowance_rect.setAttribute("height", height+2*allowance);
+    allowance_rect.setAttribute("rx", corner_radius+allowance),
+    allowance_rect.setAttribute("ry", corner_radius+allowance),
+    allowance_rect.setAttribute("fill", "#998");
+    allowance_rect.setAttribute("stroke", "black");
+    allowance_rect.setAttribute("stroke-width", 0.1)
+
+    svg.appendChild(allowance_rect)
+   
+
+    let main_rect = document.createElementNS("http://www.w3.org/2000/svg", "rect"); 
+    main_rect.setAttribute("x", x);
+    main_rect.setAttribute("y", y);
+    main_rect.setAttribute("width", width);
+    main_rect.setAttribute("height", height);
+    main_rect.setAttribute("rx", corner_radius),
+    main_rect.setAttribute("ry", corner_radius),
+    main_rect.setAttribute("fill", "#665");
+    main_rect.setAttribute("stroke", "black");
+    main_rect.setAttribute("stroke-width", 0.1)
+
+    svg.appendChild(main_rect)
+
+}
+
+function draw() {
+
+    let params = (new URL(document.location)).searchParams;
+    console.log(params)
+    let draw_padding = 10
+
+    // targeting the svg itself
+    const svg = document.querySelector("svg");
+
+    let width = Number(params.get('width'));
+    let height = Number(params.get('height'));
+    let corner_radius = Number(params.get('corner_radius'));
+    let seam_allowance = Number(params.get('seam_allowance'));
+
+
+
+    anterior = fabric_rect(
+        svg,
+        draw_padding+seam_allowance,
+        draw_padding+seam_allowance,
+        width,
+        height,
+        corner_radius,
+        seam_allowance,
+    )
+
+    exterior = fabric_rect(
+        svg,
+        draw_padding*2 + 3*seam_allowance + width,
+        draw_padding+seam_allowance,
+        width,
+        height,
+        corner_radius,
+        seam_allowance,
+    )
+
+
+   
+    // svg.setAttribute("viewbox", "0 0 " + 2*params.get('width'))
+}
+
+draw()
+        </script>
+</body>
+</html>
