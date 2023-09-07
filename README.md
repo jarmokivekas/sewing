@@ -1,3 +1,6 @@
+---
+permalink: README.md
+---
 
 Sewing designs, patterns, and resources
 
