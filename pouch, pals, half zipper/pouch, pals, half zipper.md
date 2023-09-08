@@ -1,6 +1,5 @@
 ---
 title: pouch, pals, half zipper
-permalink: /patterns/pouch, pals, half zipper
 ---
 
 
