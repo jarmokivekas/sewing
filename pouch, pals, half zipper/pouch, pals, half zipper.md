@@ -11,5 +11,5 @@ The pattern below is for a 25x16x9 cm pouch. The pouch easily fits for example (
     - a fairly large tarp
     - hammock + suspension
 
-![pouch, horizontal, 25x16x9 cm](pouch,%20pals,%20half%20zipper/pouch,%20horizontal,%2025x16x9%20cm.svg)
 
+![pouch, horizontal, 25x16x9 cm](pouch,%20horizontal,%2025x16x9%20cm.svg)
