@@ -172,12 +172,12 @@ Large pouch to add increase rucksack carry capacity.
 
 ---
 
-[thermal cloak](thermal%20cloak)
+[thermal cloak](thermal%20cloak/thermal%20cloak.md)
 
 
 - a blatant rip-off of the Särmä TST thermal cloak
 
-![thermal cloak](thermal%20cloak.svg)
+![thermal cloak](thermal%20cloak/thermal%20cloak.svg)
 
 ---
 
