@@ -64,7 +64,7 @@ Belt, modular, pulk harness
 	- water bladder pocket & passthrough
 	- fully opening panel loading zipper
 	- two zippered inside pockets in the posterior panel
-	- compatible with [shoulder harness, yoke](shoulder%20harness,%20yoke.md)
+	- compatible with [shoulder harness, yoke](shoulder harness, yoke/shoulder harness, yoke)
 
 ![backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large.svg)
 
@@ -77,7 +77,7 @@ Belt, modular, pulk harness
 
 # Organiziers and trinket bags
 
-[kit bag](kit%20bag/kit%20bag.md)
+[kit bag](kit%20bag/kit%20bag)
 
 
 The is a pack that's meant to be carried high in the chest, attached to the front of a backpack houlder harness.
@@ -85,6 +85,8 @@ The is a pack that's meant to be carried high in the chest, attached to the fron
 - Lots of elastic webbing and multiple compartments to keep small items organized
 - main body large enough to carry hold bigger items
 	- binoculars, books, water bottle
+
+
 ![chest pack](kit%20bag/chest%20pack.svg)
 
 ---
