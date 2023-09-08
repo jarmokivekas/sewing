@@ -1,5 +1,6 @@
 ---
 title: Gear projects
+permalink: index.html
 ---
 
 
@@ -10,7 +11,7 @@ This site is a collection of outdoor gear sewing patterns and instructions. All 
 # Load carrying modules
 
 
-[shoulder strap, 50mm webbing, with quick release](shoulder%20strap,%2050mm%20%20webbing,%20with%20quick%20release/shoulder%20strap,%2050mm%20webbing,%20with%20quick%20release)
+[shoulder strap, 50mm webbing, with quick release](shoulder%20strap,%2050mm%20%20webbing,%20with%20quick%20release/shoulder%20strap,%2050mm%20webbing,%20with%20quick%20release.md)
 
 - Simple webbing-only shoulder straps for modular packs.
 - Originally designed for  [backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large)
