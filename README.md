@@ -11,7 +11,7 @@ This site is a collection of outdoor gear sewing patterns and instructions. All 
 # Load carrying modules
 
 
-[shoulder strap, 50mm webbing, with quick release](shoulder%20strap,%2050mm%20%20webbing,%20with%20quick%20release/shoulder%20strap,%2050mm%20webbing,%20with%20quick%20release.md)
+[shoulder strap, 50mm webbing, with quick release](shoulder%20strap,%2050mm%20%20webbing,%20with%20quick%20release/shoulder%20strap,%2050mm%20webbing,%20with%20quick%20release)
 
 - Simple webbing-only shoulder straps for modular packs.
 - Originally designed for  [backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large)
@@ -107,20 +107,19 @@ The is a pack that's meant to be carried high in the chest, attached to the fron
 # PALS pouches
 
 
-
-## pouch, horizontal, 25x16x9 mm
+## [pouch, horizontal, 25x16x9 mm](pouch,%20pals,%20half%20zipper/pouch,%20pals,%20half%20zipper)
 
 - Nice relatively large pouch that work well for example as a side pouch on a hip belt
 - This fits for example (not all the same time):
     - binocluars
     - water bottle and some snacks
     - all you navigation equipment
-    - a rain jacket
+    - a rain jacket and pants
     - an uninsulated thermal cloack
     - tarp
     - hammock + suspension
 
-![pouch, horizontal, 25x16x9 cm](pouch%20modules/pouch,%20horizontal,%2025x16x9%20cm.svg)
+![pouch, horizontal, 25x16x9 cm](pouch,%20pals,%20half%20zipper/pouch,%20horizontal,%2025x16x9%20cm.svg)
 
 ## pouch, lidded, 2x3
 
@@ -172,7 +171,7 @@ Large pouch to add increase rucksack carry capacity.
 
 ---
 
-[thermal cloak](thermal%20cloak/thermal%20cloak.md)
+[thermal cloak](thermal%20cloak/thermal%20cloak)
 
 
 - a blatant rip-off of the Särmä TST thermal cloak
