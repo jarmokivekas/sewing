@@ -5,6 +5,8 @@ title: Soulder harness, yoke
 This is a modular yoke style harness inspired (nearly copied) by the Hill people gear shoulder harness that they sell with their various packs.
 
 
+![yoke on daypack](yoke%20on%20daypack.jpg)
+
 Shoulder harness features:
 
 - both shoulder straps are part of the same piece that wraps around the neck

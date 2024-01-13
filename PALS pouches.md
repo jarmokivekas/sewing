@@ -14,7 +14,7 @@
     - tarp
     - hammock + suspension
 
-
+![](pouch%20modules/pouch,%20horizontal,%2025x16x9%20cm.svg)
 ## pouch, lidded, 2x3
 
 - Mainly designed to fit a 1 litre water bottle.
