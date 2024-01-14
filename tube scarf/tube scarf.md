@@ -63,4 +63,4 @@ Make a small bar tack at both ends of the seam, or copious amounts of back tics.
 
 # Accessories
 
-Make a matching [beanie](../beanie/beanie.md) with the same fabric.
+Make a matching [beanie](../beanie/beanie) with the same fabric.

@@ -145,12 +145,11 @@ Large pouch to add increase rucksack carry capacity.
 ![pouch, vertical, large](pouch%20modules/pouch,%20vertical,%20large.svg)
 # Clothing
 
-[tube scarf](tube%20scarf/tube%20scarf.md)
+[tube scarf](tube%20scarf/tube%20scarf)
 
 Simple one-seam Buff -style tube scarf
 
-[[beanie/beanie]]
-
+[beanie](beanie/beanie)
 
 ---
 
