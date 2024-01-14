@@ -1,4 +1,4 @@
-
+ 
 # Overview
 
 # Materials
@@ -23,7 +23,26 @@ sew the darts in this order:
 - inferior anterior dart
 - Now turn the fabric right-side-out
 - finish the hat by sewing the posterior left and right darts in one seam. This seam is done with wrong sides facing eachother. So the seam allowance will be left visible.
-- 
+
+![](beanie_g538.svg)
+Cut the darts
+
+- 60 degree points on the superior end
+- 90 degree points on the inferior end
+![](beanie_g539.svg)
+
+ ![](beanie_g540.svg)
+
+
+Fold over the center along and sew 
+![](beanie_g541.svg)
+
+Fold the fabric outrside-out and finish by sewing the two remaining darts. Sew both in one seam.
+![](beanie_g542.svg)
+The beanie is now ready. Fold the interior end inside the exterior end, and then fold the brim of the hat up to a suitable height.
+![](beanie_g543.svg)
 # Accessories 
+
+
 
 Use the same materials to make a [tube scarf](tube%20scarf/tube%20scarf.md) or as the lining in a pair of  [mittens](mitten.svg)

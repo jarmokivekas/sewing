@@ -149,7 +149,7 @@ Large pouch to add increase rucksack carry capacity.
 
 Simple one-seam Buff -style tube scarf
 
-[[beanie]]
+[[beanie/beanie]]
 
 
 ---
