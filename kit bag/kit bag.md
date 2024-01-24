@@ -14,7 +14,7 @@ Materials:
 
 - Main exterior fabric: 1000D PU coated Foxdura
     - https://www.shelbyoutdoor.com/product_info.php?products_id=7668
-- Carry harness and [PALS](../techiques/PALS.md) webbing: Savotta PES webbing, green
+- Carry harness and [Sewing PALS](../techiques/Sewing%20PALS.md) webbing: Savotta PES webbing, green
 - buckles: ITW NEXUS 25 mm side release buckles
     - https://www.varusteleka.fi/fi/product/itw-classic-sr-pistosolki-musta/31888
     - https://www.varusteleka.fi/fi/product/itw-classic-sr-pistosolki-musta/31888

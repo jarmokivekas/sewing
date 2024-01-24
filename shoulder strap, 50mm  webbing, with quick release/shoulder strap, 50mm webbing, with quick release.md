@@ -53,7 +53,7 @@ Start by assembling the main *load carrying webbing* and *padding webbing*. Set 
 2. attach the load bearing webbing to the padding
 	- make a bar tack 1 inch away from the folded edge of the padding
 ![](step1.png)
-3. Sew in all but one of the [PALS](../techiques/PALS.md)  bar tacks
+3. Sew in all but one of the [Sewing PALS](../techiques/Sewing%20PALS.md)  bar tacks
 	-  to get uniform tension, start form the right end, and work your way toward the left one PALS loop at a time
 	-  leave space in the left end to secure the adjustment buckle
 	- PALS bar tacks are spaced 1.5 inches apart
