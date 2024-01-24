@@ -1,6 +1,4 @@
  
-# Overview
-
 # Materials
 
 | Material | quantity |  |
