@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="821.97443mm"
+   height="381.37521mm"
+   viewBox="0 0 821.97443 381.37521"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="field note kit, on lanyard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.28073033"
+     inkscape:cx="1189.7539"
+     inkscape:cy="1383.8904"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="2"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect29736"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Monospace 28"
+       precision="0"
+       fix_overlaps="0"
+       position="20"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.5"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist="3"
+       active_projection="false"
+       whitelist="true"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
+    <marker
+       id="ArrowDIN-start"
+       class="path29732 path-effect29736 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-start"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true">
+      <path
+         d="M -8,0 8,-2.11 v 4.22 z"
+         class="path29732 path-effect29736 measure-arrow"
+         id="ArrowDIN-start_path"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDIN-end"
+       class="path29732 path-effect29736 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-end"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 8,0 -8,2.11 v -4.22 z"
+         class="path29732 path-effect29736 measure-arrow"
+         id="ArrowDIN-end_path"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect29736-3"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Monospace 28"
+       precision="0"
+       fix_overlaps="0"
+       position="20"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.5"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist="3"
+       active_projection="false"
+       whitelist="true"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
+    <marker
+       id="ArrowDIN-start-6"
+       class="path29732 path-effect29736 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-start"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true">
+      <path
+         d="M -8,0 8,-2.11 v 4.22 z"
+         class="path29732 path-effect29736 measure-arrow"
+         id="ArrowDIN-start_path-7"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDIN-end-5"
+       class="path29732 path-effect29736 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-end"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 8,0 -8,2.11 v -4.22 z"
+         class="path29732 path-effect29736 measure-arrow"
+         id="ArrowDIN-end_path-3"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect29736-5"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Monospace 28"
+       precision="0"
+       fix_overlaps="0"
+       position="20"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.5"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist="3"
+       active_projection="false"
+       whitelist="true"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
+    <marker
+       id="ArrowDIN-start-62"
+       class="path29732 path-effect29736 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-start"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true">
+      <path
+         d="M -8,0 8,-2.11 v 4.22 z"
+         class="path29732 path-effect29736 measure-arrow"
+         id="ArrowDIN-start_path-9"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDIN-end-1"
+       class="path29732 path-effect29736 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-end"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 8,0 -8,2.11 v -4.22 z"
+         class="path29732 path-effect29736 measure-arrow"
+         id="ArrowDIN-end_path-2"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect29736-7"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Monospace 28"
+       precision="0"
+       fix_overlaps="0"
+       position="20"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.5"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist="3"
+       active_projection="false"
+       whitelist="true"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
+    <marker
+       id="ArrowDIN-start-0"
+       class="path29732 path-effect29736 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-start"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true">
+      <path
+         d="M -8,0 8,-2.11 v 4.22 z"
+         class="path29732 path-effect29736 measure-arrow"
+         id="ArrowDIN-start_path-93"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDIN-end-6"
+       class="path29732 path-effect29736 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-end"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 8,0 -8,2.11 v -4.22 z"
+         class="path29732 path-effect29736 measure-arrow"
+         id="ArrowDIN-end_path-0"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(184.56388,-15.030295)">
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect1"
+       width="120"
+       height="170"
+       x="-143.14294"
+       y="65.280296" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect2"
+       width="120"
+       height="140"
+       x="-143.14294"
+       y="235.2803" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Monospace;-inkscape-font-specification:Monospace;white-space:pre;inline-size:89.6506;fill:#1a1a1a;stroke-width:0.499999"
+       x="19.129524"
+       y="65.736496"
+       id="text1-6"
+       transform="translate(-132.35086,80.869924)"><tspan
+         x="19.129524"
+         y="65.736496"
+         id="tspan72414"><tspan
+           style="stroke-width:0.5"
+           id="tspan72412">Posterior face</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Monospace;-inkscape-font-specification:Monospace;white-space:pre;inline-size:89.6506;fill:#1a1a1a;stroke-width:0.499999"
+       x="19.129524"
+       y="65.736496"
+       id="text1-6-1"
+       transform="translate(318.09606,33.198917)" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Monospace;-inkscape-font-specification:Monospace;white-space:pre;inline-size:89.6506;fill:#1a1a1a;stroke-width:0.499999"
+       x="19.129524"
+       y="65.736496"
+       id="text1-6-2"
+       transform="translate(-133.40211,165.9455)"><tspan
+         x="19.129524"
+         y="65.736496"
+         id="tspan72416">Inferior fold</tspan></text>
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect3"
+       width="120"
+       height="50"
+       x="-143.14294"
+       y="15.280295" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect4"
+       width="120"
+       height="20"
+       x="-143.14294"
+       y="375.2803" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect1694"
+       width="120"
+       height="170"
+       x="469.98438"
+       y="65.280334" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect1878"
+       width="120"
+       height="140"
+       x="469.98438"
+       y="95.280319" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 472.10103,97.926157 H 587.31237"
+       id="path41922"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 472.6302,67.396997 V 233.96375"
+       id="path3772"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 587.3385,67.396997 V 233.96375"
+       id="path4052"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 472.10103,67.763637 H 587.31237"
+       id="path4134"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:none;stroke-width:0.499999"
+       id="path46"
+       d="m 296.38509,111.53131 c 0.13293,-0.1299 0.25381,-0.2734 0.39875,-0.3897 1.0957,-0.8791 2.38649,-1.5368 3.60905,-2.2125 1.43719,-0.7943 1.95443,-1.0602 3.43527,-1.8459 6.2161,-3.1497 12.98681,-4.9499 19.65976,-6.8409 0,0 -2.20374,-1.508091 -2.20374,-1.508091 v 0 c -8.99742,2.659491 -0.45958,0.1491 -9.85083,2.869391 -3.54688,1.0274 -7.15159,1.9706 -10.49097,3.5865 -1.70561,0.8602 -3.39315,1.7509 -5.08677,2.6343 -0.83379,0.4349 -1.55546,0.7756 -2.32654,1.2896 -0.18984,0.1265 -0.3601,0.2802 -0.54015,0.4204 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Monospace;-inkscape-font-specification:Monospace;white-space:pre;inline-size:89.6506;fill:#1a1a1a;stroke-width:0.499999"
+       x="19.129524"
+       y="65.736496"
+       id="text1"><tspan
+         x="19.129524"
+         y="65.736496"
+         id="tspan72420"><tspan
+           style="stroke-width:0.5"
+           id="tspan72418">Fold over wrong sides </tspan></tspan><tspan
+         x="19.129524"
+         y="74.555948"
+         id="tspan72424"><tspan
+           style="stroke-width:0.5"
+           id="tspan72422">facing. Stitch along </tspan></tspan><tspan
+         x="19.129524"
+         y="83.375398"
+         id="tspan72428"><tspan
+           style="stroke-width:0.5"
+           id="tspan72426">fold to enforce the </tspan></tspan><tspan
+         x="19.129524"
+         y="92.194849"
+         id="tspan72432"><tspan
+           style="stroke-width:0.5"
+           id="tspan72430">crease</tspan></tspan></text>
+    <g
+       id="g20238"
+       transform="matrix(0.19189315,-0.98141582,-0.98141582,-0.19189315,538.9178,-715.14792)">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
+         id="path274"
+         d="m -852.98131,385.1725 c -1.2146,-2.2394 -2.9404,-4.1886 -5.0515,-5.6292 -0.7271,-0.4961 -1.52,-0.8883 -2.28,-1.3322 -0.9141,-0.3696 -1.8095,-0.789 -2.7423,-1.1084 -3.6962,-1.2649 -7.9306,-2.0375 -11.8447,-1.9896 -0.859,0.011 -1.71385,0.1201 -2.57065,0.1801 -3.0238,0.381 -5.887,1.4166 -8.5804,2.8147 -0.52048,0.2701 -2.03577,1.1647 -1.53516,0.8594 0.63346,-0.3866 1.28925,-0.7351 1.93395,-1.1026 -0.89004,0.5329 -1.75311,1.1065 -2.60639,1.6957 0,0 -3.56436,1.4037 -3.56436,1.4037 v 0 c 0.87273,-0.617 1.76249,-1.2057 2.67843,-1.7577 4.81502,-2.7762 8.87343,-5.3795 14.52448,-6.0105 0.855,-0.043 1.709,-0.1339 2.565,-0.1281 3.8805,0.026 8.2107,0.8634 11.8771,2.1074 0.957,0.3247 1.8785,0.7456 2.8178,1.1184 0.7836,0.449 1.5969,0.8494 2.3508,1.3465 2.1955,1.4478 4.0045,3.3745 5.4328,5.5687 z" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
+         id="path275"
+         d="m -895.12822,382.5497 c 1.08725,-1.2562 2.16576,-2.5191 3.26783,-3.7626 0,0 3.49095,-1.4701 3.49095,-1.4701 v 0 c -1.07605,1.2065 -2.12504,2.4345 -3.1387,3.6939 z" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
+         id="path276"
+         d="m -894.96294,381.8353 c 1.22902,-1.3028 1.67159,-3.0866 2.27383,-4.7238 0.43598,-1.101 0.77892,-2.2286 1.04368,-3.3811 0,0 3.47644,-1.6741 3.47644,-1.6741 v 0 c -0.26856,1.1772 -0.60439,2.3289 -1.0681,3.4468 -0.6055,1.6496 -1.04132,3.3848 -2.06788,4.8418 z" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
+         id="path277"
+         d="m -892.00815,380.8185 c 0.35682,-0.081 0.68291,-0.2521 1.04701,-0.3111 0.64037,-0.1032 1.6202,-0.1172 2.20985,-0.1424 0.55137,-0.024 1.10267,-0.047 1.65404,-0.071 2.63509,-0.1064 5.26939,-0.24 7.90619,-0.294 1.0834,-0.032 2.1483,0.1559 3.19925,0.394 0,0 -3.08615,2.1362 -3.08615,2.1362 v 0 c -1.0128,-0.2415 -2.0386,-0.399 -3.0847,-0.3669 -2.5567,-0.01 -5.11524,-0.019 -7.66847,0.1423 -1.78279,0.1368 -3.63284,0.195 -5.28204,0.9628 z" />
+      <circle
+         id="path10"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="-876.96393"
+         cy="371.03885"
+         r="0.1811603" />
+    </g>
+    <g
+       id="g9191"
+       transform="rotate(78.936713,-432.69117,905.83088)">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
+         id="path9181"
+         d="m -852.98131,385.1725 c -1.2146,-2.2394 -2.9404,-4.1886 -5.0515,-5.6292 -0.7271,-0.4961 -1.52,-0.8883 -2.28,-1.3322 -0.9141,-0.3696 -1.8095,-0.789 -2.7423,-1.1084 -3.6962,-1.2649 -7.9306,-2.0375 -11.8447,-1.9896 -0.859,0.011 -1.71385,0.1201 -2.57065,0.1801 -3.0238,0.381 -5.887,1.4166 -8.5804,2.8147 -0.52048,0.2701 -2.03577,1.1647 -1.53516,0.8594 0.63346,-0.3866 1.28925,-0.7351 1.93395,-1.1026 -0.89004,0.5329 -1.75311,1.1065 -2.60639,1.6957 0,0 -3.56436,1.4037 -3.56436,1.4037 v 0 c 0.87273,-0.617 1.76249,-1.2057 2.67843,-1.7577 4.81502,-2.7762 8.87343,-5.3795 14.52448,-6.0105 0.855,-0.043 1.709,-0.1339 2.565,-0.1281 3.8805,0.026 8.2107,0.8634 11.8771,2.1074 0.957,0.3247 1.8785,0.7456 2.8178,1.1184 0.7836,0.449 1.5969,0.8494 2.3508,1.3465 2.1955,1.4478 4.0045,3.3745 5.4328,5.5687 z" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
+         id="path9183"
+         d="m -895.12822,382.5497 c 1.08725,-1.2562 2.16576,-2.5191 3.26783,-3.7626 0,0 3.49095,-1.4701 3.49095,-1.4701 v 0 c -1.07605,1.2065 -2.12504,2.4345 -3.1387,3.6939 z" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
+         id="path9185"
+         d="m -894.96294,381.8353 c 1.22902,-1.3028 1.67159,-3.0866 2.27383,-4.7238 0.43598,-1.101 0.77892,-2.2286 1.04368,-3.3811 0,0 3.47644,-1.6741 3.47644,-1.6741 v 0 c -0.26856,1.1772 -0.60439,2.3289 -1.0681,3.4468 -0.6055,1.6496 -1.04132,3.3848 -2.06788,4.8418 z" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
+         id="path9187"
+         d="m -892.00815,380.8185 c 0.35682,-0.081 0.68291,-0.2521 1.04701,-0.3111 0.64037,-0.1032 1.6202,-0.1172 2.20985,-0.1424 0.55137,-0.024 1.10267,-0.047 1.65404,-0.071 2.63509,-0.1064 5.26939,-0.24 7.90619,-0.294 1.0834,-0.032 2.1483,0.1559 3.19925,0.394 0,0 -3.08615,2.1362 -3.08615,2.1362 v 0 c -1.0128,-0.2415 -2.0386,-0.399 -3.0847,-0.3669 -2.5567,-0.01 -5.11524,-0.019 -7.66847,0.1423 -1.78279,0.1368 -3.63284,0.195 -5.28204,0.9628 z" />
+      <circle
+         id="circle9189"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="-876.96393"
+         cy="371.03885"
+         r="0.1811603" />
+    </g>
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect31941"
+       width="120"
+       height="170"
+       x="166.39101"
+       y="65.280296" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect31943"
+       width="120"
+       height="140"
+       x="166.39101"
+       y="234.98145" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text1"
+       id="use39085"
+       transform="translate(-3.7136054,301.10895)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.500248;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect71985"
+       width="120"
+       height="20.019871"
+       x="183.19324"
+       y="355.33411"
+       transform="matrix(1,0,-0.0445418,0.99900752,0,0)" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 168.50769,372.3356 H 283.71903"
+       id="path39169"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.50001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect39331"
+       width="120"
+       height="50.002041"
+       x="165.80147"
+       y="65.282959"
+       transform="matrix(1,0,0.00903061,0.99995922,0,0)" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 167.97852,67.926131 H 283.18986"
+       id="path39333"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 167.97852,112.9054 H 283.18986"
+       id="path39335"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="-113.52696"
+       y="295.84286"
+       id="text41817"><tspan
+         sodipodi:role="line"
+         id="tspan41815"
+         style="stroke-width:0.5"
+         x="-113.52696"
+         y="295.84286"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Monospace;-inkscape-font-specification:Monospace;white-space:pre;inline-size:89.6506;fill:#1a1a1a;stroke-width:0.499999"
+       x="19.129524"
+       y="65.736496"
+       id="text1-6-6"
+       transform="translate(-130.25396,245.65641)"><tspan
+         x="19.129524"
+         y="65.736496"
+         id="tspan72434">Anterior face</tspan></text>
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 168.50769,357.51884 H 283.71903"
+       id="path46974"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -178.25162,65.280296 H 637.41055"
+       id="path71987"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -184.56388,235.2803 H 631.09829"
+       id="path72240"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

@@ -1,12 +1,6 @@
 
 
-
-
-
-# Sewing PALS
-
-
-## Spacing
+# Spacing
 
 - use 1 inch / 25mm webbing
 - 1 inch distance between rows
@@ -14,7 +8,7 @@
 
 
 
-## Strong enough bar tacks
+# Strong enough bar tacks
 
 Making PALS webbing requires lost of bar tacks that should ideally be strong enough to withhold the full weight of whatever they are sewn into. PALS webbing on the outside face of backpacks is a natural place to grab when picking up a pack from the ground. Assume as some point someone grab a single loop, and lift the entire pack.
 
