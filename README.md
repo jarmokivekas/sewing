@@ -107,42 +107,86 @@ The is a pack that's meant to be carried high in the chest, attached to the fron
 # PALS pouches
 
 
-## [pouch, horizontal, 25x16x9 mm](pouch,%20pals,%20half%20zipper/pouch,%20pals,%20half%20zipper)
+# pouch, horizontal, 25x16x9 mm
 
 - Nice relatively large pouch that work well for example as a side pouch on a hip belt
 - This fits for example (not all the same time):
     - binocluars
     - water bottle and some snacks
     - all you navigation equipment
-    - a rain jacket and pants
+    - a rain jacket
     - an uninsulated thermal cloack
     - tarp
     - hammock + suspension
 
-![pouch, horizontal, 25x16x9 cm](pouch,%20pals,%20half%20zipper/pouch,%20horizontal,%2025x16x9%20cm.svg)
+![](pouch,%20horizontal,%2025x16x9%20cm.svg)
 
-## pouch, lidded, 2x3
+# pouch, multitool / ice screw
+
+A long and narrow pouch with a velcro flap enclosure. This pattern is originally for a 21 cm long ice screw, the kind climbers use to make a anchor point into a wall of ice. Those ice screw are also a brilliant tool for measuring ice thickness when moving on sea- or lake ice. This pouch is intended to be mounted in an easy-to-reach place to make measuring ice thickness more convenient, and therefore make the ice traversal safer. 
+
+
+![](pouch,%20multitool.svg)
+# pouch, lidded, 2x3
 
 - Mainly designed to fit a 1 litre water bottle.
 
-![pouch, lidded, 2x3](pouch%20modules/pouch,%20lidded,%202x3.svg)
-## pouch, small, 0.9L, zipper
+![](pouch,%20lidded,%202x3.svg)
+# pouch, 2x2, small, 0.9L, zipper
 
-- a cute little poke ball of a pouch
+- a cute little Pokemon ball of a pouch
 - good for stuffing snack wrappers and other trash while on the move
 
-![pouch, small, 0.9L, zipper](pouch%20modules/pouch,%20small,%200.9L,%20zipper.svg)
-## pouch, cute
-
-Very, very small pouch made originally as a joke
-## pouch, vertical, large
+![](pouch,%20small,%200.9L,%20zipper.svg)
+# pouch, vertical, 5x5, zipper
 
 
-Large pouch to add increase rucksack carry capacity.
+![](pouch,%20vertical,%20large.svg)
 
-- this pattern is partially incomplete. Some imensions are not correct.
 
-![pouch, vertical, large](pouch%20modules/pouch,%20vertical,%20large.svg)
+# pouch, vertical, 3x5, zipper
+![](pouch,%20vertical,%20zippered,%2014x30x9%20cm.svg)
+
+
+# pouch, horizontal, 25x16x9 mm
+
+- Nice relatively large pouch that work well for example as a side pouch on a hip belt
+- This fits for example (not all the same time):
+    - binocluars
+    - water bottle and some snacks
+    - all you navigation equipment
+    - a rain jacket
+    - an uninsulated thermal cloack
+    - tarp
+    - hammock + suspension
+
+![](pouch,%20horizontal,%2025x16x9%20cm.svg)
+
+# pouch, multitool / ice screw
+
+A long and narrow pouch with a velcro flap enclosure. This pattern is originally for a 21 cm long ice screw, the kind climbers use to make a anchor point into a wall of ice. Those ice screw are also a brilliant tool for measuring ice thickness when moving on sea- or lake ice. This pouch is intended to be mounted in an easy-to-reach place to make measuring ice thickness more convenient, and therefore make the ice traversal safer. 
+
+
+![](pouch,%20multitool.svg)
+# pouch, lidded, 2x3
+
+- Mainly designed to fit a 1 litre water bottle.
+
+![](pouch,%20lidded,%202x3.svg)
+# pouch, 2x2, small, 0.9L, zipper
+
+- a cute little Pokemon ball of a pouch
+- good for stuffing snack wrappers and other trash while on the move
+
+![](pouch,%20small,%200.9L,%20zipper.svg)
+# pouch, vertical, 5x5, zipper
+
+
+![](pouch,%20vertical,%20large.svg)
+
+
+# pouch, vertical, 3x5, zipper
+![](pouch,%20vertical,%20zippered,%2014x30x9%20cm.svg)
 # Clothing
 
 [tube scarf](tube%20scarf/tube%20scarf)
@@ -226,3 +270,5 @@ Many different alternatives for bivy bags. These are meant to be sewn in a water
 		- either side of the foot footbox
 		- one at the center of the footbox
 		- all are loops
+
+

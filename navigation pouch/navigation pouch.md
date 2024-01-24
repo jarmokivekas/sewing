@@ -6,7 +6,7 @@ title: navigation pouch
 
 **this is the frist line of `content` in navigation_puch.md
 
-- pals attachment
+- [pals](../techiques/PALS.md) attachment
 
 - chemlight attachment loop underneath lid
     - piece of elastic webbing that mounts a chemlight horisontally across the top of the pouch.
