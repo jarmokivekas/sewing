@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.94691089"
-     inkscape:cx="732.90952"
-     inkscape:cy="973.16444"
+     inkscape:zoom="0.66956711"
+     inkscape:cx="2068.5006"
+     inkscape:cy="1816.8455"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -1568,8 +1568,8 @@
        id="rect75799"
        width="25.4"
        height="25.4"
-       x="128.10895"
-       y="454.60001" />
+       x="125.40903"
+       y="444.99997" />
     <rect
        style="font-variation-settings:normal;opacity:1;vector-effect:non-scaling-stroke;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000;stop-opacity:1"
        id="rect75801"
@@ -1654,23 +1654,23 @@
        xml:space="preserve"
        style="font-size:7.05556px;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#1a1a1a;stroke-width:0.499999"
        x="10.350739"
-       y="598.59106"
+       y="693.8443"
        id="text1-2-0-3-6-7"><tspan
          sodipodi:role="line"
          style="stroke-width:0.5"
          x="10.350739"
-         y="598.59106"
+         y="693.8443"
          id="tspan2-7-9-6-1-9">10cm folded end</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#1a1a1a;stroke-width:0.499999"
        x="-39.191029"
-       y="673.23053"
+       y="768.48376"
        id="text1-2-0-3-6-7-23"><tspan
          sodipodi:role="line"
          style="stroke-width:0.5"
          x="-39.191029"
-         y="673.23053"
+         y="768.48376"
          id="tspan20822">Webbing with length callout</tspan></text>
     <text
        xml:space="preserve"
@@ -1834,7 +1834,7 @@
     </g>
     <g
        id="g20495"
-       transform="translate(537.05066,195.7041)">
+       transform="translate(537.05066,290.95732)">
       <path
          style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect118"
@@ -1881,7 +1881,7 @@
        height="100"
        x="1465.6931"
        y="-1199.9312"
-       transform="rotate(90,-100.62978,-908.4924)"
+       transform="rotate(90,-148.25639,-860.86579)"
        inkscape:path-effect="#path-effect249"
        sodipodi:type="rect"
        d="m 1465.6931,-1199.9312 h 25.4 v 100 h -25.4 z"
@@ -2386,7 +2386,7 @@
   <path
      id="infoline-on-start-3-path-effect249"
      class="path248 path-effect249 measure-helper-line measure-line"
-     d="m 425.34086,568.29097 v -22"
+     d="m 425.34086,663.54419 v -22"
      sodipodi:insensitive="true"
      inkscape:label="dinhelpline"
      style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
@@ -2396,21 +2396,21 @@
      class="path248 path-effect249 measure-label"
      sodipodi:insensitive="true"
      x="461.30313"
-     y="552.24209"
+     y="647.49531"
      style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px"><tspan
        sodipodi:role="line"
        id="tspan20784">100mm</tspan></text>
   <path
      id="infoline-on-end-3-path-effect249"
      class="path248 path-effect249 measure-helper-line measure-line"
-     d="m 525.34086,568.29097 v -22"
+     d="m 525.34086,663.54419 v -22"
      sodipodi:insensitive="true"
      inkscape:label="dinhelpline"
      style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
   <path
      id="infoline-3-path-effect249"
      class="path248 path-effect249 measure-DIM-line measure-line"
-     d="m 429.34086,548.29097 h 29.48502 m 33.02996,0 h 29.48502"
+     d="m 429.34086,643.54419 h 29.48502 m 33.02996,0 h 29.48502"
      sodipodi:insensitive="true"
      inkscape:label="dinline"
      style="marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />

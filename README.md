@@ -265,14 +265,13 @@ Each patterns has a cut layout for most optimal fabric usage as well as top and 
 
 I have a tendency to of trying to remember how to do something, and then having to figure it out yet again because some detail is missing. Just easier to write notes for yourself.
 
-This is how I:
+## [Sewing PALS](techiques/Sewing%20PALS.md)
 
-- [sew anything PALS related](techiques/Sewing%20PALS.md)
+When I started out my PALS webbing would always get ripped out and be useless because I was sewing them incorrectly
 
+## [pattern lexicon and naming conventions](techiques/pattern%20lexicon%20and%20naming%20conventions)
 
-
-
-# Meta
+Poor spatial vocabulary is a pet peeve of mine. 
 
 ## Verctor illustrations of buckles and materials 
 
