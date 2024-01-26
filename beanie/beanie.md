@@ -1,7 +1,7 @@
  
 # Materials
 
-| Material | quantity |  |
+| Material | quantity | note |
 | ---- | ---- | ---- |
 | main fabric | 0.6 meter | stretchy knits or fleece |
 # Cut

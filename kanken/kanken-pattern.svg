@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1587.9728mm"
-   height="2380mm"
-   viewBox="0 0 1587.9728 2379.9998"
+   width="1588.2228mm"
+   height="2380.5mm"
+   viewBox="0 0 1588.2228 2380.4998"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="kanken.svg"
+   sodipodi:docname="kanken-pattern.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,9 +26,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.082080888"
-     inkscape:cx="7163.6652"
-     inkscape:cy="2369.6137"
+     inkscape:zoom="0.041040444"
+     inkscape:cx="3703.6636"
+     inkscape:cy="2643.7336"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -36,7 +36,11 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="false"
-     inkscape:pageshadow="2">
+     inkscape:pageshadow="2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid7710"
@@ -48,8 +52,8 @@
        empspacing="10"
        spacingx="9.9999997"
        spacingy="9.9999997"
-       originx="88.403756"
-       originy="344.45056"
+       originx="88.653773"
+       originy="344.70058"
        visible="true" />
   </sodipodi:namedview>
   <defs
@@ -123,7 +127,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1113.1359,850.84186)">
+     transform="translate(1113.3859,851.09186)">
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -171,7 +175,7 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-1113.1359,-806.39121)"
        id="text20362"
-       style="font-size:48px;white-space:pre;shape-inside:url(#rect20364);display:inline;opacity:1;fill:#9d8c41;stroke:#000000;stroke-width:1.8897638;stroke-linejoin:miter;stroke-dasharray:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-size:48px;font-variation-settings:normal;white-space:pre;shape-inside:url(#rect20364);display:inline;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <text
        xml:space="preserve"
        style="font-size:12.7px;opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none"
@@ -202,7 +206,7 @@
        id="text27750"><tspan
          sodipodi:role="line"
          id="tspan27748"
-         style="stroke-width:0.5;fill:#1a1a1a;stroke:none"
+         style="fill:#1a1a1a;stroke:none;stroke-width:0.5"
          x="340.93591"
          y="-734.97577" /></text>
     <g
@@ -230,21 +234,21 @@
          transform="translate(369.99647,166.37163)"><tspan
            x="-94.732056"
            y="61.702885"
-           id="tspan29517">
+           id="tspan30971">
 </tspan><tspan
            x="-94.732056"
            y="75.814012"
-           id="tspan29519"> 2 cm allowance on top to </tspan><tspan
+           id="tspan30973"> 2 cm allowance on top to </tspan><tspan
            x="-94.732056"
            y="89.925134"
-           id="tspan29521">make a finished folded edge </tspan><tspan
+           id="tspan30975">make a finished folded edge </tspan><tspan
            x="-94.732056"
            y="104.03626"
-           id="tspan29523">to the pocket.
+           id="tspan30977">to the pocket.
 </tspan><tspan
            x="-94.732056"
            y="118.14739"
-           id="tspan29525"> </tspan></text>
+           id="tspan30979"> </tspan></text>
       <text
          xml:space="preserve"
          style="font-size:11.2889px;fill:#1a1a1a;stroke-width:0.264583"
@@ -287,7 +291,7 @@
          x="-674.73193"
          y="193.60867" />
       <rect
-         style="fill:#918a6f;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect2604"
          width="280"
          height="349.99997"
@@ -327,14 +331,14 @@
            y="-490.09598"
            id="tspan3370">30 cm</tspan></text>
       <rect
-         style="fill:#9d8c41;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect3434"
          width="200"
          height="40"
          x="-884.7359"
          y="503.6087" />
       <rect
-         style="fill:#9d8c41;stroke-width:0.5;font-variation-settings:normal;opacity:1;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;vector-effect:none;-inkscape-stroke:none"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect3540"
          width="200"
          height="40"
@@ -402,42 +406,42 @@
          transform="translate(-13.10217,-192.38253)"><tspan
            x="-992.38416"
            y="502.1857"
-           id="tspan29527">Shoulder strap buckle attachment point:
+           id="tspan30981">Shoulder strap buckle attachment point:
 </tspan><tspan
            x="-992.38416"
            y="516.29681"
-           id="tspan29529">- insert two 25 mm steel D-rings
+           id="tspan30983">- insert two 25 mm steel D-rings
 </tspan><tspan
            x="-992.38416"
            y="530.40795"
-           id="tspan29531">- fold in half
+           id="tspan30985">- fold in half
 </tspan><tspan
            x="-992.38416"
            y="544.5191"
-           id="tspan29533">- stitch the ends together to prevent
+           id="tspan30987">- stitch the ends together to prevent
 </tspan><tspan
            x="-992.38416"
            y="558.63024"
-           id="tspan29535">  from moving around
+           id="tspan30989">  from moving around
 </tspan><tspan
            x="-992.38416"
            y="572.74139"
-           id="tspan29537">- Sew the webbing into the seam </tspan><tspan
+           id="tspan30991">- Sew the webbing into the seam </tspan><tspan
            x="-992.38416"
            y="586.85253"
-           id="tspan29539">allowance of the anterior panel after  </tspan><tspan
+           id="tspan30993">allowance of the anterior panel after  </tspan><tspan
            x="-992.38416"
            y="600.96368"
-           id="tspan29541">the interior pocket has been sewn in  </tspan></text>
+           id="tspan30995">the interior pocket has been sewn in  </tspan></text>
       <rect
-         style="fill:#9d8c41;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect3870"
          width="24.834635"
          height="79.470833"
          x="-599.65326"
          y="-396.3912" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:4, 1;font-variation-settings:normal;opacity:1;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          d="m -599.65315,-396.39121 v 79.47084 h 24.8346 v -79.47084 h -24.8346 l 24.8346,79.47084 h -24.8346 l 24.8346,-79.47084 v 0"
          id="path12800" />
       <path
@@ -532,14 +536,14 @@
            y="589.34595"
            id="tspan3370-0">30 cm</tspan></text>
       <rect
-         style="fill:#d6c994;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d6c994;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect3870-9"
          width="24.834635"
          height="79.470833"
          x="-599.6532"
          y="273.60876" />
       <rect
-         style="fill:#d6c994;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d6c994;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect3872-3"
          width="25"
          height="80"
@@ -615,7 +619,7 @@
          d="M -264.86823,543.60873 V 483.60917"
          id="path12760" />
       <rect
-         style="fill:#9d8c41;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect12775"
          width="25"
          height="2380"
@@ -630,59 +634,59 @@
          transform="translate(18.942318,515.19762)"><tspan
            x="-1024.7321"
            y="-356.65573"
-           id="tspan29545"><tspan
+           id="tspan30999"><tspan
              style="stroke-width:0.5"
-             id="tspan29543">Shoulder strap
+             id="tspan30997">Shoulder strap
 </tspan></tspan><tspan
            x="-1024.7321"
            y="-342.54462"
-           id="tspan29549"><tspan
+           id="tspan31003"><tspan
              style="stroke-width:0.5"
-             id="tspan29547">
+             id="tspan31001">
 </tspan></tspan><tspan
            x="-1024.7321"
            y="-328.43351"
-           id="tspan29555"><tspan
+           id="tspan31009"><tspan
              style="stroke-width:0.5"
-             id="tspan29551">- </tspan><tspan
+             id="tspan31005">- </tspan><tspan
              style="stroke-width:0.5"
-             id="tspan29553">Both shoulder straps and the anterior </tspan></tspan><tspan
+             id="tspan31007">Both shoulder straps and the anterior </tspan></tspan><tspan
            x="-1024.7321"
            y="-314.32239"
-           id="tspan29559"><tspan
+           id="tspan31013"><tspan
              style="stroke-width:0.5"
-             id="tspan29557">carry handle are made of one continuous </tspan></tspan><tspan
+             id="tspan31011">carry handle are made of one continuous </tspan></tspan><tspan
            x="-1024.7321"
            y="-300.21128"
-           id="tspan29563"><tspan
+           id="tspan31017"><tspan
              style="stroke-width:0.5"
-             id="tspan29561">piece of webbing.
+             id="tspan31015">piece of webbing.
 </tspan></tspan><tspan
            x="-1024.7321"
            y="-286.10016"
-           id="tspan29567"><tspan
+           id="tspan31021"><tspan
              style="stroke-width:0.5"
-             id="tspan29565">- First make the carry handle in the middle </tspan></tspan><tspan
+             id="tspan31019">- First make the carry handle in the middle </tspan></tspan><tspan
            x="-1024.7321"
            y="-271.98905"
-           id="tspan29571"><tspan
+           id="tspan31025"><tspan
              style="stroke-width:0.5"
-             id="tspan29569">of the webbing before sewing the webbing
+             id="tspan31023">of the webbing before sewing the webbing
 </tspan></tspan><tspan
            x="-1024.7321"
            y="-257.87794"
-           id="tspan29575"><tspan
+           id="tspan31029"><tspan
              style="stroke-width:0.5"
-             id="tspan29573">to the anterior panel main section
+             id="tspan31027">to the anterior panel main section
 </tspan></tspan><tspan
            x="-1024.7321"
            y="-243.76681"
-           id="tspan29579"><tspan
+           id="tspan31033"><tspan
              style="stroke-width:0.5"
-             id="tspan29577">
+             id="tspan31031">
 </tspan></tspan></text>
       <rect
-         style="fill:#9d8c41;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect12798"
          width="25"
          height="500"
@@ -690,14 +694,14 @@
          y="274.7359"
          transform="rotate(90)" />
       <rect
-         style="fill:#9d8c41;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect3872"
          width="25"
          height="80"
          x="-474.73593"
          y="-396.65579" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:4, 1;font-variation-settings:normal;opacity:1;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          d="m -474.73585,-396.65579 v 80 h 25 v -80 h -25 l 25,80 h -25 l 25,-80"
          id="path12964" />
       <text
@@ -786,19 +790,19 @@
          transform="translate(18.49646,19.988372)"><tspan
            x="-979.49048"
            y="702.32227"
-           id="tspan29583"><tspan
+           id="tspan31037"><tspan
              style="stroke-width:0.5"
-             id="tspan29581">2 cm allowance on the </tspan></tspan><tspan
+             id="tspan31035">2 cm allowance on the </tspan></tspan><tspan
            x="-979.49048"
            y="716.4334"
-           id="tspan29587"><tspan
+           id="tspan31041"><tspan
              style="stroke-width:0.5"
-             id="tspan29585">ends to have some </tspan></tspan><tspan
+             id="tspan31039">ends to have some </tspan></tspan><tspan
            x="-979.49048"
            y="730.54455"
-           id="tspan29591"><tspan
+           id="tspan31045"><tspan
              style="stroke-width:0.5"
-             id="tspan29589">margin for error</tspan></tspan></text>
+             id="tspan31043">margin for error</tspan></tspan></text>
       <path
          style="fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
          d="m -924.73174,752.88109 10,40.72763"
@@ -1088,14 +1092,14 @@
          transform="translate(91.657016,105.88884)"><tspan
            x="-755.7959"
            y="881.26056"
-           id="tspan29595"><tspan
+           id="tspan31049"><tspan
              style="stroke-width:0.5"
-             id="tspan29593">left pocket </tspan></tspan><tspan
+             id="tspan31047">left pocket </tspan></tspan><tspan
            x="-755.7959"
            y="895.3717"
-           id="tspan29599"><tspan
+           id="tspan31053"><tspan
              style="stroke-width:0.5"
-             id="tspan29597">top edge</tspan></tspan></text>
+             id="tspan31051">top edge</tspan></tspan></text>
       <path
          style="opacity:1;fill:#000000;stroke:#1a1a1a;stroke-width:0.499999;stroke-dasharray:none"
          d="m -664.48176,933.60869 30,40.00002"
@@ -1150,24 +1154,24 @@
          transform="translate(-19.999648,90.000044)"><tspan
            x="-624.73206"
            y="993.6087"
-           id="tspan29603"><tspan
+           id="tspan31057"><tspan
              style="stroke-width:0.5"
-             id="tspan29601">Fold top 2 cm </tspan></tspan><tspan
+             id="tspan31055">Fold top 2 cm </tspan></tspan><tspan
            x="-624.73206"
            y="1007.7198"
-           id="tspan29607"><tspan
+           id="tspan31061"><tspan
              style="stroke-width:0.5"
-             id="tspan29605">seam allowance </tspan></tspan><tspan
+             id="tspan31059">seam allowance </tspan></tspan><tspan
            x="-624.73206"
            y="1021.831"
-           id="tspan29611"><tspan
+           id="tspan31065"><tspan
              style="stroke-width:0.5"
-             id="tspan29609">for a finished </tspan></tspan><tspan
+             id="tspan31063">for a finished </tspan></tspan><tspan
            x="-624.73206"
            y="1035.9421"
-           id="tspan29615"><tspan
+           id="tspan31069"><tspan
              style="stroke-width:0.5"
-             id="tspan29613">edge</tspan></tspan></text>
+             id="tspan31067">edge</tspan></tspan></text>
       <path
          style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.5;stroke-dasharray:none;marker-start:url(#Arrow1);marker-end:url(#Arrow1)"
          d="m -94.481782,843.6087 -40.000008,10e-6"
@@ -1236,7 +1240,7 @@
          d="M -104.48178,763.60868 -134.4818,713.6087"
          id="path15290" />
       <rect
-         style="fill:#918a6f;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15292"
          width="50"
          height="920"
@@ -1290,25 +1294,25 @@
          transform="translate(387.89749,22.339714)"><tspan
            x="-282.83414"
            y="1073.2167"
-           id="tspan29619"><tspan
+           id="tspan31073"><tspan
              style="stroke-width:0.5"
-             id="tspan29617">- Fold and crease the flap </tspan></tspan><tspan
+             id="tspan31071">- Fold and crease the flap </tspan></tspan><tspan
            x="-282.83414"
            y="1087.3278"
-           id="tspan29623"><tspan
+           id="tspan31077"><tspan
              style="stroke-width:0.5"
-             id="tspan29621">lengthwise along the midline.
+             id="tspan31075">lengthwise along the midline.
 </tspan></tspan><tspan
            x="-282.83414"
            y="1101.4388"
-           id="tspan29627"><tspan
+           id="tspan31081"><tspan
              style="stroke-width:0.5"
-             id="tspan29625">- optionally run a seam along the </tspan></tspan><tspan
+             id="tspan31079">- optionally run a seam along the </tspan></tspan><tspan
            x="-282.83414"
            y="1115.5499"
-           id="tspan29631"><tspan
+           id="tspan31085"><tspan
              style="stroke-width:0.5"
-             id="tspan29629">fold to make it more crisp</tspan></tspan></text>
+             id="tspan31083">fold to make it more crisp</tspan></tspan></text>
       <rect
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d6c994;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15382"
@@ -1317,7 +1321,7 @@
          x="-174.73592"
          y="-276.3912" />
       <rect
-         style="fill:#918a6f;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15374"
          width="279.99997"
          height="149.99998"
@@ -1342,14 +1346,14 @@
          x="-154.73592"
          y="-356.3912" />
       <rect
-         style="fill:#918a6f;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15390"
          width="40"
          height="30"
          x="115.26411"
          y="-356.3912" />
       <rect
-         style="fill:#918a6f;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15392"
          width="40"
          height="30"
@@ -1364,60 +1368,60 @@
          transform="translate(149.99615)"><tspan
            x="75.267944"
            y="-356.3912"
-           id="tspan29635"><tspan
+           id="tspan31089"><tspan
              style="stroke-width:0.5"
-             id="tspan29633">- Zipper: 28 cm
+             id="tspan31087">- Zipper: 28 cm
 </tspan></tspan><tspan
            x="75.267944"
            y="-342.2801"
-           id="tspan29641"><tspan
+           id="tspan31095"><tspan
              style="stroke-width:0.5"
-             id="tspan29637">- </tspan><tspan
+             id="tspan31091">- </tspan><tspan
              style="stroke-width:0.5"
-             id="tspan29639">Zipper ends: 4x3 cm
+             id="tspan31093">Zipper ends: 4x3 cm
 </tspan></tspan><tspan
            x="75.267944"
            y="-328.16898"
-           id="tspan29647"><tspan
+           id="tspan31101"><tspan
              style="stroke-width:0.5"
-             id="tspan29643">- </tspan><tspan
+             id="tspan31097">- </tspan><tspan
              style="stroke-width:0.5"
-             id="tspan29645">Assemble into a 30 cm long </tspan></tspan><tspan
+             id="tspan31099">Assemble into a 30 cm long </tspan></tspan><tspan
            x="75.267944"
            y="-314.05787"
-           id="tspan29651"><tspan
+           id="tspan31105"><tspan
              style="stroke-width:0.5"
-             id="tspan29649">piece
+             id="tspan31103">piece
 </tspan></tspan><tspan
            x="75.267944"
            y="-299.94675"
-           id="tspan29655"><tspan
+           id="tspan31109"><tspan
              style="stroke-width:0.5"
-             id="tspan29653">
+             id="tspan31107">
 </tspan></tspan></text>
       <rect
-         style="fill:#d6c994;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d6c994;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15502"
          width="10"
          height="30"
          x="115.26411"
          y="-356.3912" />
       <rect
-         style="fill:#d6c994;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d6c994;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15504"
          width="10"
          height="30"
          x="145.26411"
          y="-356.3912" />
       <rect
-         style="fill:#d6c994;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d6c994;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15506"
          width="10"
          height="30"
          x="-174.73592"
          y="-356.3912" />
       <rect
-         style="fill:#d6c994;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d6c994;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15508"
          width="10"
          height="30"
@@ -1508,7 +1512,7 @@
          x="-174.73592"
          y="-566.39117" />
       <rect
-         style="fill:#918a6f;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15558"
          width="279.99997"
          height="19.999998"
@@ -1522,7 +1526,7 @@
          x="-174.73216"
          y="-476.3913" />
       <rect
-         style="fill:#918a6f;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect15568"
          width="280.00003"
          height="50.000004"
@@ -1597,33 +1601,33 @@
          transform="translate(149.99615)"><tspan
            x="62.894627"
            y="-471.8537"
-           id="tspan29659"><tspan
+           id="tspan31113"><tspan
              style="stroke-width:0.5"
-             id="tspan29657">- Fold and crease along the midline
+             id="tspan31111">- Fold and crease along the midline
 </tspan></tspan><tspan
            x="62.894627"
            y="-457.74259"
-           id="tspan29663"><tspan
+           id="tspan31117"><tspan
              style="stroke-width:0.5"
-             id="tspan29661">- optionally run a seam along the fold to </tspan></tspan><tspan
+             id="tspan31115">- optionally run a seam along the fold to </tspan></tspan><tspan
            x="62.894627"
            y="-443.63148"
-           id="tspan29667"><tspan
+           id="tspan31121"><tspan
              style="stroke-width:0.5"
-             id="tspan29665">make it crisp</tspan></tspan></text>
+             id="tspan31119">make it crisp</tspan></tspan></text>
       <rect
-         style="fill:#d6c994;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d6c994;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect16376"
          width="24.834635"
          height="79.470833"
          x="-599.6532"
          y="273.60876" />
       <path
-         style="color:#000000;fill:#9d8c41;stroke-linejoin:miter;-inkscape-stroke:none;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m -485.51562,155.10547 -89.22071,151.99023 v -33.48633 h -25 v 79.47071 l 23.28125,6.32812 112.5,-191.64648 z"
          id="path16443" />
       <path
-         style="color:#000000;fill:#9d8c41;stroke-linejoin:miter;-inkscape-stroke:none;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m -563.47656,154.57617 -21.56055,12.65625 112.5,191.64649 23.2793,-6.32813 v -79.4707 h -25 v 33.48242 z"
          id="path16607" />
       <path
@@ -1688,14 +1692,14 @@
          transform="translate(49.99617,669.9999)"><tspan
            x="-481.50122"
            y="-540.70776"
-           id="tspan29671"><tspan
+           id="tspan31125"><tspan
              style="stroke-width:0.5"
-             id="tspan29669">These continues as the </tspan></tspan><tspan
+             id="tspan31123">These continues as the </tspan></tspan><tspan
            x="-481.50122"
            y="-526.59662"
-           id="tspan29675"><tspan
+           id="tspan31129"><tspan
              style="stroke-width:0.5"
-             id="tspan29673">posterior carry handle</tspan></tspan></text>
+             id="tspan31127">posterior carry handle</tspan></tspan></text>
       <path
          style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m -587.23577,273.60875 188.56282,-123.43461 -63.08434,122.90544"
@@ -1784,12 +1788,12 @@
            y="1273.4934"
            id="tspan18149">90 cm zipper, #8 YKK coil</tspan></text>
       <path
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-dasharray:4, 1;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m -472.08931,275.41237 h 20.62826 v 75.34026 l -20.05816,5.51635 -52.9512,-90.79761 -52.60469,90.97222 -20.40046,-5.4663 v -74.99508 h 20.59834 v 38.26183 l 40.33072,-68.22661 h 24.07786 l 40.75369,70.58745 z"
          id="path18604"
          sodipodi:nodetypes="cccccccccccccc" />
       <path
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-dasharray:4, 1;font-variation-settings:normal;fill-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          d="m -472.08936,275.41235 20.62826,75.34026 -85.08545,-104.73518 -40.52858,110.42616 -20.40046,-80.46138 h 20.59832 l -20.59832,74.99506 85.00692,-104.95984 40.94943,110.25153 20.05814,-80.85661"
          id="path18606" />
       <path
@@ -1822,35 +1826,35 @@
          transform="translate(19.526351,-261.42307)"><tspan
            x="-1044.7321"
            y="-236.39122"
-           id="tspan29679"><tspan
+           id="tspan31133"><tspan
              style="stroke-width:0.5"
-             id="tspan29677">Both shoulder </tspan></tspan><tspan
+             id="tspan31131">Both shoulder </tspan></tspan><tspan
            x="-1044.7321"
            y="-222.2801"
-           id="tspan29683"><tspan
+           id="tspan31137"><tspan
              style="stroke-width:0.5"
-             id="tspan29681">straps and the </tspan></tspan><tspan
+             id="tspan31135">straps and the </tspan></tspan><tspan
            x="-1044.7321"
            y="-208.16897"
-           id="tspan29687"><tspan
+           id="tspan31141"><tspan
              style="stroke-width:0.5"
-             id="tspan29685">anterior carry </tspan></tspan><tspan
+             id="tspan31139">anterior carry </tspan></tspan><tspan
            x="-1044.7321"
            y="-194.05784"
-           id="tspan29691"><tspan
+           id="tspan31145"><tspan
              style="stroke-width:0.5"
-             id="tspan29689">handle :)
+             id="tspan31143">handle :)
 </tspan></tspan><tspan
            x="-1044.7321"
            y="-179.94671"
-           id="tspan29695"><tspan
+           id="tspan31149"><tspan
              style="stroke-width:0.5"
-             id="tspan29693">238 cm, 25 mm </tspan></tspan><tspan
+             id="tspan31147">238 cm, 25 mm </tspan></tspan><tspan
            x="-1044.7321"
            y="-165.83558"
-           id="tspan29699"><tspan
+           id="tspan31153"><tspan
              style="stroke-width:0.5"
-             id="tspan29697">webbing</tspan></tspan></text>
+             id="tspan31151">webbing</tspan></tspan></text>
       <path
          style="opacity:1;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m -1084.7321,-466.39121 50,-20"
@@ -1867,7 +1871,7 @@
            x="-1001.0742"
            y="-791.27496">A Kind-of-Kånken copy backpack</tspan></text>
       <rect
-         style="fill:#918a6f;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect19729"
          width="30"
          height="30"
@@ -1885,7 +1889,7 @@
            x="-985.10352"
            y="-737.06268">Pack main fabric</tspan></text>
       <rect
-         style="fill:#d6c994;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d6c994;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect20248"
          width="30"
          height="30"
@@ -1903,7 +1907,7 @@
            x="-785.9151"
            y="-737.17029">Seam allowance</tspan></text>
       <rect
-         style="fill:#9d8c41;stroke-width:0.5;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          id="rect20356"
          width="30"
          height="30"
@@ -1911,13 +1915,13 @@
          y="-756.47986" />
       <text
          xml:space="preserve"
-         style="font-size:12.7px;opacity:1;fill:#9d8c41;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-dasharray:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         style="font-size:12.7px;font-variation-settings:normal;opacity:1;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="-581.10822"
          y="-736.80853"
          id="text20360"><tspan
            sodipodi:role="line"
            id="tspan20358"
-           style="stroke-width:0.5;font-variation-settings:normal;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           style="font-variation-settings:normal;vector-effect:none;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
            x="-581.10822"
            y="-736.80853">Nylon webbing</tspan></text>
       <rect
@@ -1993,7 +1997,7 @@
          id="path23960"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-dasharray:4, 1;font-variation-settings:normal;opacity:1;fill-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          d="m -439.70932,918.60231 -30.04405,-41.82155 h 29.90982 l -29.90982,42.06597 z"
          id="path23962" />
       <text
@@ -2005,25 +2009,25 @@
          transform="translate(-49.999664)"><tspan
            x="-461.91754"
            y="1022.6855"
-           id="tspan29703"><tspan
+           id="tspan31157"><tspan
              style="stroke-width:0.5"
-             id="tspan29701">Once the pack is assembled,
+             id="tspan31155">Once the pack is assembled,
 </tspan></tspan><tspan
            x="-461.91754"
            y="1036.7966"
-           id="tspan29707"><tspan
+           id="tspan31161"><tspan
              style="stroke-width:0.5"
-             id="tspan29705">the shoulder strap bucke </tspan></tspan><tspan
+             id="tspan31159">the shoulder strap bucke </tspan></tspan><tspan
            x="-461.91754"
            y="1050.9077"
-           id="tspan29711"><tspan
+           id="tspan31165"><tspan
              style="stroke-width:0.5"
-             id="tspan29709">attachment can be box-stiched </tspan></tspan><tspan
+             id="tspan31163">attachment can be box-stiched </tspan></tspan><tspan
            x="-461.91754"
            y="1065.0188"
-           id="tspan29715"><tspan
+           id="tspan31169"><tspan
              style="stroke-width:0.5"
-             id="tspan29713">here to make it more durable</tspan></tspan></text>
+             id="tspan31167">here to make it more durable</tspan></tspan></text>
       <path
          style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m -454.73134,918.72451 -11.68159,90.20219"
@@ -2037,19 +2041,19 @@
          transform="translate(-20.794947,-51.760644)"><tspan
            x="-979.49048"
            y="702.32227"
-           id="tspan29719"><tspan
+           id="tspan31173"><tspan
              style="stroke-width:0.5"
-             id="tspan29717">NOTE: This panel if fully symmetrical along the bottom center line. Any </tspan></tspan><tspan
+             id="tspan31171">NOTE: This panel if fully symmetrical along the bottom center line. Any </tspan></tspan><tspan
            x="-979.49048"
            y="716.4334"
-           id="tspan29723"><tspan
+           id="tspan31177"><tspan
              style="stroke-width:0.5"
-             id="tspan29721">callouts on the left side also apply to the right, and vice versa. Sewn into </tspan></tspan><tspan
+             id="tspan31175">callouts on the left side also apply to the right, and vice versa. Sewn into </tspan></tspan><tspan
            x="-979.49048"
            y="730.54455"
-           id="tspan29727"><tspan
+           id="tspan31181"><tspan
              style="stroke-width:0.5"
-             id="tspan29725">a circle before final assembly of the pack</tspan></tspan></text>
+             id="tspan31179">a circle before final assembly of the pack</tspan></tspan></text>
       <rect
          style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.607612;stroke-linejoin:bevel;stroke-dasharray:none"
          id="rect27746"
@@ -2066,14 +2070,14 @@
          transform="translate(-21.180436,16.925067)"><tspan
            x="348.71414"
            y="-741.72992"
-           id="tspan29731"><tspan
+           id="tspan31185"><tspan
              style="stroke-width:0.5"
-             id="tspan29729">This square is </tspan></tspan><tspan
+             id="tspan31183">This square is </tspan></tspan><tspan
            x="348.71414"
            y="-725.85491"
-           id="tspan29735"><tspan
+           id="tspan31189"><tspan
              style="stroke-width:0.5"
-             id="tspan29733">10x10 cm</tspan></tspan></text>
+             id="tspan31187">10x10 cm</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-size:11.2889px;white-space:pre;inline-size:242.905;display:inline;opacity:1;fill:#1a1a1a;stroke:none;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none"
@@ -2083,19 +2087,19 @@
          transform="translate(-35.733456,591.6721)"><tspan
            x="-481.50122"
            y="-540.70776"
-           id="tspan29739"><tspan
+           id="tspan31193"><tspan
              style="stroke-width:0.5"
-             id="tspan29737">Once the pack is assembled, bartack the </tspan></tspan><tspan
+             id="tspan31191">Once the pack is assembled, bartack the </tspan></tspan><tspan
            x="-481.50122"
            y="-526.59662"
-           id="tspan29743"><tspan
+           id="tspan31197"><tspan
              style="stroke-width:0.5"
-             id="tspan29741">shoulder staps to the seam between the </tspan></tspan><tspan
+             id="tspan31195">shoulder staps to the seam between the </tspan></tspan><tspan
            x="-481.50122"
            y="-512.48548"
-           id="tspan29747"><tspan
+           id="tspan31201"><tspan
              style="stroke-width:0.5"
-             id="tspan29745">Anterior panel and Medial panel</tspan></tspan></text>
+             id="tspan31199">Anterior panel and Medial panel</tspan></tspan></text>
       <path
          style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m -549.04605,202.07767 50.13858,-112.597069 0.55102,111.130489"
@@ -2113,7 +2117,7 @@
     <g
        id="g29020">
       <rect
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-opacity:1;stop-color:#000000;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
          id="rect6478"
          width="1500"
          height="489.99997"

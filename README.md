@@ -4,10 +4,11 @@ permalink: index.html
 ---
 
 
-
 This site is a collection of outdoor gear sewing patterns and instructions. All the patterns are drafted by myself, although some are very heavily influenced by products already on the market. You are welcome to use or modify the patterns for your own projects. Unless otherwise stated, consider everything licensed as Creative Commons – Attribution-ShareAlike CC-BY-SA
 
+# About the patterns
 
+I've always made my own patterns and just learned by trial and error. Essentially all images throughout this site are .svg files (Scalable vector graphics) that I'v drawn in [Inkscape](https://inkscape.org). This means you can zoom in as much as you want without the images getting blurry. If you just want to browse a pattern, you can open the image in a new tab to zoom and pan around. Use Inkscape, Adobe Illustrator, or any other vector graphics program to make arbitrary measurements in the image. The svg files are drawn to scale, so your program will be able to make measurements in physical units like centimeters or inches, not just arbitrary digital units like pixels.
 # Load carrying modules
 
 
@@ -75,15 +76,16 @@ Features:
 ![backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large.svg)
 
 
-# [Kånken?](kanken/kanken)
+## [Kånken?](kanken/kanken)
 
-Kånken by Fjällrevän? I mean, yeah. But no. 
+Kånken by Fjällräven? I mean, yeah. But no. 
 
 Why? The backstory of the Kånken build was a kind of impractical joke. I eventually sold the pack as the Scandinavian fashion warrior's backpack. The main pack fabric was upcycled from and old german army surplus laundry bag. The Kånken is popular to the point it's a meme around where I live, so I wanted to make one as a joke, but to keep up with the military theme provided by the fabric choice, all the webbing as well as buckle hardware were all heavy-duty Finnish mil-spec stuff from Savotta and Varusteleka. [Read the write up](kanken/kanken) for all the fun details of this up-cycle project.
 
 And full .svg cut pattern available of course.
 
-![](kanken/kanken.svg)
+![](kanken/kanken-pattern.svg)
+
 # Organiziers and trinket bags
 
 ## [kit bag](kit%20bag/kit%20bag)
@@ -258,4 +260,25 @@ Each patterns has a cut layout for most optimal fabric usage as well as top and 
 		- one at the center of the footbox
 		- all are loops
 
+# Notes on Sewing
+
+
+I have a tendency to of trying to remember how to do something, and then having to figure it out yet again because some detail is missing. Just easier to write notes for yourself.
+
+This is how I:
+
+- [sew anything PALS related](techiques/Sewing%20PALS.md)
+
+
+
+
+# Meta
+
+## Verctor illustrations of buckles and materials 
+
+My [buckles.svg](buckles.svg) file has become somewhat of a reference library for pattern illustrations to keep the patterns uniform from project to project. Of course some older pattern don't follow this style guide. 
+
+If you need vector illustration of buckles, feel free to rip these off. The side release buckles are traced from ITW-Nexus buckles.
+
+![](buckles.svg)
 

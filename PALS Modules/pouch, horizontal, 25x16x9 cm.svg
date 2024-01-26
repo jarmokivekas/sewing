@@ -7,7 +7,7 @@
    viewBox="0 0 1197.0482 504.31452"
    version="1.1"
    id="svg969"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="pouch, horizontal, 25x16x9 cm.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,13 +25,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-center="true"
-     inkscape:zoom="0.25611645"
-     inkscape:cx="2272.4039"
-     inkscape:cy="864.84099"
-     inkscape:window-width="1850"
+     inkscape:zoom="0.36220336"
+     inkscape:cx="1733.8326"
+     inkscape:cy="987.0146"
+     inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
@@ -249,23 +249,23 @@
        transform="translate(-33.590325,-10.580763)"><tspan
          x="-541.45184"
          y="260.04544"
-         id="tspan15951">Cut from the edge to the seam allowance where the  </tspan><tspan
+         id="tspan265">Cut from the edge to the seam allowance where the  </tspan><tspan
          x="-541.45184"
          y="266.21907"
-         id="tspan15953">superior and inferior panels match with the posterior </tspan><tspan
+         id="tspan267">superior and inferior panels match with the posterior </tspan><tspan
          x="-541.45184"
          y="272.39269"
-         id="tspan15955">and anterior panel corners. 
+         id="tspan269">and anterior panel corners. 
 </tspan><tspan
          x="-541.45184"
          y="278.5663"
-         id="tspan15957">NOTE: use the corners of the seam, not the cut fabric. </tspan><tspan
+         id="tspan271">NOTE: use the corners of the seam, not the cut fabric. </tspan><tspan
          x="-541.45184"
          y="284.73992"
-         id="tspan15959">That is, using the size of the fabric if it had no seam </tspan><tspan
+         id="tspan273">That is, using the size of the fabric if it had no seam </tspan><tspan
          x="-541.45184"
          y="290.91353"
-         id="tspan15961">allowance</tspan></text>
+         id="tspan275">allowance</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -422.81395,238.93943 50.91329,-33.15333"
@@ -325,7 +325,7 @@
        y="0"
        xlink:href="#use35248"
        id="use35332"
-       transform="translate(617.75898,-0.25000949)"
+       transform="translate(607.44981,-8.5259265)"
        width="100%"
        height="100%"
        style="stroke-width:0.5;stroke-dasharray:none" />

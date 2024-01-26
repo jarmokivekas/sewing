@@ -33,7 +33,7 @@ All the pattern images are available as a .svg vector file here: [shoulder harne
 # Materials
 
 
-material | amount
+Material | Quantiry
 ---------|--------
 25 mm webbing |  88cm + 25cm
 40 mm webbing | 52 cm

@@ -3,9 +3,9 @@
 
 # Materials
 
-| Material | quantity |
-| ---- | ---- |
-| main fabric | 1 meter |
+| Material | Quantity | Note |
+| ---- | ---- | ---- |
+| main fabric | 1 meter |  |
 # Cut
 
 # Construction
