@@ -7,10 +7,11 @@
    viewBox="0 0 783.1307 593.94099"
    version="1.1"
    id="svg1900"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="buckles.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,15 +25,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.84556801"
-     inkscape:cx="424.56668"
-     inkscape:cy="984.54529"
-     inkscape:window-width="1850"
+     inkscape:zoom="0.66956711"
+     inkscape:cx="1607.7552"
+     inkscape:cy="527.95305"
+     inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="2">
     <inkscape:grid
        type="xygrid"
        id="grid2231"
@@ -45,6 +47,90 @@
   </sodipodi:namedview>
   <defs
      id="defs1897">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern77845"
+       id="pattern77864"
+       patternTransform="translate(-4.2335138e-5,2.9010827e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Packedcircles"
+       id="pattern76750"
+       patternTransform="matrix(37.795276,0,0,37.795276,1399.5655,-222.57346)" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect76146"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="1.2784628,7.9836004"
+       not_jump="true"
+       sort_points="true"
+       interpolator_type="CentripetalCatmullRom"
+       interpolator_beta="0.75"
+       start_linecap_type="zerowidth"
+       linejoin_type="spiro"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect76144"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.0076923077"
+       smooth_angles="0"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       step="1" />
+    <linearGradient
+       id="linearGradient76049"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#918a6f;stop-opacity:1;"
+         offset="0"
+         id="stop76047" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Packedcircles"
+       id="pattern75544"
+       patternTransform="matrix(37.795276,0,0,37.795276,659.30445,-830.55107)" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="1"
+       height="1.73205080756"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Packedcircles"
+       inkscape:stockid="Packed circles"
+       inkscape:isstock="true">
+      <circle
+         style="fill:black;stroke:none"
+         cx="0"
+         cy="0.5"
+         r="0.5"
+         id="circle74414" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="1"
+         cy="0.5"
+         r="0.5"
+         id="circle74416" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="0.5"
+         cy="1.36602540378"
+         r="0.5"
+         id="circle74418" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="0.5"
+         cy="-0.366025403784"
+         r="0.5"
+         id="circle74420" />
+    </pattern>
     <inkscape:path-effect
        effect="measure_segments"
        linked_items=""
@@ -1080,6 +1166,178 @@
        centers="false"
        maxmin="false"
        helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="190.86614"
+       height="190.86614"
+       patternTransform="translate(605.06804,492.13398)"
+       id="pattern75541">
+      <path
+         id="path72438"
+         style="font-variation-settings:normal;opacity:1;fill:url(#pattern75544);fill-opacity:1;stroke:#000000;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="M 0.94488189,0.94488189 V 52.48388 121.20261 189.92126 H 189.92126 V 121.20261 52.48388 0.94488189 Z" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="116.84511"
+       height="144.6988"
+       patternTransform="translate(-1199.3399,284.56562)"
+       id="pattern76150">
+      <path
+         d="m 0,0 c 3.0280596,1.5111976 6.407163,3.6816005 9.7557926,6.8170753 2.5363704,2.3749192 4.9282284,5.1804697 7.1997064,8.5452727 3.875211,5.740459 6.869893,12.267546 10.097601,20.326029 2.651669,6.62031 5.712809,14.983979 9.202836,22.258547 3.524798,7.347044 7.955744,14.694448 14.297417,20.872943 0.31164,0.303621 0.630056,0.60321 0.98915,0.848886 0.359093,0.245677 0.754607,0.437078 1.168288,0.571886 0.827362,0.269615 1.706187,0.328069 2.5726,0.408994 2.216411,0.207019 4.146961,0.810399 5.897563,1.65795 1.828187,0.885113 3.594505,2.103546 5.344719,3.617878 0.410719,0.355365 0.820078,0.72663 1.228586,1.113158 1.349606,1.27699 2.748938,2.776249 4.224989,4.553193 1.792253,2.157604 3.602258,4.608534 5.52209,7.424344 3.531754,5.180014 7.223164,11.367924 11.213355,17.509104 3.77109,5.80397 7.945248,11.72148 12.686607,16.27795 l -0.56908,-0.72842 c 6.20031,5.59088 13.30471,10.3778 16.01289,12.62401 -1.39778,-3.22892 -3.5394,-11.37835 -6.17583,-19.13611 -0.0251,-0.0739 -0.053,-0.14739 -0.0943,-0.21357 -0.0413,-0.0662 -0.0943,-0.12438 -0.15085,-0.17812 -0.0566,-0.0537 -0.11619,-0.10425 -0.17137,-0.15942 -0.0552,-0.0552 -0.10479,-0.11558 -0.15252,-0.17731 -3.16627,-4.09526 -6.11041,-9.40127 -9.25718,-15.41735 C 97.542996,103.10786 94.34406,96.672454 90.626274,90.575271 88.649705,87.333691 86.586171,84.290561 84.366586,81.516232 82.529232,79.219663 80.606981,77.135214 78.572338,75.294656 77.954762,74.735991 77.315982,74.189997 76.655559,73.660665 73.839748,71.403778 70.611326,69.43494 66.949122,68.09322 64.136433,67.062737 61.143987,66.430585 57.985643,66.286394 53.673489,62.412277 49.942067,57.695419 46.337665,52.262389 42.072197,45.832912 38.189647,38.724389 34.191675,32.118377 29.545941,24.442043 25.180672,18.16454 19.990215,12.870271 16.957608,9.7770097 13.932856,7.3281125 10.903925,5.3494781 6.9226161,2.7487079 3.1717388,1.1199164 0,0 Z"
+         id="path-1"
+         inkscape:path-effect="#path-effect76144;#path-effect76146"
+         inkscape:original-d="m 0,0 c 30.66017,13.507389 32.329701,50.490633 53.091099,71.707238 7.232126,7.390677 3.390728,-9.353953 19.313537,9.255798 16.730041,19.553234 29.025484,43.182234 44.440474,63.735764"
+         style="fill:#a02c2c;fill-rule:nonzero;stroke:none;stroke-width:7.1424;-inkscape-stroke:none;stop-color:#000000" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="896.58516"
+       height="802.09695"
+       patternTransform="translate(-1174.5631,-2.4577888)"
+       id="pattern76950">
+      <path
+         id="path76045"
+         style="font-variation-settings:normal;opacity:1;fill:url(#pattern76750);fill-opacity:1;stroke:#000000;stroke-width:8.39618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="M 4.1980912,4.1980912 V 220.66185 509.28053 797.89886 H 892.38707 V 509.28053 220.66185 4.1980912 Z" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="202.54794"
+       height="114.0069"
+       patternTransform="translate(-384.54909,913.99453)"
+       id="pattern77845">
+      <g
+         id="g77843"
+         transform="matrix(3.7795276,0,0,3.7795276,1648.9216,-1252.4116)">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="path77645"
+           cx="-384.44061"
+           cy="345.95309"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77647"
+           cx="-399.03995"
+           cy="346.23804"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77729"
+           cx="-391.30524"
+           cy="333.88586"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77731"
+           cx="-391.81287"
+           cy="359.77731"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77733"
+           cx="-405.89316"
+           cy="333.12149"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77735"
+           cx="-406.19232"
+           cy="359.04086"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77819"
+           cx="-412.77121"
+           cy="345.95309"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77821"
+           cx="-427.37054"
+           cy="346.23804"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77823"
+           cx="-419.63583"
+           cy="333.88586"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77825"
+           cx="-420.14346"
+           cy="359.77731"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77827"
+           cx="-434.22375"
+           cy="333.12149"
+           r="1.7254932" />
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.0575163;-inkscape-stroke:none;stop-color:#000000"
+           id="circle77829"
+           cx="-434.52292"
+           cy="359.04086"
+           r="1.7254932" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="202.54794"
+       height="114.00689"
+       patternTransform="translate(-409.1334,700.33176)"
+       id="pattern78227">
+      <rect
+         style="fill:url(#pattern77864);stroke:none;stroke-width:0.999999"
+         width="202.54794"
+         height="114.00689"
+         x="0"
+         y="0"
+         id="rect77860" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="75.590551"
+       height="75.590551"
+       patternTransform="translate(-546.74301,719.85051)"
+       id="pattern79558">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect79270"
+         width="75.590553"
+         height="75.590553"
+         x="0"
+         y="0" />
+      <circle
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="path79422"
+         cx="13.228347"
+         cy="13.228347"
+         r="1.8897638" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="115.27559"
+       height="115.27559"
+       patternTransform="translate(-944.53829,700.008)"
+       id="pattern83061">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect82933"
+         width="113.38583"
+         height="113.38583"
+         x="0.94487995"
+         y="0.94487995" />
+      <circle
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="path82979"
+         cx="38.740154"
+         cy="38.740154"
+         r="18.897638" />
+    </pattern>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -1487,7 +1745,7 @@
     <path
        id="rect4704"
        style="font-variation-settings:normal;opacity:1;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="M -254.19104,220 V 233.63636 251.81819 270 h 50 V 251.81819 233.63636 220 Z" />
+       d="m -254.19097,219.99997 v 13.63636 18.18183 18.18181 h 50 v -18.18181 -18.18183 -13.63636 z" />
     <rect
        style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect6268"
@@ -1887,6 +2145,20 @@
          x="-328.94952"
          y="307.65543"
          id="tspan2-7-6">seam allowance</tspan></text>
+    <rect
+       style="fill:url(#pattern76150);stroke:none;stroke-width:0.18369;fill-opacity:1.0"
+       width="22.666267"
+       height="25.169132"
+       x="-651.85724"
+       y="164.83084"
+       id="rect76153" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect79666"
+       width="50"
+       height="50"
+       x="-254.19096"
+       y="219.99997" />
   </g>
   <path
      id="infoline-0-path-effect245"
