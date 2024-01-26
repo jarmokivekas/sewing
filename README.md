@@ -62,7 +62,7 @@ Very fun concept of a single-shoulder sling bag that converts into a bicycle fra
 
 ## [backpack, daypack, large](backpack,%20daypack,%20large/backpack,%20daypack,%20large)
 	
-This is a backpack with modular (detachable) shoulder straps, either in the form of [shoulder straps, detechable, webbing](shoulder%20straps,%20detechable,%20webbing.svg), of [shoulder harness, yoke](shoulder%20harness,%20yoke/shoulder%20harness,%20yoke.md). It is heavily influenced by Varusteleka CP15 backpack, but it's bigger.
+This is a backpack with modular (detachable) shoulder straps, either in the form of [shoulder straps, detechable, webbing](shoulder%20straps,%20detechable,%20webbing.svg), of [shoulder harness, yoke](shoulder%20harness,%20yoke/shoulder%20harness,%20yoke). It is heavily influenced by Varusteleka CP15 backpack, but it's bigger.
 
 Features:
 
@@ -265,7 +265,7 @@ Each patterns has a cut layout for most optimal fabric usage as well as top and 
 
 I have a tendency to of trying to remember how to do something, and then having to figure it out yet again because some detail is missing. Just easier to write notes for yourself.
 
-## [Sewing PALS](techiques/Sewing%20PALS.md)
+## [Sewing PALS](techiques/Sewing%20PALS)
 
 When I started out my PALS webbing would always get ripped out and be useless because I was sewing them incorrectly
 

@@ -43,4 +43,4 @@ The beanie is now ready. Fold the interior end inside the exterior end, and then
 
 
 
-Use the same materials to make a [tube scarf](tube%20scarf/tube%20scarf.md) or as the lining in a pair of  [mittens](mitten.svg)
+Use the same materials to make a [tube scarf](tube%20scarf/tube%20scarf) or as the lining in a pair of  [mittens](mitten.svg)

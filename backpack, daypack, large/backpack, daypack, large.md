@@ -60,7 +60,7 @@ The _inferior section_ of the shoulder strap is connected to the pack with a ste
 
 # Posterior panel
 
-The exterior face of the posterior panel has [Sewing PALS](../techiques/Sewing%20PALS.md) webbing, a patch of velcro loop, and the side release bulckle resptacles for the compression straps. You may also leave the compression strap buckles, and opt for a beavertail instead.
+The exterior face of the posterior panel has [Sewing PALS](../techiques/Sewing%20PALS) webbing, a patch of velcro loop, and the side release bulckle resptacles for the compression straps. You may also leave the compression strap buckles, and opt for a beavertail instead.
 
 
 
