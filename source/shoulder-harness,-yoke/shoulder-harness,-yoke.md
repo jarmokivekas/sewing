@@ -12,9 +12,9 @@ Shoulder harness features:
 - shoulder harness module: the pack itself may be changed
 - buckle for load lifters
 - PALS style webbing at the front for attaching module
-	- [sternum strap, 20mm, modular](../sternum strap, 20mm, modular/sternum strap, 20mm, modular) compatible
+	- [sternum strap, 20mm, modular](../sternum-strap,-20mm,-modular/sternum-strap,-20mm,-modular) compatible
 	- [shoulder strap pocket] compatible
-	- [kit bag](../kit bag/chest pack.svg) compatible
+	- [kit bag](../kit-bag/chest-pack.svg) compatible
 
 
 I've used this for example with
@@ -25,7 +25,8 @@ I've used this for example with
 
 ## CAD files
 
-All the pattern images are available as a .svg vector file here: [shoulder harness, yoke.svg](shoulder harness, yoke.svg). The pattern is drawn to scale.
+All the pattern images are available as a .svg vector file here: [shoulder harness, yoke.svg](shoulder-harness,-yoke.svg).
+The pattern is drawn to scale.
 
 
 ## Materials
@@ -155,7 +156,7 @@ This assumes the pack has asdjustment the adjustement buckesl. We just need to p
 ### Pack attachment utility strap
 
 
-Different packs may have different ways of attaching to the shoulder harness. For packs with two d-ring attachment points, use a [utility strap, short](../utility strap, short/utility strap, short)
+Different packs may have different ways of attaching to the shoulder harness. For packs with two d-ring attachment points, use a [utility strap, short](../utility-strap,-short/utility-strap,-short)
 
 To attach the pack:
 
@@ -166,12 +167,12 @@ To attach the pack:
 
 ### Sternum strap
 
-[sternum strap, 20mm, modular](../sternum strap, 20mm, modular/sternum strap, 20mm, modular) fits well as a sternum strap for this harness. It attaches with tri-glide buckles to the shoulder straps. The PALS loops help set the height at which the sternum strap sits.
+[sternum strap, 20mm, modular](../sternum-strap,-20mm,-modular/sternum-strap,-20mm,-modular) fits well as a sternum strap for this harness. It attaches with tri-glide buckles to the shoulder straps. The PALS loops help set the height at which the sternum strap sits.
 
 
 ## Use with Savotta Jääkäri XL
 
-Savotta Jääkäri XL external frame rucksack modification to use the [shoulder harness, yoke](shoulder harness, yoke) shoulder harness module instead of it's default ones.
+Savotta Jääkäri XL external frame rucksack modification to use the [shoulder harness, yoke](shoulder-harness,-yoke) shoulder harness module instead of it's default ones.
 
 
 ![DSC02497](DSC02497.JPG)

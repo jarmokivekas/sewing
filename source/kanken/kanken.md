@@ -37,7 +37,9 @@ To get a well-saturated fabric, apply the wax before cutting and sewing: making 
 
 
 
-![](a-little-pirate-copy-made-out-of-a-surplus-laundry-bag-v0-fbkrx2wv63ua1.jpg)## Project photos
+![](a-little-pirate-copy-made-out-of-a-surplus-laundry-bag-v0-fbkrx2wv63ua1.jpg)
+
+## Project photos
 
 
 

@@ -14,7 +14,7 @@ The pack is made from 4 main pieces:
 
 Annotated patterns drawn in to-scale SVG (scalable vector graphics) available here:
 
-- [backpack, daypack, large](backpack, daypack, large.svg)
+- [backpack, daypack, large](backpack,-daypack,-large.svg)
 
 Regarding reading the pattern, many of the directional terms are borrowed terms from medical anatomy, since I find they are less ambiguous in my opinoin. In case it's confusing, you'll be fine by translating as:
 

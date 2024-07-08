@@ -33,4 +33,4 @@ There are 3 main sizes of thermal cloak that make most sense to me:
 
 - approx 110cm x 210
 
-![thermal cloak](thermal cloak.svg)
+![thermal cloak](thermal-cloak.svg)

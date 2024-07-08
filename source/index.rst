@@ -10,40 +10,40 @@ Welcome to sewing's documentation!
     :maxdepth: 1
     :caption: Contents:
 
-    front page
+    front-page
 
 
 .. toctree::
     :maxdepth: 1
     :caption: Clothing
 
-    tube scarf/tube scarf
+    tube-scarf/tube-scarf
     beanie/beanie
-    thermal cloak/thermal cloak
+    thermal-cloak/thermal-cloak
 
 .. toctree::
     :maxdepth: 1
-    :caption: PALS Pouches
+    :caption: PALS-Pouches
     :glob:
 
-    PALS Modules/*
-    navigation pouch/navigation pouch
+    PALS-Modules/*
+    navigation-pouch/navigation-pouch
 
 .. toctree::
     :maxdepth: 1
-    :caption: Load carrying modules
+    :caption: Load-carrying-modules
     
-    utility strap, short/utility strap, short
-    shoulder harness, yoke/shoulder harness, yoke
+    utility-strap,-short/utility-strap,-short
+    shoulder-harness,-yoke/shoulder-harness,-yoke
     kanken/kanken
-    backpack, daypack, large/backpack, daypack, large
-    kit bag/kit bag
-    bikepack, frame bag sling
+    backpack,-daypack,-large/backpack,-daypack,-large
+    kit-bag/kit-bag
+    bikepack,-frame-bag-sling
 
 .. toctree::
     :maxdepth: 1
     :caption: General Instructions & Meta
 
-    techiques/pattern lexicon and naming conventions
-    techiques/pattern documentation guidelines
+    techiques/pattern-lexicon-and-naming-conventions
+    techiques/pattern-documentation-guidelines
     techiques/inkscape

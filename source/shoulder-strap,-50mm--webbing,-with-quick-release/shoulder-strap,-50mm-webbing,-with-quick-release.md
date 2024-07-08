@@ -8,12 +8,12 @@ Notable features:
 - top intended to attach to a D-ring on the pack using a tri-glide buckle
  
 Two pairs of finished shoulder straps. One with Quick release and the other with a conventional adjustment buckle:
-![](../finished shoulder straps.jpg)
+![](../finished-shoulder-straps.jpg)
 
 # Sewing pattern
 
 
-The full .svg vector drawing of the sewing pattern is available here: [shoulder strap, 50mm webbing](shoulder strap, 50mm webbing.svg)
+The full .svg vector drawing of the sewing pattern is available here: [shoulder strap, 50mm webbing](shoulder-strap,-50mm-webbing.svg)
 
 
 # Materials
@@ -53,7 +53,7 @@ Start by assembling the main *load carrying webbing* and *padding webbing*. Set 
 2. attach the load bearing webbing to the padding
 	- make a bar tack 1 inch away from the folded edge of the padding
 ![](step1.png)
-3. Sew in all but one of the [Sewing PALS](../techiques/Sewing PALS)  bar tacks
+3. Sew in all but one of the [Sewing PALS](../techiques/Sewing-PALS) bar tacks
 	-  to get uniform tension, start form the right end, and work your way toward the left one PALS loop at a time
 	-  leave space in the left end to secure the adjustment buckle
 	- PALS bar tacks are spaced 1.5 inches apart
@@ -102,8 +102,8 @@ On packs with D-ring attachment points
 
 You may want to combine this with:
 
-- [sternum strap, 20mm, modular](../sternum strap, 20mm, modular/sternum strap, 20mm, modular) fits to this shoulder harness
-- [backpack, daypack, large](../backpack, daypack, large/backpack, daypack, large) is designed to use these as one shoulder harness option
+- [sternum strap, 20mm, modular](../sternum-strap,-20mm,-modular/sternum-strap,-20mm,-modular) fits to this shoulder harness
+- [backpack, daypack, large](../backpack,-daypack,-large/backpack,-daypack,-large) is designed to use these as one shoulder harness option
 - [backpack, small, rolltop, utility shoulder strap](../backpack, small, rolltop, utility shoulder strap.svg) can be attached, although it was not originally designed to do so
 
 # Quick release for nordic skating

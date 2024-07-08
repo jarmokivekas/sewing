@@ -41,9 +41,11 @@ Webbing length is calculated as
 length = 2 + rows * 2 + 6
 ```
 
-![](PALS stiffener example assebly.svg)
+![](PALS-stiffener-example-assebly.svg)
+
+
 ## Construction
 
 
 
-![](PALS stiffener.svg)
+![](PALS-stiffener.svg)

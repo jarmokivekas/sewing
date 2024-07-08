@@ -8,7 +8,7 @@ since sooner or later any pattern will be sent somewhere as a pdf or png instead
 
 
 
-![alt text](<Pasted image 20240126184736.png>)
+![alt text](<Pasted-image-20240126184736.png>)
 
 
 To add size callouts in inkscape, do the following:

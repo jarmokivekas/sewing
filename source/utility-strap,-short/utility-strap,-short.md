@@ -27,13 +27,13 @@ Material for one strap
 4. check the buckle is right-side-up
 5. bar tack twice to secure the buckle
 
-![utility strap, short](utility strap, short.svg)
+![utility strap, short](utility-strap,-short.svg)
 
 ## Usage
 
 
 - Savotta Jääkäri XL type pack-to-frame attachment
-- Useful for attaching a pack to [shoulder harness, yoke](shoulshoulder harness, yoke/shoulshoulder harness, yoke) 
-- [chest pack](../kit bag/chest pack.svg) suspension from back pack shoulder harness that has a D-ring
+- Useful for attaching a pack to [shoulder harness, yoke](shoulder-harness,-yoke/shoulshoulder-harness,-yoke)-
+- [chest pack](../kit-bag/chest-pack.svg) suspension from back pack shoulder harness that has a D ring
 
 ![final](final.jpg)
