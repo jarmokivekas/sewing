@@ -1,3 +1,4 @@
+# Pattern lexicon and naming conventions
 
 The patterns on this site use a specific way of naming pieces of a pattern and when talking about spatial aspects of a pattern that aims to be less ambiguous than just front, back, bottom, inside and out.
 

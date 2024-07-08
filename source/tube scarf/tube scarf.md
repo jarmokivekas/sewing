@@ -1,4 +1,8 @@
-# Overview
+# Tube scarf
+
+
+
+## Overview
 
 Nothing much to this, a super simple Buff-like tube scarf
 
@@ -6,13 +10,15 @@ Nothing much to this, a super simple Buff-like tube scarf
 - fold it in half, right sides facing together
 - sew a seam to make it a tube
 
-# Materials
+## Materials
 
 |Material|quantity|
 |---|---|
 |main fabric|0.5 meters |
 0.5 meters of 1.5m or 1.45 m wide fabric is enough for up to three tube scarfs.
-## Merino wool knits
+
+
+### Merino wool knits
 
 
 Merino wool knits fabrics make for nice outdoor clothing, and are well suitable for tube scarfs.
@@ -22,7 +28,7 @@ Examples of suitable fabrics
 - shelby outdoor Merino Wool Fabric 19.5 Micron 125cm Mulesing Free https://www.shelbyoutdoor.com/product_info.php?products_id=5393
 - eurokangas.fi merino wool: https://www.eurokangas.fi/merinovilla-vihrea-5605872v100
 
-## Polar fleece (polyester)
+### Polar fleece (polyester)
 
 Polar fleece is a good option for nice warm and thick tube scarf for winter us. The fabric is cheap, easy to sew, and does not fray.
 
@@ -31,7 +37,7 @@ Fleece can be **difficultl to breath through** due to its thickness. If you move
 
 
 
-# Cut
+## Cut
 
 The tube scarf is made from a single rectangle of fabric.  
 
@@ -52,7 +58,7 @@ Sizes I've used
 - my head circumference in 59 cm when measured at eyebrow level/above the ares 
 - the merio wool knits have more stretch than the polarfleece, hence the smaller tube circumference
 
-# Construction
+## Construction
 
 A serger is probably most suitable. Personally I use a household sewing machine with stitch setting that stretches, such as the "Red 7" stitch on my singer Samba 7. This is one of those stitches that look like this `__/__/__/__/`. 
 
@@ -61,6 +67,6 @@ Alternatively set the zig-zag stitch width to 2mm, stitch width  5mm `/\/\/\/\/`
 Make a small bar tack at both ends of the seam, or copious amounts of back tics. The end of the seam is the most vulnerable place of the tube scarf.
 
 
-# Accessories
+## Accessories
 
 Make a matching [beanie](../beanie/beanie) with the same fabric.

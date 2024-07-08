@@ -14,7 +14,7 @@ The pack is made from 4 main pieces:
 
 Annotated patterns drawn in to-scale SVG (scalable vector graphics) available here:
 
-- [backpack, daypack, large](backpack,%20daypack,%20large.svg)
+- [backpack, daypack, large](backpack, daypack, large.svg)
 
 Regarding reading the pattern, many of the directional terms are borrowed terms from medical anatomy, since I find they are less ambiguous in my opinoin. In case it's confusing, you'll be fine by translating as:
 
@@ -60,7 +60,7 @@ The _inferior section_ of the shoulder strap is connected to the pack with a ste
 
 # Posterior panel
 
-The exterior face of the posterior panel has [Sewing PALS](../techiques/Sewing%20PALS) webbing, a patch of velcro loop, and the side release bulckle resptacles for the compression straps. You may also leave the compression strap buckles, and opt for a beavertail instead.
+The exterior face of the posterior panel has [Sewing PALS](../techiques/Sewing PALS) webbing, a patch of velcro loop, and the side release bulckle resptacles for the compression straps. You may also leave the compression strap buckles, and opt for a beavertail instead.
 
 
 

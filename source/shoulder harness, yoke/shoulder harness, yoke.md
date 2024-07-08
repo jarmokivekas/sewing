@@ -1,11 +1,9 @@
----
-title: Soulder harness, yoke
----
+# Soulder harness, yoke
 
 This is a modular yoke style harness inspired (nearly copied) by the Hill people gear shoulder harness that they sell with their various packs.
 
 
-![yoke on daypack](yoke%20on%20daypack.jpg)
+![](yoke_on_daypack.jpg)
 
 Shoulder harness features:
 
@@ -14,9 +12,9 @@ Shoulder harness features:
 - shoulder harness module: the pack itself may be changed
 - buckle for load lifters
 - PALS style webbing at the front for attaching module
-	- [sternum strap, 20mm, modular](../sternum%20strap,%2020mm,%20modular/sternum%20strap,%2020mm,%20modular) compatible
+	- [sternum strap, 20mm, modular](../sternum strap, 20mm, modular/sternum strap, 20mm, modular) compatible
 	- [shoulder strap pocket] compatible
-	- [kit bag](../kit%20bag/chest%20pack.svg) compatible
+	- [kit bag](../kit bag/chest pack.svg) compatible
 
 
 I've used this for example with
@@ -25,12 +23,12 @@ I've used this for example with
 - [backpack, small, rolltop, utility shoulder strap]
 - Savotta Jääkäri XL, with some additional modules to the ruck frame
 
-# CAD files
+## CAD files
 
-All the pattern images are available as a .svg vector file here: [shoulder harness, yoke.svg](shoulder%20harness,%20yoke.svg). The pattern is drawn to scale.
+All the pattern images are available as a .svg vector file here: [shoulder harness, yoke.svg](shoulder harness, yoke.svg). The pattern is drawn to scale.
 
 
-# Materials
+## Materials
 
 
 Material | Quantiry
@@ -47,13 +45,13 @@ thread | Zwilon 60 bonded nylon
 
 See **Acessories** section for additional modules you may want to include with this shoulder harness. Those materials are not listed in the table above.
 
-# Drafting the pattern
+## Drafting the pattern
 
-It's important to note, that the shape of the yoke is provided by the cut pattern of the bottom- and top fabric. The specific pattern presented here is one I've drafted for myself to fit my body. You may want to consider drafting you own shape, and adapting the pattern. Unlike some simpler shoulder straps, yokes are not a one-size-fits-all solution in my experience. 
+It's important to note, that the shape of the yoke is provided by the cut pattern of the bottom- and top fabric. The specific pattern presented here is one I've drafted for myself to fit my body. You may want to consider drafting you own shape, and adapting the pattern. Unlike some simpler shoulder straps, yokes are not a one-size-fits-all solution in my experience.
 
 
 
-# Cut
+## Cut
 
 
 
@@ -63,7 +61,7 @@ It's important to note, that the shape of the yoke is provided by the cut patter
 4. cut the foam padding using the same pattern as the main fabric
 ![](export_cut.png)
 
-# Construction
+## Construction
 
 TL:DR: in short, sew all the parts of webbing to the right side of the top fabric. Hide ends of all the webbing underneath the 40mm strain relief webbing. Then sew the bottom and top fabrics together, wrong sides facing each other. Leave a opening to slip in the foam before completing the seam. Edge bind or otherwise finish the edges.
 
@@ -72,7 +70,7 @@ TL:DR: in short, sew all the parts of webbing to the right side of the top fabri
 In the original Hill people gear product, all the stitching is done through both layers of fabric and the foam such that bar tacks in the webbing are visible on the bottom side of the shoulder harness. I have bad experiences with load carrying equipment constructed this way, as the bar tack are hard and can start chafing. My recommendation is to have all the webbing and the top fabric as one assembly. The bottom panel is only sew on later.
 
 
-## Strain relief and attachment points
+### Strain relief and attachment points
 
 
 
@@ -88,6 +86,7 @@ In the original Hill people gear product, all the stitching is done through both
 	6. trim the excess strain relief strap corners and melt the ends
 
 ![](export_strain_relief.svg)
+
 ### Shoulder straps
 
 The shoulder strap webbing should ideally lie in the middle of the shoulder strap. Use chalk or a marker to mark the center line along the fabric
@@ -95,11 +94,11 @@ The shoulder strap webbing should ideally lie in the middle of the shoulder stra
 1. mark the center line along which the shoulder strap webbing should be
 2. slip one end of the shoulder strap webbing under the strain relief
 	1. the webbing should start along the marked center line
-3. bar tack twice the shoulder strap webbing to the strain relief 
+3. bar tack twice the shoulder strap webbing to the strain relief
 4. thread the load lifter tri-glide buckles onto the shoulder strap webbing
 ![](export_shoulder_strap.svg)
 
-## PALS & adjuster buckle
+### PALS & adjuster buckle
 
 PALS uses a bar tack every 1.5 inches.
 
@@ -112,20 +111,20 @@ PALS uses a bar tack every 1.5 inches.
 	2. The webbing needs to curve a little between bar tacks, it will not be entirely flat against the fabric
 3. thread the adjuster buckle onto the webbing before sewing the last PALS loop
 4. fold the end of the webbing so the last PALS bar tack also secures the adjustment buckle
-5. lastly, sew the strain relief webbing top fabric by stitching along perimeter of the strain relief 
+5. lastly, sew the strain relief webbing top fabric by stitching along perimeter of the strain relief
 
 ![](export_pals.svg)
 
 
-## Bottom fabric & padding
+### Bottom fabric & padding
 
-The entire load bearing assembly should be done by this point. The last step is to sew the top and bottom panels together, and insert the foam padding. 
+The entire load bearing assembly should be done by this point. The last step is to sew the top and bottom panels together, and insert the foam padding.
 
 1. lay the bottom fabric and the top fabric assembly on top of each other, wrong sided facing together
 2. carefully align and clip/pin/baste the fabric panels
 	1. the PALS webbing may cause the top fabric to not lay flat, which makes it important to sure the panels stay aligned while sewing.
 3. sew the panels together by stitching along the perimeter of the harness
-	1. leave a gap in the seam in the center by the pack attachment points 
+	1. leave a gap in the seam in the center by the pack attachment points
 4. slip the foam padding in through the gap in the seam
 5. adjust the size of the foam padding if needed and re-insert
 6. finish the seam
@@ -136,13 +135,13 @@ The entire load bearing assembly should be done by this point. The last step is 
 
 **The harness should now be done**
 
-# Accessories
+## Accessories
 
 Depending on what pack you use with the shoulder harness, it may be useful to have some additional accessories.
 
-## Load lifter straps
+### Load lifter straps
 
-For bigger packs it's nice to have load lifters. When using the center attachment point for suspension, load lifers are required. 
+For bigger packs it's nice to have load lifters. When using the center attachment point for suspension, load lifers are required.
 
 This assumes the pack has asdjustment the adjustement buckesl. We just need to provide the load lifter strap itself.
 
@@ -153,10 +152,10 @@ This assumes the pack has asdjustment the adjustement buckesl. We just need to p
 4. thread the end with the loop though the tension buckle on the pack
 
 
-## Pack attachment utility strap
+### Pack attachment utility strap
 
 
-Different packs may have different ways of attaching to the shoulder harness. For packs with two d-ring attachment points, use a [utility strap, short](../utility%20strap,%20short/utility%20strap,%20short)
+Different packs may have different ways of attaching to the shoulder harness. For packs with two d-ring attachment points, use a [utility strap, short](../utility strap, short/utility strap, short)
 
 To attach the pack:
 
@@ -165,9 +164,16 @@ To attach the pack:
 - weave the free end of the utility strap through the tri-glide on the shoulder harness
 
 
-## Sternum strap
+### Sternum strap
 
-[sternum strap, 20mm, modular](../sternum%20strap,%2020mm,%20modular/sternum%20strap,%2020mm,%20modular) fits well as a sternum strap for this harness. It attaches with tri-glide buckles to the shoulder straps. The PALS loops help set the height at which the sternum strap sits.
+[sternum strap, 20mm, modular](../sternum strap, 20mm, modular/sternum strap, 20mm, modular) fits well as a sternum strap for this harness. It attaches with tri-glide buckles to the shoulder straps. The PALS loops help set the height at which the sternum strap sits.
 
+
+## Use with Savotta Jääkäri XL
+
+Savotta Jääkäri XL external frame rucksack modification to use the [shoulder harness, yoke](shoulder harness, yoke) shoulder harness module instead of it's default ones.
+
+
+![DSC02497](DSC02497.JPG)
 
 

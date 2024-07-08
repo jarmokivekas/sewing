@@ -1,4 +1,4 @@
-
+# Chest kit bag 
 
 - incredibly useful so far
 - two pockets on both the anterior and posteriot panel interior faces
@@ -10,11 +10,11 @@
 
 This is one of my favourite pieces of gear I have sewn so far.
 
-Materials:
+## Materials
 
 - Main exterior fabric: 1000D PU coated Foxdura
     - https://www.shelbyoutdoor.com/product_info.php?products_id=7668
-- Carry harness and [Sewing PALS](../techiques/Sewing%20PALS) webbing: Savotta PES webbing, green
+- Carry harness and [Sewing PALS](../techiques/Sewing PALS) webbing: Savotta PES webbing, green
 - buckles: ITW NEXUS 25 mm side release buckles
     - https://www.varusteleka.fi/fi/product/itw-classic-sr-pistosolki-musta/31888
     - https://www.varusteleka.fi/fi/product/itw-classic-sr-pistosolki-musta/31888

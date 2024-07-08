@@ -2,10 +2,12 @@
 title: Utility strap, short
 ---
 
+# Utility strap, short
+
 28 cm length of 25mm wide webbing. One end folded and sewn around center post of tri-glide buckle. Used for attaching rucksack bag to external frame.
 
 
-# Materials
+## Materials
 
 
 Material for one strap
@@ -17,7 +19,7 @@ Material for one strap
 |thread                 | Zwilon 60 bonded nylon|
 
 
-# Construction
+## Construction
 
 1. cut the webbing to length
 2. fold where marked
@@ -25,13 +27,13 @@ Material for one strap
 4. check the buckle is right-side-up
 5. bar tack twice to secure the buckle
 
-![utility strap, short](utility%20strap,%20short.svg)
+![utility strap, short](utility strap, short.svg)
 
-# Usage
+## Usage
 
 
 - Savotta Jääkäri XL type pack-to-frame attachment
-- Useful for attaching a pack to [shoulder harness, yoke](shoulshoulder%20harness,%20yoke/shoulshoulder%20harness,%20yoke) 
-- [chest pack](../kit%20bag/chest%20pack.svg) suspension from back pack shoulder harness that has a D-ring
+- Useful for attaching a pack to [shoulder harness, yoke](shoulshoulder harness, yoke/shoulshoulder harness, yoke) 
+- [chest pack](../kit bag/chest pack.svg) suspension from back pack shoulder harness that has a D-ring
 
 ![final](final.jpg)

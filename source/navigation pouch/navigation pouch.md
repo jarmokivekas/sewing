@@ -1,12 +1,13 @@
 ---
 layout: product_page
 title: navigation pouch
-
 ---
 
-**this is the frist line of `content` in navigation_puch.md
+# Navigation pouch
 
-- [pals](../techiques/Sewing%20PALS) attachment
+This is a smartphone navigation pouch that attaches to anyting with PALS webbing worn on the chest.
+
+- [pals](../techiques/Sewing PALS) attachment
 
 - chemlight attachment loop underneath lid
     - piece of elastic webbing that mounts a chemlight horisontally across the top of the pouch.
@@ -15,4 +16,4 @@ title: navigation pouch
     - e.g for map reading
 
 
-![navigation pouch](navigation%20pouch.svg)
+![navigation pouch](navigation pouch.svg)

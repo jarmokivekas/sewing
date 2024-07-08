@@ -1,17 +1,21 @@
- 
-# Materials
+# Beanie 
+
+## Materials
 
 | Material | quantity | note |
 | ---- | ---- | ---- |
 | main fabric | 0.6 meter | stretchy knits or fleece |
-# Cut
+
+
+## Cut
 
 
 - 60 x 50 rectangle 
 - 6 darts, each dart 10 cm long
 
 The 50 cm edge is the perimeter length of the beanie. The higher stretch should be along that direction
-# Construction
+
+## Construction
 
 sew the darts in this order:
 
@@ -27,9 +31,10 @@ Cut the darts
 
 - 60 degree points on the superior end
 - 90 degree points on the inferior end
+
 ![](beanie_g539.svg)
 
- ![](beanie_g540.svg)
+![](beanie_g540.svg)
 
 
 Fold over the center along and sew 
@@ -39,8 +44,10 @@ Fold the fabric outrside-out and finish by sewing the two remaining darts. Sew b
 ![](beanie_g542.svg)
 The beanie is now ready. Fold the interior end inside the exterior end, and then fold the brim of the hat up to a suitable height.
 ![](beanie_g543.svg)
-# Accessories 
+
+
+## Accessories
 
 
 
-Use the same materials to make a [tube scarf](tube%20scarf/tube%20scarf) or as the lining in a pair of  [mittens](mitten.svg)
+Use the same materials to make a [tube scarf](tube scarf/tube scarf) or as the lining in a pair of  [mittens](../mitten.svg)

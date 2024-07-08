@@ -1,9 +1,20 @@
+# Pattern documentation guidelines
 
 
-# Size callouts in Inkscape
+## Size callouts in Inkscape
 
-![](Pasted%20image%2020240126184736.png)
-in inkscape
+Although you can make all the measurements in inkscape, it's nice to have ready-made size callouts in images. Especially
+since sooner or later any pattern will be sent somewhere as a pdf or png instead of the original SVG, and you never know if the physical measurement units will remain constant.
+
+
+
+![alt text](<Pasted image 20240126184736.png>)
+
+
+To add size callouts in inkscape, do the following:
+
+
+
 1. Select the object
 2. open  *Path* > *Path* *Effect* panel
 3. press `+`
@@ -23,7 +34,7 @@ In the **Options** tab:
 	1. use separate indexes with comma
 	2. check *invert blacklist* to whitelist segments
 
-# Visual styles
+## Visual styles
 
 
 The visual style guide in buckles.svg has slowly evolved to ensure that the SVG files are readable in as many contexts as possible.
