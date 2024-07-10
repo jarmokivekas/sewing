@@ -2,6 +2,37 @@
 
 This pattern doesn't actually exist yet. These are just notes for supplies, references, and design consideraions.
 
+## Size
+
+The poncho fabric should be at least 200 x 145 cm. For long people maybe closer to 250 x 150 cm.
+A 210 - 215 cm length will drape roughly down to the knees when worn without a backpak. 
+Wearing a backpak under the poncho will eat up some of the length on the rear side.
+
+One option for a longer poncho would also be to make the rear section longer than the front section.
+This way the backpak can take some of the length without issues.
+A longer rear section will also probably not bother too much while walking even if you're not wearing a backpack, making the hem drape down lower.
+
+
+My circumference around the upper arms and chest is roughly 140cm.
+So the "body bag" configuration is a squeeze, especially with a sleeping bag.
+The head end of the bag should be able to be left slightly open, similar to a backless camping quilt, to make space for the shoulders.
+The leg end of the bag can be fully closed to make a foot box.
+
+
+
+## Materials
+
+Assuming a 220 cm x 150 cm poncho
+
+| name                      | quantity      | note                                    
+|---------------------------|---------------|-----------------------------------------
+| Main fabric (150 cm wide) | 220cm + 50cm  | length of the poncho + fabric for the hood
+| #8 YKK zipper             | 390cm         | (closure option 1) 2x short edge + long edge + 20cm extra
+| #8 YKK pulls              | 4pcs          | (closure option 1) 1 for both short edges + 2 for long edge
+| this table is incomplete  |               |
+
+
+
 ## Similar products for reference
 
 
@@ -46,21 +77,4 @@ Some things to take into consideration if you want to close the poncho lengthwis
 - front-right and back-right closures need to match when wearing as a poncho
 - front-right and front-left closures need to match when using in long-bag configuration
 
-
-## Size
-
-At least 200 x 145 cm. For long people maybe closer to 250 x 150 cm.
-A 210 - 215 cm length will drape roughly down to the knees when worn without a backpak. 
-Wearing a backpak under the poncho will eat up some of the length.
-
-One option for a longer poncho would also be to make the rear section longer than the front section.
-This way the backpak can take some of the length without issues.
-A longer rear section will also probably not bother too much while walking even if you're not wearing a backpack, making the hem drape down lower.
-
-
-
-My circumference around the upper arms and chest is 140cm.
-So the bodybag configuration is a squeeze, especially with a sleeping bag.
-The head end of the bag should be able to be left slightly open, similar to a backless camping quilt, to make space for the shoulders.
-The leg end of the bag can be fully closed to make a foot box.
 
