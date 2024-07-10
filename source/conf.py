@@ -9,7 +9,7 @@
 project = ''
 copyright = '2024, Jarmo Kivekäs'
 author = 'Jarmo Kivekäs'
-
+html_title = "Outdoor sewing patterns"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
@@ -28,8 +28,9 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_theme = 'furo'
+html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
-html_theme_options = {
-    "force_theme": "light",  # Also can be "light"
-}
+# html_theme_options = {
+#     "force_theme": "light",  # Also can be "light"
+# }

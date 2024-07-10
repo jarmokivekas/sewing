@@ -1,6 +1,3 @@
----
-title: pouch, pals, half zipper
----
 
 # Pouch, horizontal 25 x 16 x 9 cm
 

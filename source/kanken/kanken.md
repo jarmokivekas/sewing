@@ -1,5 +1,6 @@
 
-# Kånken, kind of...
+# Backpack, Kånken, kind of...
+
 
 
 ![](a-little-pirate-copy-made-out-of-a-surplus-laundry-bag-v0-6k2m51iv63ua1.jpg)
@@ -7,10 +8,16 @@
 
 ## Materials
 
-| Material | Quantity | Note |
-| ---- | ---- | ---- |
-| main fabric | 50 cm | Some nice stiff & durable fabric.  |
-| #8 YKK | 90 cm + 28 cm | This can be tape by-the meter. No terminations necessary |
+| Material                  | Quantity      | Note |
+|---------------------------|---------------|-----------------------------------
+| main fabric (150cm wide)  | 50 cm         | Some nice stiff & durable fabric. |
+| #8 YKK zipper             | 90 cm + 28 cm | This can be tape-by-the meter. No terminations necessary          |
+| #8 YKK pulls              | 3 pcs         | locking of non-locking. Up to your preference                     |
+| pull tabs for zipper      | 3 pcs         | e.g 20cm bits of 2-3 mm accessory cord, paracord                  |
+| 25mm webbing              | 244cm + 50cm  | for the shoulder harness and posterior carry handle               |
+| 40mm webbing              | 2 x 20cm      | for the attachment of the shoulder harness adjustement buckle     |
+| 25mm D-ring               | 4 pcs         | or 2 pcs of regular adjustment bulckes. For the shoulder harness  |
+
 
 ## Cut 
 

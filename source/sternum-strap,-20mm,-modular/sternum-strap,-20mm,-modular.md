@@ -1,17 +1,21 @@
+# Sternum strap
 
-# Materials
 
-material | amount
+## Materials
+
+material | quantity
 ---------|-------
-tri-glide buckle, 20mm | 2
-side-release buckle, 20mm, plug | 1
-side-release buckle, 20mm, receptacle | 1
-webbing, 20mm | 1 meter
+tri-glide buckle, 20mm                  | 2
+side-release buckle, 20mm, plug         | 1
+side-release buckle, 20mm, receptacle   | 1
+webbing, 20mm                           | 1 meter
 
 ![](materials.svg)
-# Construction
 
-## Left side
+
+## Construction
+
+### Left side
 1. cut 55 cm of 20mm webbing
 2. fold over the webbinf 1 inch from the end
 3. bartack the fold to make it permanent
@@ -19,7 +23,7 @@ webbing, 20mm | 1 meter
 
 ![](left.svg)
 
-## Right side 
+### Right side 
 
 1. cut 35cm of webbing
 2. make a fold 3 cm from the end
@@ -31,7 +35,7 @@ webbing, 20mm | 1 meter
 ![](right.svg)
 
 
-# Usage
+## Usage
 
 #incomplete
 

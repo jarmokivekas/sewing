@@ -1,9 +1,6 @@
 # Tube scarf
 
 
-
-## Overview
-
 Nothing much to this, a super simple Buff-like tube scarf
 
 - 52cm x 52cm piece of fleece, wool,  or other cozy fabric

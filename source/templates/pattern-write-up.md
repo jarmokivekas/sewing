@@ -1,13 +1,14 @@
+# Write-up template
 
-# Overview
+## Materials
 
-# Materials
+| Material              | Quantity  | Note              |
+|-----------------------|-----------|-------------------|
+| main fabric           | 1 meter   |                   |
 
-| Material | Quantity | Note |
-| ---- | ---- | ---- |
-| main fabric | 1 meter |  |
-# Cut
 
-# Construction
+## Cut
 
-# Accessories 
+## Construction
+
+## Accessories 

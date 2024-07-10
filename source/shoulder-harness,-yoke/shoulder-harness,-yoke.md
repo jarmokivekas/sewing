@@ -1,4 +1,4 @@
-# Soulder harness, yoke
+# Shoulder harness, yoke
 
 This is a modular yoke style harness inspired (nearly copied) by the Hill people gear shoulder harness that they sell with their various packs.
 

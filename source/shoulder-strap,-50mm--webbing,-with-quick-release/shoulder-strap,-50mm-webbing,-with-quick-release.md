@@ -1,3 +1,4 @@
+# Shoulder harness, unpadded, with quick-release
 
 A pair of shoulder straps I originally made for use while nordic skating (ice skating on sea ice). 
 
@@ -10,13 +11,13 @@ Notable features:
 Two pairs of finished shoulder straps. One with Quick release and the other with a conventional adjustment buckle:
 ![](../finished-shoulder-straps.jpg)
 
-# Sewing pattern
+## Sewing pattern
 
 
 The full .svg vector drawing of the sewing pattern is available here: [shoulder strap, 50mm webbing](shoulder-strap,-50mm-webbing.svg)
 
 
-# Materials
+## Materials
 
 
 Material for one shoulder strap. You'll need double to make a pair.
@@ -33,7 +34,7 @@ side release buckle, receptacle | 1 pcs
 The side-release buckles are optional. You can change the plug-receptacle pair to a conventional adjustment buckle.  
 
 ![](complete.png)
-# Cut pattern
+## Cut pattern
 
 Cut the webbing to length according to the pattern.
 
@@ -43,7 +44,7 @@ Cut the webbing to length according to the pattern.
 ![](cut.png)
 
 
-# Construction
+## Construction
 
 Start by assembling the main *load carrying webbing* and *padding webbing*. Set the *length adjustment webbing* aside for now
 
@@ -77,7 +78,7 @@ Start by assembling the main *load carrying webbing* and *padding webbing*. Set 
 ![](step4.png)
 
  
-## Length adjustment webbing
+### Length adjustment webbing
 
 Set the finished assembly aside and work on the *length adjustment webbing*. Shoulder length adjustment webbing is simply a length of webbing with 10cm long loops at both ends. It is attached either to the external frame of a pack, a D-ring, or other suitable attachment point on a pack
 
@@ -92,13 +93,13 @@ Set the finished assembly aside and work on the *length adjustment webbing*. Sho
 ![](step6.png)
 
 
-# Usage 
+## Usage 
 
 On packs with D-ring attachment points
 
 
 
-# Compatible modules
+## Compatible modules
 
 You may want to combine this with:
 
@@ -106,7 +107,7 @@ You may want to combine this with:
 - [backpack, daypack, large](../backpack,-daypack,-large/backpack,-daypack,-large) is designed to use these as one shoulder harness option
 - [backpack, small, rolltop, utility shoulder strap](../backpack, small, rolltop, utility shoulder strap.svg) can be attached, although it was not originally designed to do so
 
-# Quick release for nordic skating
+## Quick release for nordic skating
 
 
 Carrying a backpack with rescue equipment and dry clothes is essential for nordic skating. The dry clothes are for when the ice breaks, and you inadvertently end up going for a swim in zero degree water. As you should be expecting to swim, the dry clothes should be in a watertight drybag. The drybag has a secodary purpose as well: to keep the pack floating in the water. 
