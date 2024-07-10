@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'sewing'
+project = ''
 copyright = '2024, Jarmo Kivekäs'
 author = 'Jarmo Kivekäs'
 
@@ -27,4 +27,9 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'alabaster'
+html_theme = 'furo'
 html_static_path = ['_static']
+
+html_theme_options = {
+    "force_theme": "light",  # Also can be "light"
+}
