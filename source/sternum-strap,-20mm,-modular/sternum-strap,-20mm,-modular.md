@@ -1,5 +1,10 @@
 # Sternum strap
 
+A modular sternum strap that can be added to the shoulder harness of most backpacks. The sternum strap is attached using tri-glide buickles to either around the shoulder strap, or to a suitable piece of webbing of the shoulder strap.
+
+This example is using 20mm webbing, but the width may be adjusted based on material preference.
+
+![](final.svg)
 
 ## Materials
 
@@ -15,7 +20,8 @@ webbing, 20mm                           | 1 meter
 
 ## Construction
 
-### Left side
+### Plug Side
+
 1. cut 55 cm of 20mm webbing
 2. fold over the webbinf 1 inch from the end
 3. bartack the fold to make it permanent
@@ -23,7 +29,7 @@ webbing, 20mm                           | 1 meter
 
 ![](left.svg)
 
-### Right side 
+### Receptacle Side 
 
 1. cut 35cm of webbing
 2. make a fold 3 cm from the end
@@ -35,8 +41,4 @@ webbing, 20mm                           | 1 meter
 ![](right.svg)
 
 
-## Usage
 
-#incomplete
-
-![](final.svg)
