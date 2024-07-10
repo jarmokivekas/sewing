@@ -1,6 +1,17 @@
-# Chest kit bag 
+# Kit Bag 
 
-- incredibly useful so far
+
+The Kit Bag has proven to be incredibly useful so far, and can be used in many ways.
+
+In my view, the purpose of a kit bag is to keep you pockets mostly empty, and to make sure that all you small important things have a dedicated place where they are supposed to be and are easy to find and get access to. Typicall the kit bag is worn on the chest as part of you backpack or rucksack.
+
+
+![alt text](IMG_20221016_105949.jpg)
+
+
+## Features
+
+
 - two pockets on both the anterior and posteriot panel interior faces
 - Dual dlastic webbing organizer on both anterior and posterior panel interior faces
     - Elastic is layerd with 8cm wide elasitc with 3 inch partitions, and 3cm wide elastic with 1.5 inch partitions

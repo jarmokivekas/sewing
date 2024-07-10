@@ -153,12 +153,13 @@
 <li class="toctree-l1"><a class="reference internal" href="../utility-strap%2C-short/utility-strap%2C-short.html">Utility strap, short</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../shoulder-harness%2C-yoke/shoulder-harness%2C-yoke.html">Shoulder harness, yoke</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../shoulder-strap%2C-50mm--webbing%2C-with-quick-release/shoulder-strap%2C-50mm-webbing%2C-with-quick-release.html">Shoulder harness, unpadded, with quick-release</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../kid-carrier/kid-carrier.html">Kid carrier</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../sternum-strap%2C-20mm%2C-modular/sternum-strap%2C-20mm%2C-modular.html">Sternum strap</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../kanken/kanken.html">Backpack, Kånken, kind of…</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../backpack%2C-daypack%2C-large/backpack%2C-daypack%2C-large.html">Backpack, daypack, large</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../kit-bag/kit-bag.html">Chest kit bag</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../backpack%2C-small%2C-rolltop%2C-utility-shoulder-strap/backpack%2C-small%2C-rolltop%2C-utility-shoulder-strap.html">Backpack, small, rolltop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../kid-carrier/kid-carrier.html">Kid carrier</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../kit-bag/kit-bag.html">Kit Bag</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../bikepack%2C-frame-bag-sling.html">bikepack, frame bag sling</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../sternum-strap%2C-20mm%2C-modular/sternum-strap%2C-20mm%2C-modular.html">Sternum strap</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">PALS-Pouches</span></p>
 <ul class="nav bd-sidenav">
@@ -329,6 +330,7 @@ document.write(`
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#size-callouts-in-inkscape">Size callouts in Inkscape</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#exporting-layers-from-inkscape">Exporting Layers from Inkscape</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visual-styles">Visual styles</a></li>
 </ul>
             </nav>
@@ -372,6 +374,23 @@ since sooner or later any pattern will be sent somewhere as a pdf or png instead
 </ol>
 </li>
 </ol>
+</section>
+<section id="exporting-layers-from-inkscape">
+<h2>Exporting Layers from Inkscape<a class="headerlink" href="#exporting-layers-from-inkscape" title="Link to this heading">#</a></h2>
+<p>For instructions that involve multiple steps, make a layer in inkscape for each individual step. In Inkscape version &gt;1.2 you can batch export layers into individual .svg files. This is a very convenient way to keep all your illustrations in a single worksheet, but still have sections of that worksheet available to link and reference in markdown or .rst files.</p>
+<p>Note that if you don’t have the batch export feature, you’re probably on an old version on Inkscape (ubuntu repositories for LTS versions are still on 1.1.x). Consider usign the apt PPA as instructed on inkscape.org.</p>
+<p>To batch export layers, do the following:</p>
+<ul class="simple">
+<li><p>make sure your illustrations are properly set up with layers</p></li>
+<li><p>Open <em>File &gt; Export</em> from the menu bar</p></li>
+<li><p>Open the <em>Batch export</em> tab in the panel</p></li>
+<li><p>Check all the layer you want to export under the <em>Layers</em> section</p></li>
+<li><p>Check <em>Export Selected Only</em></p></li>
+<li><p>Set <em>Format</em> to <em>Plain SVG</em></p></li>
+<li><p>Choose the export directory</p></li>
+<li><p>Press <em>Export</em></p></li>
+<li><p>Exported files will by default use the layer name as the file name</p></li>
+</ul>
 </section>
 <section id="visual-styles">
 <h2>Visual styles<a class="headerlink" href="#visual-styles" title="Link to this heading">#</a></h2>
@@ -430,6 +449,7 @@ since sooner or later any pattern will be sent somewhere as a pdf or png instead
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#size-callouts-in-inkscape">Size callouts in Inkscape</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#exporting-layers-from-inkscape">Exporting Layers from Inkscape</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visual-styles">Visual styles</a></li>
 </ul>
   </nav></div>

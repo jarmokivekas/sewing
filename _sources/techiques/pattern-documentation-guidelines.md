@@ -34,6 +34,24 @@ In the **Options** tab:
 	1. use separate indexes with comma
 	2. check *invert blacklist* to whitelist segments
 
+## Exporting Layers from Inkscape
+
+For instructions that involve multiple steps, make a layer in inkscape for each individual step. In Inkscape version >1.2 you can batch export layers into individual .svg files. This is a very convenient way to keep all your illustrations in a single worksheet, but still have sections of that worksheet available to link and reference in markdown or .rst files.
+
+Note that if you don't have the batch export feature, you're probably on an old version on Inkscape (ubuntu repositories for LTS versions are still on 1.1.x). Consider usign the apt PPA as instructed on inkscape.org.
+
+To batch export layers, do the following:
+
+- make sure your illustrations are properly set up with layers
+- Open *File > Export* from the menu bar
+- Open the *Batch export* tab in the panel
+- Check all the layer you want to export under the *Layers* section
+- Check *Export Selected Only*
+- Set *Format* to *Plain SVG*
+- Choose the export directory
+- Press *Export*
+- Exported files will by default use the layer name as the file name
+
 ## Visual styles
 
 
