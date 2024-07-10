@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Pattern documentation guidelines &#8212; sewing  documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=d1102ebc" />
+    <link rel="stylesheet" type="text/css" href="../_static/alabaster.css?v=12dfc556" />
+    <script src="../_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Inkscape" href="inkscape.html" />
+    <link rel="prev" title="Pattern lexicon and naming conventions" href="pattern-lexicon-and-naming-conventions.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="pattern-documentation-guidelines">
+<h1>Pattern documentation guidelines<a class="headerlink" href="#pattern-documentation-guidelines" title="Link to this heading">¶</a></h1>
+<section id="size-callouts-in-inkscape">
+<h2>Size callouts in Inkscape<a class="headerlink" href="#size-callouts-in-inkscape" title="Link to this heading">¶</a></h2>
+<p>Although you can make all the measurements in inkscape, it’s nice to have ready-made size callouts in images. Especially
+since sooner or later any pattern will be sent somewhere as a pdf or png instead of the original SVG, and you never know if the physical measurement units will remain constant.</p>
+<p><img alt="alt text" src="../_images/Pasted-image-20240126184736.png" /></p>
+<p>To add size callouts in inkscape, do the following:</p>
+<ol class="arabic simple">
+<li><p>Select the object</p></li>
+<li><p>open  <em>Path</em> &gt; <em>Path</em> <em>Effect</em> panel</p></li>
+<li><p>press <code class="docutils literal notranslate"><span class="pre">+</span></code></p></li>
+<li><p>add “<em>Measure Segments</em>” effect</p></li>
+</ol>
+<p>For readability, in the <strong>General</strong> tab, set:</p>
+<ol class="arabic simple">
+<li><p>Unit: mm</p></li>
+<li><p>Font: Monospace Regular, 28</p></li>
+<li><p>Position: 10</p></li>
+<li><p>Line width: 0.50</p></li>
+</ol>
+<p>In the <strong>Options</strong> tab:</p>
+<ol class="arabic simple">
+<li><p>Precision: 0</p></li>
+<li><p>Blacklist segments</p>
+<ol class="arabic simple">
+<li><p>use separate indexes with comma</p></li>
+<li><p>check <em>invert blacklist</em> to whitelist segments</p></li>
+</ol>
+</li>
+</ol>
+</section>
+<section id="visual-styles">
+<h2>Visual styles<a class="headerlink" href="#visual-styles" title="Link to this heading">¶</a></h2>
+<p>The visual style guide in buckles.svg has slowly evolved to ensure that the SVG files are readable in as many contexts as possible.</p>
+<ul class="simple">
+<li><p>do not use ‘hairline’ stroke. It is very inconsistent with how it’s rendered. Instead use e.g a 0.5mm stroke width.  Set Inkscape to use the bounding box of the pure path geometry, not the rendered geometry. Otherwise the stroke width will be added as padding to the shape bounding box, and cause misalignments in the illustrations</p></li>
+<li><p>avoid using transparency. Browsers and image viewers are inconsistent in how they display transparent objects. It may difficult to understand images.</p></li>
+</ul>
+<p><img alt="buckles" src="../_images/buckles.svg" /></p>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../index.html">sewing</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Clothing</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../tube-scarf/tube-scarf.html">Tube scarf</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../beanie/beanie.html">Beanie</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../thermal-cloak/thermal-cloak.html">Thermal cloak</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">PALS-Pouches</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../PALS-Modules/pouch%2C-horizontal%2C-25x16x9-cm.html">Pouch, horizontal 25 x 16 x 9 cm</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../navigation-pouch/navigation-pouch.html">Navigation pouch</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Load-carrying-modules</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../utility-strap%2C-short/utility-strap%2C-short.html">Utility strap, short</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../shoulder-harness%2C-yoke/shoulder-harness%2C-yoke.html">Soulder harness, yoke</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../kid-carrier/kid-carrier.html">Kid carrier</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../kanken/kanken.html">Kånken, kind of…</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../backpack%2C-daypack%2C-large/backpack%2C-daypack%2C-large.html">Large daypack with PALS webbing and detachable shoulder straps</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../backpack%2C-daypack%2C-large/backpack%2C-daypack%2C-large.html#id1">Posterior panel</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../kit-bag/kit-bag.html">Chest kit bag</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../bikepack%2C-frame-bag-sling.html">bikepack, frame bag sling</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">General Instructions &amp; Meta</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="pattern-lexicon-and-naming-conventions.html">Pattern lexicon and naming conventions</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Pattern documentation guidelines</a></li>
+<li class="toctree-l1"><a class="reference internal" href="inkscape.html">Inkscape</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="pattern-lexicon-and-naming-conventions.html" title="previous chapter">Pattern lexicon and naming conventions</a></li>
+      <li>Next: <a href="inkscape.html" title="next chapter">Inkscape</a></li>
+  </ul></li>
+</ul>
+</div>
+<search id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;2024, Jarmo Kivekäs.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 7.3.7</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 0.7.16</a>
+      
+      |
+      <a href="../_sources/techiques/pattern-documentation-guidelines.md.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
