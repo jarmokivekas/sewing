@@ -9,6 +9,8 @@ jobs:
       contents: write
     steps:
     - uses: actions/checkout@v4
+    - name: Install build dependencies
+      run: python3 -m pip install -r requirements.txt
     - name: Build HTML
       run: make html
     - name: Upload artifacts
