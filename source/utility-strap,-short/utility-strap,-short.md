@@ -33,7 +33,7 @@ Material for one strap
 
 
 - Savotta Jääkäri XL type pack-to-frame attachment
-- Useful for attaching a pack to [shoulder harness, yoke](shoulder-harness,-yoke/shoulshoulder-harness,-yoke)-
+- Useful for attaching a pack to [shoulder harness, yoke](../shoulder-harness,-yoke/shoulder-harness,-yoke)-
 - [chest pack](../kit-bag/chest-pack.svg) suspension from back pack shoulder harness that has a D ring
 
 ![final](final.jpg)

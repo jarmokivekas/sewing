@@ -35,6 +35,7 @@ Welcome to sewing's documentation!
     
     utility-strap,-short/utility-strap,-short
     shoulder-harness,-yoke/shoulder-harness,-yoke
+    kid-carrier/kid-carrier
     kanken/kanken
     backpack,-daypack,-large/backpack,-daypack,-large
     kit-bag/kit-bag
