@@ -30,10 +30,11 @@ Below is a list of all the documented patterns so far. The undocumented ones are
     kid-carrier/kid-carrier
     kit-bag/kit-bag
     bikepack,-frame-bag-sling
+    field-note-kit/field-note-kit,-small
 
 .. toctree::
     :maxdepth: 1
-    :caption: PALS-Pouches
+    :caption: PALS Pouches
     :glob:
 
     PALS-Modules/*
