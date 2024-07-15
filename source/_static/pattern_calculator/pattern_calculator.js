@@ -91,6 +91,7 @@ function fabric_rect(svg,x,y,width_mm,height_mm,corner_radius_mm = 0,seam_allowa
 // read the GET parameters from url, and populate the values back to the form fields
 // this prevents the field form being blank after pressing submit.
 function update_params_to_form() {
+    console.log("updating GET params to the form values")
     let params = (new URL(document.location)).searchParams;
     console.log(params)
     for (const [key, value] of params.entries()) {
@@ -102,6 +103,7 @@ function update_params_to_form() {
 
 // read the GET parameters into easier to use values.
 function get_pattern_params(){
+    console.debug("getting parameters from GET url")
     let params = (new URL(document.location)).searchParams;
     var pattern = {}
     // loop through all k-v pair in the get params
