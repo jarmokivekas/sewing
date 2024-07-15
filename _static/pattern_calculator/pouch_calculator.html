@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{
+            font-family: monospace;
+        }
+        form{
+            display: block;
+            float: left;
+            width: 20%
+        }
+        #content {
+            display: block;
+            float: left;
+            width: 50%;
+            padding-left: 5%;
+        }
+    </style>
+    <script type="text/javascript" src="./pattern_calculator.js"></script>
+
+</head>
+<body>
+
+
+
+
+    <form action="">
+        <fieldset>
+            <legend>Pouch features</legend>
+            <label for="closure_type">closure_type</label><br>
+            <input type="select" name="closure_type"  id="closure_type" list="closure_type_list">
+            <datalist id="closure_type_list">
+            <option value="zipper, clamshell">
+            <option value="zipper, half">
+            <option value="lid & buckle">
+            </datalist>
+        </fieldset>
+        <fieldset>
+            <legend>Pouch dimensions</legend>
+            <label for="width">width</label><br>    <input type="number" name="width"  id="width" value="100"> mm<br />
+            <label for="height">height</label><br>  <input type="number" name="height" id="height" value="100"> mm<br />
+            <label for="depth">depth</label><br>    <input type="number" name="depth"  id="depth" value="50"> mm<br />
+            <label for="corner_radius_mm">corner_radius_mm</label><br><input type="number" name="corner_radius_mm" id="corner_radius_mm" value="0"> mm<br />
+            <label for="seam_allowance">seam_allowance</label><br><input type="number" name="seam_allowance" id="seam_allowance" value="10"> mm<br />
+        </fieldset>
+        <input type="submit">
+    </form>
+
+    <div id="content">
+
+
+
+
+
+
+
+
+
+
+<h2>Anterior panel</h2>
+    
+    <svg xmlns="http://www.w3.org/2000/svg"  height="300" id="anterior"></svg>
+    <script>
+        let pouch = get_pattern_params();
+        let svg = document.querySelector("svg#anterior")
+        let anterior = fabric_rect(
+            svg,
+            0,
+            0,
+            pouch.width,
+            pouch.height,
+            pouch.corner_radius_mm,
+            pouch.seam_allowance,
+        )
+        svg.setAttribute("viewBox", anterior.viewbox.join(" "))
+    </script>
+
+
+
+<h2>Posterior panel</h2>
+
+    <svg xmlns="http://www.w3.org/2000/svg" height="300" id="posterior"></svg>
+    <script>
+    svg = document.querySelector("svg#posterior")
+    console.log(pouch)
+    fabric = fabric_rect(
+        svg,
+        0,
+        0,
+        pouch.width,
+        pouch.height,
+        pouch.corner_radius_mm,
+        pouch.seam_allowance,
+    )
+    webbing_rect(svg,-pouch.seam_allowance,1*INCH,pouch.width+2*pouch.seam_allowance,1*INCH)
+    svg.setAttribute("viewBox", fabric.viewbox.join(" "))
+
+    </script>
+    </div>
+
+
+
+
+    <script>
+        update_params_to_form()
+    </script>
+</body>
+</html>

@@ -15,6 +15,8 @@ Night owl? You can switch between light and dark mode for this site in the top-r
 
 Below is a list of all the documented patterns so far. The undocumented ones are in the github repository that hosts this site: https://github.com/jarmokivekas/sewing/.
 
+
+
 .. toctree::
     :maxdepth: 1
     :caption: Load-carrying-modules
@@ -55,6 +57,7 @@ Below is a list of all the documented patterns so far. The undocumented ones are
     :maxdepth: 1
     :caption: General Instructions & Meta
 
+    tarp/tarp
     techiques/Sewing-PALS
     techiques/pattern-documentation-guidelines
     techiques/pattern-lexicon-and-naming-conventions
