@@ -2,86 +2,54 @@
 <script type="text/javascript" src="../_static/pattern_calculator/pattern_calculator.js"></script>
 <script>
 
-    function sanitize_pattern_params() {
-        let pattern = get_pattern_params_from_form([
-            'tie_off_type',
-            'tie_off_count_length',
-            'tie_off_count_width',
-            'tarp_length_mm',
-            'tarp_width_mm'
-        ]);
-
-        // we are changing form data in this function, and this function
-        // is part of the onchange call for the form data.
-        // therefore we need to disable the onchange event for the form
-        // until we are done editing the form data. Otherwise we end up
-        // in a recursion
-
-        let pattern_form = document.getElementById('pattern_form')
-        let form_onchange = pattern_form.getAttribute("onchange")
-        pattern_form.setAttribute("onchange", "")
+    function sanitize_pattern_params(pattern) {
 
         // sanitize tie_off
         if (pattern.tie_off_type == undefined){
-            set_pattern_param("tie_off_type", "webbing")
+            pattern.tie_off_type = "webbing"
         }
 
         if (["webbing", "grommets"].includes(pattern.tie_off_type) == false) {
-            set_pattern_param("tie_off_type", "webbing")
-            alert("Tie-off type has to be 'webbing' or 'grommets'")
+            assert(`tie_off_type was set to an invalid value: ${pattern.tie_off_type}`)
+            pattern.tie_off_type = "webbing"
         }
 
         // Sanitize tie-off counts
         default_tie_off_count = 5
         if ([NaN, undefined].includes(pattern.tie_off_count_length)) {
-            set_pattern_param("tie_off_count_length", default_tie_off_count)
+            pattern.tie_off_count_length = default_tie_off_count
         }
- 
         if ([NaN, undefined].includes(pattern.tie_off_count_width)) {
-            set_pattern_param("tie_off_count_width", default_tie_off_count)
+            pattern.tie_off_count_width = default_tie_off_count
         }
 
         if (pattern.tie_off_count_length < 2) {
-            set_pattern_param("tie_off_count_length", 2)
-            alert('tie-off count cannot be less than 2 per side')
+            pattern.tie_off_count_length = 2
         }
 
         if (pattern.tie_off_count_width < 2) {
-            set_pattern_param("tie_off_count_width", 2)
-            alert('tie-off count cannot be less than 2 per side')
+            pattern.tie_off_count_width = 2
         }
 
         // sanitize tarp dimentsions
         if ([NaN, undefined].includes(pattern.tarp_length_mm)) {
-            set_pattern_param("tarp_length_mm", 3000)
+            pattern.tarp_length_mm = 3000
         }
         if ([NaN, undefined].includes(pattern.tarp_width_mm)) {
-            set_pattern_param("tarp_width_mm", 3000)
+            pattern.tarp_width_mm = 3000
         }
-        // if (pattern.tarp_length_mm < 50 ){
-        //     console.log(pattern.tarp_length_mm)
-        //     alert("tarp length can't be less than 50 mm")
-        //     pattern = set_pattern_param("tie_off_count_length", 50)
-        //     console.log(pattern.tarp_length_mm)
-        // }
-
-        // if (pattern.tarp_width_mm < 50 || [NaN, undefined].includes(pattern.tarp_width_mm)) {
-        //     alert("tarp width can't be less than 50 mm")
-        //     pattern = set_pattern_param("tie_off_count_width", 50)
-        // }
-        pattern_form.setAttribute("onchange", form_onchange)
-        
+        if (pattern.tarp_length_mm < 50 ){
+            pattern.tarp_length_mm = 50
+        }
+        if (pattern.tarp_width_mm < 50 ){
+            pattern.tarp_width_mm = 50
+        }
+    return pattern        
     }
 
-
-
-    function draw_sketch() {
+    function draw_sketch(pattern) {
         
      
-        let pattern = get_pattern_params_from_url()
-
-        console.log(pattern)
-
   
         assert(["webbing", "grommets"].includes(pattern.tie_off_type), "Tie-off type not recognized. Shall be 'webbing' or 'grommets'")
         assert(pattern.tie_off_count_length >= 2, "The number of tie-off can't be less than 2 per side")
@@ -210,13 +178,19 @@
     
     }
 
+    function update_page() {
+        pattern = sanitize_pattern_params(get_pattern_params_from_form())
+        // resubmit_form()
+        draw_sketch(pattern);
+        // set_pattern_params_to_url(pattern)
+    }
 
 
     </script>
 
 
 
-    <form action="" name="pattern_form" id="pattern_form" onchange="update_params_to_url();draw_sketch()">
+    <form action="" name="pattern_form" id="pattern_form" onchange="update_page()">
         <!-- <fieldset>
             <legend>Tie-off point type</legend>
 
@@ -265,7 +239,11 @@
     </div>
 
     <script>
-        update_params_to_form()
-        sanitize_pattern_params()
-        draw_sketch()
+        pattern = get_pattern_params_from_url()
+        console.log(pattern)
+        pattern = sanitize_pattern_params(pattern)
+        set_pattern_params_to_form(pattern)
+        set_pattern_params_to_url(pattern)
+        console.log(pattern)
+        draw_sketch(pattern)
     </script>

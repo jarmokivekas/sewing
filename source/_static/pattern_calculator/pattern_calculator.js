@@ -12,25 +12,7 @@ function assert(assert_passed, message) {
 
     return assert_passed
 }
-/**
- * Update the form input values, display, and URL get parameter value for a specific pattern parameter
- * 
- * @param {string} name - the pattern parameter name. shall also be the id of the form field and the name of the GET parameter
- * @param {*} value - value set to the parameter. Updated in both the form input and the URL get params
- * @returns params
- */
-function set_pattern_param(name, value) {
-    console.log("updating param: " + name + ": " + value)
- 
-    // update the url
-    let urlParams = new URLSearchParams(window.location.search);
-    urlParams.set(name, value);
-    window.location.search = urlParams;
 
-    // update the form
-    document.getElementById(name).value = value
-
-}
 
 function webbing_rect(svg,x,y,width,height) {
     let webbing =  document.createElementNS("http://www.w3.org/2000/svg", "rect");
@@ -106,37 +88,59 @@ function fabric_rect(svg,x,y,width_mm,height_mm,corner_radius_mm = 0,seam_allowa
 
 }
 
-
-// read the GET parameters from url, and populate the values back to the form fields
-// this prevents the field form being blank after pressing submit.
-function update_params_to_form() {
-    console.log("updating GET params to the form values")
-    let params = (new URL(document.location)).searchParams;
-    console.log(params)
-    for (const [key, value] of params.entries()) {
-        document.getElementById(key).value = value;
-    }
+/**
+ * enable and disable the onchange event of the form.
+ * returns the previous value of the attribute so that calling funcitons
+ * can easily restore the onchange functionality after temporerily disabling it
+ * 
+ * @param {string} onchange_value - the html onchange attribute value to set for the pattern form
+ * @returns the previous value of the attribute. 
+ */
+function set_form_onchange(onchange_value){
+    pattern_form = document.getElementById("pattern_form")
+    previous_value = pattern_form.getAttribute("onchange")
+    document.getElementById("pattern_form").setAttribute("onchange", onchange_value)
+    return previous_value
 }
 
+function set_query_string_parameter(name, value) {
+    const params = new URLSearchParams(window.location.search);
+    params.set(name, value);
+    window.history.replaceState({}, "", decodeURIComponent(`${window.location.pathname}?${params}`));
+}
+
+
+/**
+ * update the pattern form with new pattern parameters.
+ * onchange updating of the form is disabled during this function
+ * to prevent flickering of the screen.
+ */ 
+function set_pattern_params_to_form(pattern) {
+    
+    previous_onchange = set_form_onchange("")
+    for (const [key, value] of Object.entries(pattern)) {
+        document.getElementById(key).value = value;
+    }
+    set_form_onchange(previous_onchange)
+}
 
 /**
  * Read pattern form using Form data, and update all those data to the 
  * URL GET parameters. Assumes form data is sane.
  */
-function update_params_to_url() {
-    // let inputs = document.forms["pattern_form"].getElementsByTagName("input");
-  
-    let urlParams = new URLSearchParams(window.location.search);
-    
-    var form = document.getElementById('pattern_form');
-    var data = new FormData(form);
-    
-    
-    for (var [key, value] of data) {
-        urlParams.set(key, value);
+function set_pattern_params_to_url(pattern) {
+    const params = new URLSearchParams(window.location.search);
+    for (const [key, value] of Object.entries(pattern)) {
+        params.set(key, value);
     }
-
-    window.location.search = urlParams;
+    // replace state will change the window.location url without forcing
+    // the browser to loat. This prevents e.g. the widnow from scrolling on update
+    // or the website UI from flickering. 
+    window.history.replaceState(
+        {},
+        "",
+        decodeURIComponent(`${window.location.pathname}?${params}`)
+    );
 }   
 
 
@@ -145,7 +149,6 @@ function get_pattern_params_from_url(){
     console.debug("getting parameters from GET url")
     let params = (new URL(window.location)).searchParams;
     var pattern = {}
-    // loop through all k-v pair in the get params
     for (const [key, value] of params.entries()) {
         // if there is an <input> with the same id, use it to typecast variable
         // else numbers will be interpreted as strings
@@ -158,23 +161,15 @@ function get_pattern_params_from_url(){
     }
     return pattern;
 }
-// read the GET parameters into easier to use values.
-function get_pattern_params_from_form(param_names){
-
-
+function get_pattern_params_from_form(){
+    var form = document.getElementById('pattern_form');
+    var data = new FormData(form);
     var pattern = {}
-    // loop through all k-v pair in the get params
-    for (const key of param_names) {
-        // if there is an <input> with the same id, use it to typecast variable
-        // else numbers will be interpreted as strings
-        pattern[key] = document.querySelector("input#" + key).value         
-
+    for (const [key, value] of data) {
+        pattern[key] = value        
     }
     return pattern;
 }
-
-
-
 
 
 function resubmit_form() {
