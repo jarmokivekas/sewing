@@ -7,22 +7,41 @@ const METER = 1000
 function assert(assert_passed, message) {
 
     if (!assert_passed) {
-        alert(message)
+        alert("Assert Failure: " + message)
     }
 
     return assert_passed
+}
+/**
+ * Update the form input values, display, and URL get parameter value for a specific pattern parameter
+ * 
+ * @param {string} name - the pattern parameter name. shall also be the id of the form field and the name of the GET parameter
+ * @param {*} value - value set to the parameter. Updated in both the form input and the URL get params
+ * @returns params
+ */
+function set_pattern_param(name, value) {
+    console.log("updating param: " + name + ": " + value)
+ 
+    // update the url
+    let urlParams = new URLSearchParams(window.location.search);
+    urlParams.set(name, value);
+    window.location.search = urlParams;
+
+    // update the form
+    document.getElementById(name).value = value
+
 }
 
 function webbing_rect(svg,x,y,width,height) {
     let webbing =  document.createElementNS("http://www.w3.org/2000/svg", "rect");
     webbing.setAttribute("x",x)
-    webbing.setAttribute("y", y);
-    webbing.setAttribute("width", width);
-    webbing.setAttribute("height", height);
-    webbing.setAttribute("rx", 0),
-    webbing.setAttribute("ry", 0),
-    webbing.setAttribute("fill", "#9d8c41"); // webbing color
-    webbing.setAttribute("stroke", "black");
+    webbing.setAttribute("y", y)
+    webbing.setAttribute("width", width)
+    webbing.setAttribute("height", height)
+    webbing.setAttribute("rx", 0)
+    webbing.setAttribute("ry", 0)
+    webbing.setAttribute("fill", "#9d8c41") // webbing color
+    webbing.setAttribute("stroke", "black")
     webbing.setAttribute("stroke-width", 1)
 
     svg.appendChild(webbing)
@@ -100,11 +119,31 @@ function update_params_to_form() {
 }
 
 
+/**
+ * Read pattern form using Form data, and update all those data to the 
+ * URL GET parameters. Assumes form data is sane.
+ */
+function update_params_to_url() {
+    // let inputs = document.forms["pattern_form"].getElementsByTagName("input");
+  
+    let urlParams = new URLSearchParams(window.location.search);
+    
+    var form = document.getElementById('pattern_form');
+    var data = new FormData(form);
+    
+    
+    for (var [key, value] of data) {
+        urlParams.set(key, value);
+    }
+
+    window.location.search = urlParams;
+}   
+
 
 // read the GET parameters into easier to use values.
-function get_pattern_params(){
+function get_pattern_params_from_url(){
     console.debug("getting parameters from GET url")
-    let params = (new URL(document.location)).searchParams;
+    let params = (new URL(window.location)).searchParams;
     var pattern = {}
     // loop through all k-v pair in the get params
     for (const [key, value] of params.entries()) {
@@ -118,4 +157,27 @@ function get_pattern_params(){
         }
     }
     return pattern;
+}
+// read the GET parameters into easier to use values.
+function get_pattern_params_from_form(param_names){
+
+
+    var pattern = {}
+    // loop through all k-v pair in the get params
+    for (const key of param_names) {
+        // if there is an <input> with the same id, use it to typecast variable
+        // else numbers will be interpreted as strings
+        pattern[key] = document.querySelector("input#" + key).value         
+
+    }
+    return pattern;
+}
+
+
+
+
+
+function resubmit_form() {
+    document.getElementById('pattern_form').submit()
+    return true
 }

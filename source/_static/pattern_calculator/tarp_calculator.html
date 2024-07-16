@@ -2,47 +2,87 @@
 <script type="text/javascript" src="../_static/pattern_calculator/pattern_calculator.js"></script>
 <script>
 
-    function draw_sketch() {
-        
+    function sanitize_pattern_params() {
+        let pattern = get_pattern_params_from_form([
+            'tie_off_type',
+            'tie_off_count_length',
+            'tie_off_count_width',
+            'tarp_length_mm',
+            'tarp_width_mm'
+        ]);
 
-        let pattern = get_pattern_params();
+        // we are changing form data in this function, and this function
+        // is part of the onchange call for the form data.
+        // therefore we need to disable the onchange event for the form
+        // until we are done editing the form data. Otherwise we end up
+        // in a recursion
+
+        let pattern_form = document.getElementById('pattern_form')
+        let form_onchange = pattern_form.getAttribute("onchange")
+        pattern_form.setAttribute("onchange", "")
+
+        // sanitize tie_off
+        if (pattern.tie_off_type == undefined){
+            set_pattern_param("tie_off_type", "webbing")
+        }
 
         if (["webbing", "grommets"].includes(pattern.tie_off_type) == false) {
+            set_pattern_param("tie_off_type", "webbing")
             alert("Tie-off type has to be 'webbing' or 'grommets'")
-            document.getElementById("tie_off_type").value = "webbing"
-            resubmit_form()
+        }
+
+        // Sanitize tie-off counts
+        default_tie_off_count = 5
+        if ([NaN, undefined].includes(pattern.tie_off_count_length)) {
+            set_pattern_param("tie_off_count_length", default_tie_off_count)
+        }
+ 
+        if ([NaN, undefined].includes(pattern.tie_off_count_width)) {
+            set_pattern_param("tie_off_count_width", default_tie_off_count)
         }
 
         if (pattern.tie_off_count_length < 2) {
+            set_pattern_param("tie_off_count_length", 2)
             alert('tie-off count cannot be less than 2 per side')
-            document.getElementById("tie_off_count_length").value = 2
-            resubmit_form()
-        }
-
-        if (pattern.tie_off_count_length == NaN) {
-            document.getElementById("tie_off_count_length").value = 5
         }
 
         if (pattern.tie_off_count_width < 2) {
+            set_pattern_param("tie_off_count_width", 2)
             alert('tie-off count cannot be less than 2 per side')
-            document.getElementById("tie_off_count_width").value = 2
-            resubmit_form()
         }
 
-        if (pattern.tie_off_count_width == NaN) {
-            document.getElementById("tie_off_count_length").value = 5
+        // sanitize tarp dimentsions
+        if ([NaN, undefined].includes(pattern.tarp_length_mm)) {
+            set_pattern_param("tarp_length_mm", 3000)
         }
-
-        if (pattern.tarp_length_mm < 50) {
-            alert("tarp length can't be less than 50 mm")
-            document.getElementById(tie_off_count_length).value = 50
+        if ([NaN, undefined].includes(pattern.tarp_width_mm)) {
+            set_pattern_param("tarp_width_mm", 3000)
         }
+        // if (pattern.tarp_length_mm < 50 ){
+        //     console.log(pattern.tarp_length_mm)
+        //     alert("tarp length can't be less than 50 mm")
+        //     pattern = set_pattern_param("tie_off_count_length", 50)
+        //     console.log(pattern.tarp_length_mm)
+        // }
 
-        if (pattern.tarp_width_mm < 50) {
-            alert("tarp width can't be less than 50 mm")
-            document.getElementById(tie_off_count_width).value = 50
-        }
+        // if (pattern.tarp_width_mm < 50 || [NaN, undefined].includes(pattern.tarp_width_mm)) {
+        //     alert("tarp width can't be less than 50 mm")
+        //     pattern = set_pattern_param("tie_off_count_width", 50)
+        // }
+        pattern_form.setAttribute("onchange", form_onchange)
+        
+    }
 
+
+
+    function draw_sketch() {
+        
+     
+        let pattern = get_pattern_params_from_url()
+
+        console.log(pattern)
+
+  
         assert(["webbing", "grommets"].includes(pattern.tie_off_type), "Tie-off type not recognized. Shall be 'webbing' or 'grommets'")
         assert(pattern.tie_off_count_length >= 2, "The number of tie-off can't be less than 2 per side")
         assert(pattern.tie_off_count_width >= 2, "The number of tie-off can't be less than 2 per side")
@@ -170,16 +210,13 @@
     
     }
 
-    function resubmit_form() {
-        document.getElementById('pattern_form').submit()
-        return true
-    }
+
 
     </script>
 
 
 
-    <form action="" id="pattern_form" onchange="resubmit_form()">
+    <form action="" name="pattern_form" id="pattern_form" onchange="update_params_to_url();draw_sketch()">
         <!-- <fieldset>
             <legend>Tie-off point type</legend>
 
@@ -203,15 +240,15 @@
                         
                         
             <label for="tie_off_count_width" >Tie-off points widthwise</label><br>    
-            <input type="number" name="tie_off_count_width"   id="tie_off_count_width"  min="2"> pcs<br />
+            <input type="number" name="tie_off_count_width"   id="tie_off_count_width" min="2"> pcs<br />
             <label for="tie_off_count_length">Tie-off points lengthwise</label><br>   
             <input type="number" name="tie_off_count_length"  id="tie_off_count_length" min="2" > pcs<br />
                         
         </fieldset>
         <fieldset>
             <legend>Tarp Dimensions</legend>
-            <label for="tarp_width_mm">Tarp width</label><br>    <input type="number" name="tarp_width_mm"  id="tarp_width_mm"  value="2500" min="50" step="50"> mm<br />
-            <label for="tarp_length_mm">Tarp length</label><br>  <input type="number" name="tarp_length_mm" id="tarp_length_mm" value="2500" min="50" step="50"> mm<br />
+            <label for="tarp_width_mm">Tarp width</label><br>    <input type="number" name="tarp_width_mm"  id="tarp_width_mm"   min="50" step="50"> mm<br />
+            <label for="tarp_length_mm">Tarp length</label><br>  <input type="number" name="tarp_length_mm" id="tarp_length_mm"  min="50" step="50"> mm<br />
         </fieldset>
         <input type="submit">
     </form>
@@ -229,5 +266,6 @@
 
     <script>
         update_params_to_form()
+        sanitize_pattern_params()
         draw_sketch()
     </script>
