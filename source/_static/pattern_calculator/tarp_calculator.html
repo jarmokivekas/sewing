@@ -211,7 +211,7 @@
     }
 
     function update_page() {
-        pattern = sanitize_pattern_params(get_pattern_params_from_form())
+        pattern = sanitize_pattern_params(get_params_from_form())
         // resubmit_form()
         draw_sketch(pattern);
         draw_pattern_data(pattern)

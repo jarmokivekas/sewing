@@ -21,13 +21,14 @@ class BillOfMaterials{
         bom_table.replaceChildren(header)
 
         console.log
-        for (const [key, material] of Object.entries(materials)) {
+        for (const [key, material] of Object.entries(this.materials)) {
             let row = document.createElement('tr')
             let td = document.createElement('td'); td.innerText = material.item; row.appendChild(td)
-            td = document.createElement('td'); td.innerText = material.quantity; row.appendChild(td)
+            td = document.createElement('td'); td.innerText = material.quantity.toFixed(2); row.appendChild(td)
             td = document.createElement('td'); td.innerText = material.unit; row.appendChild(td)
             td = document.createElement('td'); td.innerText = material.unit_cost; row.appendChild(td)
-            td = document.createElement('td'); td.innerText = material.unit_cost * material.quantity; row.appendChild(td)
+            // total cost is rounded to 2 decimal places to keep it looking consistent
+            td = document.createElement('td'); td.innerText = (material.unit_cost * material.quantity).toFixed(2); row.appendChild(td)
             bom_table.appendChild(row)
         }
     }
@@ -37,17 +38,18 @@ class BillOfMaterials{
         let pattern_form = document.querySelector("form#pattern_form")
         let fieldset =  document.createElement('fieldset')
 
-        for (const [key, value] of Object.entries(pattern)){
+        for (const [key, param] of Object.entries(pattern)){
             let label = document.createElement("label")
             label.setAttribute('for', key)
-            label.innerText = key
+            label.innerText = `${key} [${param.unit}]: ` 
 
             let input = document.createElement("input")
             input.id = key
             input.name = key
-            input.value = value
-            if (typeof value == "number"){
+            input.value = param.value
+            if (typeof param.value == "number"){
                 input.type = "number"
+                input.step = param.step
             }
             fieldset.appendChild(label)
             fieldset.appendChild(input)
@@ -55,5 +57,33 @@ class BillOfMaterials{
         // overwrite any possible existing fieldset in the form
         // se we don't just keep appending stuff
         pattern_form.replaceChildren(fieldset)
+    }
+
+    get_total_material_cost(){
+        this.materials
+    }
+
+    make_material_form(materials) {
+
+        let materials_form = document.querySelector("form#materials_form")
+        let fieldset =  document.createElement('fieldset')
+
+        for (const [key, material] of Object.entries(materials)){
+            let label = document.createElement("label")
+            label.setAttribute('for', key)
+            label.innerText = `${key} unit cost [${material.unit}]: ` 
+
+            let input = document.createElement("input")
+            input.id = key
+            input.name = key
+            input.value = material.unit_cost
+            input.type = "number"
+            input.step = 0.1
+            fieldset.appendChild(label)
+            fieldset.appendChild(input)
+        }
+        // overwrite any possible existing fieldset in the form
+        // se we don't just keep appending stuff
+        materials_form.replaceChildren(fieldset)
     }
 }
