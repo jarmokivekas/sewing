@@ -162,11 +162,12 @@
 <li class="toctree-l1"><a class="reference internal" href="../bikepack%2C-frame-bag-sling.html">bikepack, frame bag sling</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../field-note-kit/field-note-kit%2C-small.html">Field Note Kit, Small</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">PALS Pouches</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Pouches and Sacks</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../PALS-Modules/pouch%2C-horizontal%2C-25x16x9-cm.html">Pouch, horizontal 25 x 16 x 9 cm</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../navigation-pouch/navigation-pouch.html">Navigation pouch</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../pouch%2C-multitool/pouch%2C-multitool.html">Pouch, multitool (ice screw)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../stuff-sack%2C-PLCE-style/stuff-sack%2C-PLCE-style.html">Stuff Sack, PLCE Style 35x60cm</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Clothing</span></p>
 <ul class="nav bd-sidenav">
@@ -491,10 +492,22 @@ document.write(`
             "webbing": 1.5,
             "grommets": 2,
         }
-        const fabric_cost_per_meter = 14.9
-        const seam_seal_cost_per_meter = 0.8
+        const fabric_cost_per_meter = {
+            "m05_summer": 14.9,
+            "m05_winter": 14.9,
+            "PU Nylon 70gm2, green": 4.9,
+        }
+        const seam_seal_cost_per_meter = 0.8 
+        const webbing_cost_per_meter = {
+            "savotta_irr": 1.9,
+            "olive_green": 0.4,
+        }
 
         spec = {}
+        spec.materials = {}
+        spec.materials.webbing = "savotta_irr"
+        spec.materials.main_fabric = "m05_summer"
+
         spec.pattern = pattern
         spec.total_material_cost = 0
 
@@ -505,13 +518,21 @@ document.write(`
         spec.main_fabric = {}
         spec.main_fabric.unit = "meter"
         spec.main_fabric.quantity = pattern.tarp_length_mm / METER * panel_section_count
-        spec.main_fabric.total_cost = spec.main_fabric.quantity * fabric_cost_per_meter
+        spec.main_fabric.total_cost = spec.main_fabric.quantity * fabric_cost_per_meter[spec.materials.main_fabric]
         spec.total_material_cost += spec.main_fabric.total_cost
         console.log(spec)
         
         spec.tie_out = {}
         spec.tie_out.unit = "pcs"
         spec.tie_out.quantity = (pattern.tie_off_count_width*2) + (pattern.tie_off_count_length - 2)*2
+        console.log(spec)
+
+        spec.tie_out.webbing = {}
+        spec.tie_out.webbing.unit = "meter"
+        spec.tie_out.webbing.quantity = spec.tie_out.quantity * 0.2
+        spec.tie_out.webbing.total_cost = spec.tie_out.quantity * 0.2 * webbing_cost_per_meter[spec.materials.webbing]
+        
+
         spec.tie_out.total_cost = spec.tie_out.quantity * cost_per_tie_off[pattern.tie_off_type]
         spec.total_material_cost += spec.tie_out.total_cost
         console.log(spec)
@@ -540,7 +561,7 @@ document.write(`
     }
 
     function update_page() {
-        pattern = sanitize_pattern_params(get_pattern_params_from_form())
+        pattern = sanitize_pattern_params(get_params_from_form())
         // resubmit_form()
         draw_sketch(pattern);
         draw_pattern_data(pattern)
