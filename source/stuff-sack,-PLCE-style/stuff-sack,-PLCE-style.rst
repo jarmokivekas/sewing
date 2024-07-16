@@ -18,7 +18,6 @@ Materials
     <script type="text/javascript" src="../_static/pattern_calculator/bill_of_materials.js"></script>
 
     <script>
-        var bom = new BillOfMaterials();
        
         function pattern_onchange() {
             let pattern_params = get_params_from_form("pattern_form")
@@ -38,7 +37,7 @@ Materials
         }
 
 
-        bom.pattern = {
+        pattern = {
             "width": {
                 "value": 0.35,
                 "unit": "meter",
@@ -51,16 +50,16 @@ Materials
             }
         }
 
-        bom.materials = {
+        materials = {
             "main_fabric": {
                 "item":         "Main fabric",
-                "quantity":     bom.pattern.height.value,
+                "quantity":     pattern.height.value,
                 "unit":         "meter",
                 "unit_cost":    4.9,
             },
             "cord": {
                 "item":         "Paracord Type III",
-                "quantity":     bom.pattern.width.value * 2 + 0.15,
+                "quantity":     pattern.width.value * 2 + 0.15,
                 "unit":         "meter",
                 "unit_cost":    0.6,
             },
@@ -71,10 +70,11 @@ Materials
                 "unit_cost":    2.0,
             },
         }
-                
-        bom.make_bom_table(bom.materials)
-        bom.make_pattern_form(bom.pattern)
-        bom.make_material_form(bom.materials)
+        var bom = new BillOfMaterials(pattern, materials)
+        
+        bom.make_bom_table()
+        bom.make_pattern_form()
+        bom.make_material_form()
         document.getElementById("pattern_form").onchange = pattern_onchange;
         document.getElementById("materials_form").onchange = pattern_onchange;
     </script>

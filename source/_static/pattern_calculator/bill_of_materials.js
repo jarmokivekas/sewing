@@ -1,12 +1,12 @@
 class BillOfMaterials{
 
-    constructor() {
-        this.materials = []
-        this.pattern = {}
+    constructor(pattern, materials) {
+        this.materials = materials
+        this.pattern = pattern
     }
 
 
-    make_bom_table(materials) {
+    make_bom_table() {
         
         console.log("making the bom")
         let bom_table = document.querySelector("table#bill_of_materials")
@@ -33,12 +33,12 @@ class BillOfMaterials{
         }
     }
     
-    make_pattern_form(pattern) {
+    make_pattern_form() {
         
         let pattern_form = document.querySelector("form#pattern_form")
         let fieldset =  document.createElement('fieldset')
 
-        for (const [key, param] of Object.entries(pattern)){
+        for (const [key, param] of Object.entries(this.pattern)){
             let label = document.createElement("label")
             label.setAttribute('for', key)
             label.innerText = `${key} [${param.unit}]: ` 
@@ -52,7 +52,9 @@ class BillOfMaterials{
                 input.step = param.step
             }
             fieldset.appendChild(label)
+            fieldset.appendChild(document.createElement('br'))
             fieldset.appendChild(input)
+            fieldset.appendChild(document.createElement('br'))
         }
         // overwrite any possible existing fieldset in the form
         // se we don't just keep appending stuff
@@ -63,12 +65,12 @@ class BillOfMaterials{
         this.materials
     }
 
-    make_material_form(materials) {
+    make_material_form() {
 
         let materials_form = document.querySelector("form#materials_form")
         let fieldset =  document.createElement('fieldset')
 
-        for (const [key, material] of Object.entries(materials)){
+        for (const [key, material] of Object.entries(this.materials)){
             let label = document.createElement("label")
             label.setAttribute('for', key)
             label.innerText = `${key} unit cost [${material.unit}]: ` 
@@ -80,7 +82,9 @@ class BillOfMaterials{
             input.type = "number"
             input.step = 0.1
             fieldset.appendChild(label)
+            fieldset.appendChild(document.createElement('br'))
             fieldset.appendChild(input)
+            fieldset.appendChild(document.createElement('br'))
         }
         // overwrite any possible existing fieldset in the form
         // se we don't just keep appending stuff
