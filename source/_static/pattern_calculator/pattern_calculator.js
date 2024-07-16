@@ -77,7 +77,7 @@ function fabric_rect(svg,x,y,width_mm,height_mm,corner_radius_mm = 0,seam_allowa
     main_rect.setAttribute("height", height_mm);
     main_rect.setAttribute("rx", corner_radius_mm),
     main_rect.setAttribute("ry", corner_radius_mm),
-    main_rect.setAttribute("fill", "#665");
+    main_rect.setAttribute("fill", "url(#m05_summer)");
     // main_rect.setAttribute("fill", "#665");
     main_rect.setAttribute("stroke", "black");
     main_rect.setAttribute("stroke-width", "0.5%")
