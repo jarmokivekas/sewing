@@ -35,6 +35,10 @@ function webbing_rect(svg,x,y,width,height) {
 
 function pad_svg_viewbox(viewbox, padding_mm){
     assert(viewbox.length == 4)
+    assert(typeof viewbox[0] == "number")
+    assert(typeof viewbox[1] == "number")
+    assert(typeof viewbox[2] == "number")
+    assert(typeof viewbox[3] == "number")
     assert(typeof(padding_mm) == "number")
 
     newbox = viewbox
@@ -166,7 +170,12 @@ function get_pattern_params_from_form(){
     var data = new FormData(form);
     var pattern = {}
     for (const [key, value] of data) {
-        pattern[key] = value        
+        if (document.querySelector("input#" + key).type == "number"){
+            pattern[key] = Number(value)
+        }
+        else {
+            pattern[key] = value;
+        }
     }
     return pattern;
 }
