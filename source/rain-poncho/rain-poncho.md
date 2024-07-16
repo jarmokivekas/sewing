@@ -22,16 +22,24 @@ The leg end of the bag can be fully closed to make a foot box.
 
 ## Materials
 
-Assuming a 220 cm x 150 cm poncho
+Assuming a 220 cm x 150 cm rain poncho 
 
-| name                      | quantity      | note                                    
-|---------------------------|---------------|-----------------------------------------
-| Main fabric (150 cm wide) | 220cm + 50cm  | length of the poncho + fabric for the hood
-| #8 YKK zipper             | 390cm         | (closure option 1) 2x short edge + long edge + 20cm extra
-| #8 YKK pulls              | 4pcs          | (closure option 1) 1 for both short edges + 2 for long edge
-| this table is incomplete  |               |
+| name                      | quantity      | note                                              | link
+|---------------------------|---------------|---------------------------------------------------|
+| Main fabric (150 cm wide) | 220cm + 50cm  | length of the poncho + fabric for the hood        |
+| shock cord, 4mm           | 1-2 meter     | used for to tighten the hood                      | [link](https://www.shelbyoutdoor.com/product_info.php?cPath=402_644_121&products_id=73)
+| chord lock                | 1...3 pcs     | depending on how fancy the hood is                | [link](https://www.varusteleka.fi/fi/product/narulukko/62725)
+| toggle button             | 10 pcs        | armit closures when wearing as poncho             | [link](https://www.shelbyoutdoor.com/product_info.php?products_id=421)
+| 20mm webbing/tape         | ?             | toggle buttons & button holes                     | [link](https://www.shelbyoutdoor.com/product_info.php?cPath=402_141_120&products_id=107)
+| 20mm webbing/tape         | ?             | for tarp tie-outs                                 | [link](https://www.shelbyoutdoor.com/product_info.php?cPath=402_141_120&products_id=107)
 
 
+Thermal poncho
+
+| name                      | quantity      | note                                    | link
+|---------------------------|---------------|-----------------------------------------|-----------------------------------
+| #8 YKK zipper             | 390cm         | (closure option 1) 2x short edge + long edge + 20cm extra     | [link](https://www.shelbyoutdoor.com/product_info.php?products_id=9202)
+| #8 YKK pulls              | 4pcs          | (closure option 1) 1 for both short edges + 2 for long edge   | 
 
 ## Similar products for reference
 
@@ -63,13 +71,15 @@ Similar products and patterns for inspiration
 
 ## Edge closures
 
-| closure                 | note                                    | link
-|-------------------------|-----------------------------------------|--
-| snap buttons            | needs toold, never used. 
-| webbing buttons         | easy to sew and repair, reliable. More hassle to close and open  | [link](https://www.shelbyoutdoor.com/product_info.php?products_id=8128)
-| one long zipper         | as in swagman bag. zipper tape can be bought by the meter. Can use any type of sliders (customizable)
-| three short zippers     | as in fällduken. Allows ponchos to be zipper together. Perfect pre-made separating zipper more difficult to come by. 
-| velcro                  | lol, no...
+| closure                   | note                                    | link
+|---------------------------|-----------------------------------------|--
+| snap buttons              | needs toold, never used. 
+| webbing buttons           | easy to sew and repair, reliable. More hassle to close and open  | [link](https://www.shelbyoutdoor.com/product_info.php?products_id=8128)
+| toggle buttons            | easy to sew and repair, reliable. Easier with gloves on           | [link](https://www.shelbyoutdoor.com/product_info.php?products_id=421)
+| one long zipper           | as in swagman bag. zipper tape can be bought by the meter. Can use any type of sliders (customizable) | [link](https://www.shelbyoutdoor.com/product_info.php?products_id=9202)
+| three short zippers       | as in fällduken. Allows ponchos to be zipper together. Perfect pre-made separating zipper more difficult to come by. 
+| separating armpit zipper  | this will still allow connecting multiple ponchos into a larger tarp | [link](https://www.shelbyoutdoor.com/product_info.php?products_id=5076)
+| velcro                    | lol, no...
 
 
 Some things to take into consideration if you want to close the poncho lengthwise into a "body bag" configuraion (200 cm x 70 cm) bag, or to attach two indentical ponchos together. 
