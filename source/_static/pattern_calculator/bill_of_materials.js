@@ -21,7 +21,7 @@ class BillOfMaterials{
         bom_table.replaceChildren(header)
 
         console.log
-        for (const material of materials) {
+        for (const [key, material] of Object.entries(materials)) {
             let row = document.createElement('tr')
             let td = document.createElement('td'); td.innerText = material.item; row.appendChild(td)
             td = document.createElement('td'); td.innerText = material.quantity; row.appendChild(td)

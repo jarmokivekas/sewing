@@ -17,7 +17,9 @@ A stuff sack does not get much simpler than this. When laid flat, the bag is 60c
        
         function pattern_onchange() {
             bom.pattern = get_pattern_params_from_form()
-            bom.materials
+            bom.materials.main_fabric.quantity = bom.pattern.height_m
+            bom.materials.cord.quantity = bom.pattern.width_m * 2 + 0.15
+            bom.make_bom_table(bom.materials)
         }
 
 
@@ -26,28 +28,30 @@ A stuff sack does not get much simpler than this. When laid flat, the bag is 60c
             "height_m": 0.60
         }
 
-        bom.materials = [
-            {
+        bom.materials = {
+            "main_fabric": {
                 "item":         "main fabric",
                 "quantity":     bom.pattern.height_m,
                 "unit":         "meter",
                 "unit_cost":    4.9,
-            },{
-                "item":         "cord",
+            },
+            "cord": {
+                "item":         "Paracord Type III",
                 "quantity":     bom.pattern.width_m * 2 + 0.15,
                 "unit":         "meter",
                 "unit_cost":    0.6,
-            },{
-                "item":         "cord lock",
+            },
+            "cord_lock": {
+                "item":         "Savotta cord lock",
                 "quantity":     1,
                 "unit":         "pcs",
                 "unit_cost":    2.0,
             },
-        ] 
+        }
                 
-        bom.make_bom_table(bom.pattern, bom.materials)
+        bom.make_bom_table(bom.materials)
         bom.make_pattern_form(bom.pattern)
-        document.getElementById("pattern_bom").onchange = pattern_onchange;
+        document.getElementById("pattern_form").onchange = pattern_onchange;
     </script>
 
 
