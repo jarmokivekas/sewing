@@ -1,6 +1,8 @@
 
 const INCH = 25.4
 const METER = 1000
+const FABRIC_WIDTH_MM = 1500
+
 // draw a rectangular panel of fabric + the seam allowance. May have rounded corners
 // x,y,width,height refer to the fabric without the seam allowance.
 
@@ -54,7 +56,7 @@ function pad_svg_viewbox(viewbox, padding_mm){
 }
 
 
-function fabric_rect(svg,x,y,width_mm,height_mm,corner_radius_mm = 0,seam_allowance = 0) {
+function fabric_rect(svg,x,y,width_mm,height_mm,corner_radius_mm = 0,seam_allowance = 0, print_pattern_href="") {
 
     let allowance_rect =  document.createElementNS("http://www.w3.org/2000/svg", "rect");
     allowance_rect.setAttribute("x", x-seam_allowance);
@@ -76,9 +78,20 @@ function fabric_rect(svg,x,y,width_mm,height_mm,corner_radius_mm = 0,seam_allowa
     main_rect.setAttribute("rx", corner_radius_mm),
     main_rect.setAttribute("ry", corner_radius_mm),
     main_rect.setAttribute("fill", "#665");
+    // main_rect.setAttribute("fill", "#665");
     main_rect.setAttribute("stroke", "black");
     main_rect.setAttribute("stroke-width", "0.5%")
     svg.appendChild(main_rect)
+
+    // if (print_pattern_href != ""){
+    //     let print_rect = document.createElementNS("http://www.w3.org/2000/svg", "image"); 
+    //     print_rect.setAttribute("x",        main_rect.getAttribute("x")) 
+    //     print_rect.setAttribute("y",        main_rect.getAttribute("y")) 
+    //     print_rect.setAttribute("width",    main_rect.getAttribute("width")) 
+    //     print_rect.setAttribute("height",   main_rect.getAttribute("height")) 
+    //     print_rect.setAttribute("href", print_pattern_href)
+    //     svg.appendChild(print_rect)
+    // }
 
 
     let retval = {
@@ -156,7 +169,9 @@ function get_pattern_params_from_url(){
     for (const [key, value] of params.entries()) {
         // if there is an <input> with the same id, use it to typecast variable
         // else numbers will be interpreted as strings
-        if (document.querySelector("input#" + key).type == "number"){
+        form_input = document.querySelector("input#" + key) 
+        assert(form_input != null, `One of the GET parameters does not match a form input: ${key}`)
+        if (form_input.type == "number"){
             pattern[key] = Number(value)
         }
         else {
