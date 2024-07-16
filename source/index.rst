@@ -36,12 +36,13 @@ Below is a list of all the documented patterns so far. The undocumented ones are
 
 .. toctree::
     :maxdepth: 1
-    :caption: PALS Pouches
+    :caption: Pouches and Sacks
     :glob:
 
     PALS-Modules/*
     navigation-pouch/navigation-pouch
     pouch*/*
+    stuff-sack,-PLCE-style/*
 
 
 .. toctree::

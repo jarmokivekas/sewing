@@ -180,8 +180,8 @@ function get_pattern_params_from_url(){
     }
     return pattern;
 }
-function get_pattern_params_from_form(){
-    var form = document.getElementById('pattern_form');
+function get_pattern_params_from_form(form_id = "pattern_form"){
+    var form = document.getElementById(form_id);
     var data = new FormData(form);
     var pattern = {}
     for (const [key, value] of data) {
