@@ -19,7 +19,7 @@ Below is a list of all the documented patterns so far. The undocumented ones are
 
 .. toctree::
     :maxdepth: 1
-    :caption: Load-carrying-modules
+    :caption: Packs & Modules
     :glob:
     
     utility-strap,-short/utility-strap,-short
@@ -36,7 +36,16 @@ Below is a list of all the documented patterns so far. The undocumented ones are
 
 .. toctree::
     :maxdepth: 1
-    :caption: Pouches and Sacks
+    :caption: Camp & Shelter
+
+    tarp/tarp
+    hammock/hammock
+    treehuggers/treehuggers
+    ridgeline/ridgeline
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Pouches & Sacks
     :glob:
 
     PALS-Modules/*
@@ -47,7 +56,7 @@ Below is a list of all the documented patterns so far. The undocumented ones are
 
 .. toctree::
     :maxdepth: 1
-    :caption: Clothing
+    :caption: Clothing & Accessories
 
     beanie/beanie
     tube-scarf/tube-scarf
@@ -58,7 +67,6 @@ Below is a list of all the documented patterns so far. The undocumented ones are
     :maxdepth: 1
     :caption: General Instructions & Meta
 
-    tarp/tarp
     techiques/Sewing-PALS
     techiques/pattern-documentation-guidelines
     techiques/pattern-lexicon-and-naming-conventions
