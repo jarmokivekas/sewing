@@ -43,6 +43,10 @@ Although the original pattern is for a 35x60 cm sack, you can use the form below
             bom.materials.main_fabric.quantity = bom.pattern.height.value
             bom.materials.cord.quantity = bom.pattern.width.value * 2 + 0.15
             bom.make_bom_table(bom.materials)
+            make_cut_svg(bom.pattern)
+            make_corners_svg(bom.pattern)
+            make_channel_svg(bom.pattern)
+
         }
 
 
@@ -51,11 +55,31 @@ Although the original pattern is for a 35x60 cm sack, you can use the form below
                 "value": 0.35,
                 "unit": "meter",
                 "step": 0.05,
+                "min": 0.1,
+                "max":0.75,
             },
             "height": {
                 "value": 0.60,
                 "unit": "meter",
                 "step": 0.05,
+                "min": 0.10,
+                "max": 2,
+            },
+            "allowance": {
+                "value": 10,
+                "unit": "millimeter",
+                "step": 1,
+                "min": 1,
+                "max": 50,
+
+            },
+            "corner": {
+                "value": 50,
+                "unit": "millimeter",
+                "step": 1,
+                "min": 10,
+                "max": 100,
+
             }
         }
 
@@ -99,33 +123,178 @@ The pattern is designed to take up exactly half of a 150cm wide length of fabric
 .. raw:: html
 
     <script type="text/javascript" src="../_static/pattern_calculator/turtle_svg.js"></script>
+
     <div id="cut_svg"></div>
     <script>
         function make_cut_svg(pattern){
+            let w = pattern.width.value *1000
+            let h = pattern.height.value *1000
+            let allowance = pattern.allowance.value
+            
+            
             turtle = new TurtleSVG()
+            // allowance rect
+            turtle.start(-allowance, -allowance)
+                  .line(2*w + 2*allowance,  0)
+                  .line(0,                  2*allowance + h)
+                  .line(- 2*w - 2*allowance,  0)
+                  .close()
+                  turtle.path.setAttribute("style", turtle.style.allowance)
+            turtle.end()
+
+
+            // main rect
             turtle.start(0,0)
-                .line(pattern.width.value*1000, 0)
-                .line(0, pattern.height.value*2000)
-                .line(-pattern.width.value*1000, 0)
+                .line(2*w, 0)
+                .line(0, h)
+                .line(- 2*w, 0)
                 .close()
             turtle.path.setAttribute("style", turtle.style.od_green)
             turtle.end()
-            turtle.svg.setAttribute("viewbox", turtle.get_viewbox())
+            
+                        turtle.svg.setAttribute("viewbox", turtle.get_viewbox())
             turtle.svg.setAttribute("xmlns", turtle.xmlns)
-            // turtle.svg.setAttribute("height", 500)
-            document.querySelector("div#cut_svg").appendChild(turtle.svg)
+            turtle.svg.setAttribute("height", turtle.viewbox.height)
+            turtle.svg.setAttribute("width", turtle.viewbox.width)
+            document.querySelector("div#cut_svg").replaceChildren(turtle.svg)
         }
-        make_cut_svg(pattern)
+        make_cut_svg(bom.pattern)
     </script>
+
+
 
 Construction
 ------------
 
 
-![Roll the top left and right coners, and stich]()
+Start by folding/rolling the top left and right corners to remove a triangle of fabric
+
+.. raw:: html
+
+    <div id="corners_svg"></div>
+    <script>
+        function make_corners_svg(pattern){
+            let w = pattern.width.value *1000
+            let h = pattern.height.value *1000
+            let allowance = pattern.allowance.value
+            let corner = pattern.corner.value
+            
+            turtle = new TurtleSVG()
+            // allowance rect
+            turtle.start(-allowance, -allowance)
+                .line(2*w + 2*allowance,  0)
+                .line(0,                  2*allowance + h)
+                .line(- 2*w - 2*allowance,  0)
+                .close()
+                turtle.path.setAttribute("style", turtle.style.allowance)
+            turtle.end()
 
 
-![insert the cord, and make the sinch cord channel along the top edge]()
+            // corner main rect
+            turtle.start(0,0)
+                .move(corner, 0)
+                .line(2*w - 2*corner, 0) // start of top right corner
+                .line(corner,corner)
+                .line(-15,0)
+                .line(-(corner-15), -(corner-15))
+                .line(0, -15) // back to start of top-right corner
+                .line(corner, corner) //end of top-right corer fold
+                .line(0, h - corner) //bottom right corner
+                .line(- 2*w, 0)
+                .line(0, -(h - corner)) //start of top-left fold
+                .line(corner, -corner)
+                .line(0, 15)
+                .line(-(corner-15), corner-15)
+                .line(-15, 0)
+                .move(corner, -corner)
+                .close()
+            turtle.path.setAttribute("style", turtle.style.od_green)
+            turtle.end()
+            
+
+
+
+            turtle.svg.setAttribute("viewbox", turtle.get_viewbox())
+            turtle.svg.setAttribute("xmlns", turtle.xmlns)
+            turtle.svg.setAttribute("height", turtle.viewbox.height)
+            turtle.svg.setAttribute("width", turtle.viewbox.width)
+            document.querySelector("div#corners_svg").replaceChildren(turtle.svg)
+        }
+        make_corners_svg(bom.pattern)
+    </script>
+
+
+
+
+
+Next, lay down the cord along the top edge of the fabric and make the sinch cord channel along the top edge. Having the cord already there
+lets you skip having to thread it in along the channe later. We can just make the channel with the cord already inside it.
+It also makes it very easy to get a straight stitch line for the channel, as you can use the cord as a physical guide for the presser foot on you sewing machine.
+
+
+
+.. raw:: html
+
+    <div id="channel_svg"></div>
+    <script>
+        function make_channel_svg(pattern){
+            let w = pattern.width.value *1000
+            let h = pattern.height.value *1000
+            let allowance = pattern.allowance.value
+            let corner = pattern.corner.value
+            
+
+            turtle = new TurtleSVG()
+            // allowance rect
+            turtle.start(-allowance, -allowance)
+                .line(2*w + 2*allowance,    0)
+                .line(0,                    2*allowance + h)
+                .line(- 2*w - 2*allowance,  0)
+                .close()
+            turtle.path.setAttribute("style", turtle.style.allowance)
+            turtle.end()
+
+            let hc = corner /2
+
+            // corner main rect
+            turtle.start(2*w -hc,           hc)
+                .line(hc,                   hc)             // efge of the fole
+                .line(0,                    h - corner)     // to bottom right corner ||||||||V
+                .line(- 2*w,                0)              // <--------
+                .line(0,                    -(h - corner))  //start of top-left fold
+                .line(hc,                   -hc)
+                .close()
+            turtle.path.setAttribute("style", turtle.style.od_green)
+            turtle.end()
+
+            // channel fold trapezoid
+            turtle.start(hc, hc)
+                // channel top edge
+                .line(2*w - 2*hc,           0)       // -------->
+                .line(-hc,                  hc)
+                .line(-(2*w - 2*corner),    0)      // <---------
+                .close()
+            turtle.path.setAttribute("style", turtle.style.od_green)
+            turtle.end()
+            
+            // channe stich line
+            turtle.start(corner, corner)
+                .move(0, -5)
+                .line(2*w - 2*corner, 0)
+            turtle.path.setAttribute("style", turtle.style.stitch)
+            turtle.end()
+
+            
+
+            turtle.svg.setAttribute("viewbox", turtle.get_viewbox())
+            turtle.svg.setAttribute("xmlns", turtle.xmlns)
+            turtle.svg.setAttribute("height", turtle.viewbox.height)
+            turtle.svg.setAttribute("width", turtle.viewbox.width)
+            document.querySelector("div#channel_svg").replaceChildren(turtle.svg)
+        }
+        make_channel_svg(bom.pattern)
+    </script>
+
 
 
 ![Fold the fabric along the center, and sew the side and bottom seam]()

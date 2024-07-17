@@ -1,8 +1,11 @@
 class TurtleSVG {
 
     style = {
-        "od_green": "fill:#8e7c23;stroke:black;stroke-width:1mm"
+        "od_green": "fill:#8e7c23;stroke:black;stroke-width:0.5mm",
+        "allowance": "fill:gray;stroke:black;stroke-width:0.5mm",
+        "stitch" : "fill:none;stroke:black;stroke-width:0.5mm;stroke-dasharray: 4mm"
     }
+
 
     constructor() {
         this.xmlns = "http://www.w3.org/2000/svg"
@@ -15,22 +18,27 @@ class TurtleSVG {
     }
 
     _setx(x){
+        assert(x!=null, "turtle x coordinate is not set (null)")
+
         if (x < this.viewbox.xmin){
             this.viewbox.xmin = x
         }
         if (x > this.viewbox.xmax){
             this.viewbox.xmax = x
         }
+        this.viewbox.width = this.viewbox.xmax - this.viewbox.xmin
         this.x = x
     }
     
     _sety(y){
+        assert(y!=null, "turtle y coordinate is not set (null)")
         if (y < this.viewbox.ymin){
             this.viewbox.ymin = y
         }
         if (y > this.viewbox.ymax){
             this.viewbox.ymax = y
         }
+        this.viewbox.height = this.viewbox.ymax - this.viewbox.ymin
         this.y = y
     }
 
@@ -48,10 +56,8 @@ class TurtleSVG {
         let viewbox = ""
         viewbox += this.viewbox.xmin + " "
         viewbox += this.viewbox.ymin + " "
-        let width  = this.viewbox.xmax - this.viewbox.xmin
-        let height = this.viewbox.ymax - this.viewbox.ymin
-        viewbox += width + " "
-        viewbox += height
+        viewbox += this.viewbox.width + " "
+        viewbox += this.viewbox.height
         return viewbox
     }
 

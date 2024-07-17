@@ -33,10 +33,25 @@ class BillOfMaterials{
         }
     }
     
+    _validate_pattern_object(pattern) {
+        assert(typeof pattern == "object")
+        for (const [key, param] of Object.entries(this.pattern)){
+            assert(param.value, "pattern param has no value set")
+            if (typeof param.value == "number"){
+                assert(param.value, `pattern param "${key}" of type "number" has no "value" attribute`)
+                assert(param.step, `pattern param "${key}" of type "number" has no "step" attribute`)
+                assert(param.min, `pattern param "${key}" of type "number" has no "min" attribute`)
+                assert(param.max, `pattern param "${key}" of type "number" has no "value" attribute`)
+            }
+        }
+    }
+
     make_pattern_form() {
         
         let pattern_form = document.querySelector("form#pattern_form")
         let fieldset =  document.createElement('fieldset')
+
+        this._validate_pattern_object(this.pattern)
 
         for (const [key, param] of Object.entries(this.pattern)){
             let label = document.createElement("label")
@@ -49,7 +64,15 @@ class BillOfMaterials{
             input.value = param.value
             if (typeof param.value == "number"){
                 input.type = "number"
-                input.step = param.step
+                if (param.step) {
+                    input.step = param.step
+                }
+                if (param.max){
+                    input.max = param.max
+                }
+                if (param.min) {
+                    input.min = param.min
+                }
             }
             fieldset.appendChild(label)
             fieldset.appendChild(document.createElement('br'))
