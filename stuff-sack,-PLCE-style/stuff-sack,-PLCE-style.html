@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Stuff Sack, PLCE Style 35x60cm &#8212; Outdoor sewing patterns</title>
+    <title>Stuff Sack, PLCE Style &#8212; Outdoor sewing patterns</title>
   
   
   
@@ -167,7 +167,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../PALS-Modules/pouch%2C-horizontal%2C-25x16x9-cm.html">Pouch, horizontal 25 x 16 x 9 cm</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../navigation-pouch/navigation-pouch.html">Navigation pouch</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../pouch%2C-multitool/pouch%2C-multitool.html">Pouch, multitool (ice screw)</a></li>
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Stuff Sack, PLCE Style 35x60cm</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Stuff Sack, PLCE Style</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Clothing</span></p>
 <ul class="nav bd-sidenav">
@@ -322,7 +322,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Stuff Sack, PLCE Style 35x60cm</h1>
+    <h1>Stuff Sack, PLCE Style</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -346,12 +346,24 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section id="stuff-sack-plce-style-35x60cm">
-<h1>Stuff Sack, PLCE Style 35x60cm<a class="headerlink" href="#stuff-sack-plce-style-35x60cm" title="Link to this heading">#</a></h1>
-<p>This is a pattern based on the british PLCE (Personal Load Carrying Equipment) rucksac side pouch insertsion bag, aptly named “<em>Bag, Insertion, Pouch, Side, Rucksack.</em>”</p>
-<p>A stuff sack does not get much simpler than this. When laid flat, the bag is 60cm x 35cm in size.</p>
+  <section id="stuff-sack-plce-style">
+<h1>Stuff Sack, PLCE Style<a class="headerlink" href="#stuff-sack-plce-style" title="Link to this heading">#</a></h1>
+<p>This is a very simplistic draw-cord sack pattern based on the british PLCE (Personal Load Carrying Equipment) rucksac side pouch insertsion bag, aptly named “<em>Bag, Insertion, Pouch, Side, Rucksack.</em>”</p>
+<p>A stuff sack does not get much simpler than this. The original pattern is for a sack 60cm x 35cm in size.
+That size is optimized so that the width of the cut fabric is 35*2 = 70 cm.
+When adding some seam allowance, it will perfectly use half the width of a 1.5m wide roll of fabric.
+So make two, and there won’t be any excess fabric left.</p>
 <section id="materials">
 <h2>Materials<a class="headerlink" href="#materials" title="Link to this heading">#</a></h2>
+<p>Although the original pattern is for a 35x60 cm sack, you can use the form below to make adjustments to the pattern size.</p>
+<dl class="field-list simple">
+<dt class="field-odd">width<span class="colon">:</span></dt>
+<dd class="field-odd"><p>the width of the completed sack when laid flat. The circumference of the opening is 2x this value.</p>
+</dd>
+<dt class="field-even">height<span class="colon">:</span></dt>
+<dd class="field-even"><p>the size of the sack measured from the opening to the bottom of the sack.</p>
+</dd>
+</dl>
 <p>Pattern parameters</p>
 <form action="" id="materials_form"></form><br>
 <form action="" id="pattern_form"></form><br>
@@ -423,8 +435,25 @@ document.write(`
 <section id="cut">
 <h2>Cut<a class="headerlink" href="#cut" title="Link to this heading">#</a></h2>
 <p>The pattern is designed to take up exactly half of a 150cm wide length of fabric. So make two of these and you will not have any odd-shaped leftover fabric on your roll</p>
-<p>![Cut a 65 x 70cm rectangle of fabric]()</p>
-</section>
+<script type="text/javascript" src="../_static/pattern_calculator/turtle_svg.js"></script>
+<div id="cut_svg"></div>
+<script>
+    function make_cut_svg(pattern){
+        turtle = new TurtleSVG()
+        turtle.start(0,0)
+            .line(pattern.width.value*1000, 0)
+            .line(0, pattern.height.value*2000)
+            .line(-pattern.width.value*1000, 0)
+            .close()
+        turtle.path.setAttribute("style", turtle.style.od_green)
+        turtle.end()
+        turtle.svg.setAttribute("viewbox", turtle.get_viewbox())
+        turtle.svg.setAttribute("xmlns", turtle.xmlns)
+        // turtle.svg.setAttribute("height", 500)
+        document.querySelector("div#cut_svg").appendChild(turtle.svg)
+    }
+    make_cut_svg(pattern)
+</script></section>
 <section id="construction">
 <h2>Construction<a class="headerlink" href="#construction" title="Link to this heading">#</a></h2>
 <p>![Roll the top left and right coners, and stich]()</p>

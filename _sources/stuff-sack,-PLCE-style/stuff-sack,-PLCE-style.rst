@@ -1,12 +1,21 @@
-Stuff Sack, PLCE Style 35x60cm
-==============================
+Stuff Sack, PLCE Style
+======================
 
-This is a pattern based on the british PLCE (Personal Load Carrying Equipment) rucksac side pouch insertsion bag, aptly named "*Bag, Insertion, Pouch, Side, Rucksack.*"
+This is a very simplistic draw-cord sack pattern based on the british PLCE (Personal Load Carrying Equipment) rucksac side pouch insertsion bag, aptly named "*Bag, Insertion, Pouch, Side, Rucksack.*"
 
-A stuff sack does not get much simpler than this. When laid flat, the bag is 60cm x 35cm in size. 
+A stuff sack does not get much simpler than this. The original pattern is for a sack 60cm x 35cm in size.
+That size is optimized so that the width of the cut fabric is 35*2 = 70 cm. 
+When adding some seam allowance, it will perfectly use half the width of a 1.5m wide roll of fabric.
+So make two, and there won't be any excess fabric left.
 
 Materials
 ---------
+
+Although the original pattern is for a 35x60 cm sack, you can use the form below to make adjustments to the pattern size.
+
+:width: the width of the completed sack when laid flat. The circumference of the opening is 2x this value.
+:height: the size of the sack measured from the opening to the bottom of the sack.
+
 
 .. raw:: html
 
@@ -87,7 +96,27 @@ Cut
 The pattern is designed to take up exactly half of a 150cm wide length of fabric. So make two of these and you will not have any odd-shaped leftover fabric on your roll
 
 
-![Cut a 65 x 70cm rectangle of fabric]()
+.. raw:: html
+
+    <script type="text/javascript" src="../_static/pattern_calculator/turtle_svg.js"></script>
+    <div id="cut_svg"></div>
+    <script>
+        function make_cut_svg(pattern){
+            turtle = new TurtleSVG()
+            turtle.start(0,0)
+                .line(pattern.width.value*1000, 0)
+                .line(0, pattern.height.value*2000)
+                .line(-pattern.width.value*1000, 0)
+                .close()
+            turtle.path.setAttribute("style", turtle.style.od_green)
+            turtle.end()
+            turtle.svg.setAttribute("viewbox", turtle.get_viewbox())
+            turtle.svg.setAttribute("xmlns", turtle.xmlns)
+            // turtle.svg.setAttribute("height", 500)
+            document.querySelector("div#cut_svg").appendChild(turtle.svg)
+        }
+        make_cut_svg(pattern)
+    </script>
 
 Construction
 ------------
