@@ -14,7 +14,7 @@ The pack is made from 4 main pieces:
 
 Annotated patterns drawn in to-scale SVG (scalable vector graphics) available here:
 
-- [backpack, daypack, large](backpack,-daypack,-large.svg)
+![backpack, daypack, large](backpack,-daypack,-large.svg)
 
 Regarding reading the pattern, many of the directional terms are borrowed terms from medical anatomy, since I find they are less ambiguous in my opinoin. In case it's confusing, you'll be fine by translating as:
 
@@ -26,12 +26,12 @@ Regarding reading the pattern, many of the directional terms are borrowed terms 
 
 ## Finished piece
 
-![](IMG_20220301_135642_HDR.jpg)
+![](images/IMG_20220301_135642_HDR.jpg)
 
 
 The length of the intermediate panel determined by clipping a measuring tape to the anterior panel template. 120 cm intermediate panel length is sligthly excessive, but can be cut afterward.
 
-![IMG_20220225_111437_HDR.jpg](IMG_20220225_111437_HDR.jpg)
+![IMG_20220225_111437_HDR.jpg](images/IMG_20220225_111437_HDR.jpg)
 
 ## Posterior panel
 
@@ -56,7 +56,7 @@ The _inferior section_ of the shoulder strap is connected to the pack with a ste
 - fold the length of webbing in half, leaving the D-ring in the fold
 - insert the folded webbing into the second fold of the fabric
 
-![](IMG_20220225_200537_HDR.jpg)
+![](images/IMG_20220225_200537_HDR.jpg)
 
 ## Posterior panel
 
@@ -64,4 +64,4 @@ The exterior face of the posterior panel has [Sewing PALS](../techiques/Sewing P
 
 
 
-![](IMG_20220225_194109_HDR.jpg)
+![](images/IMG_20220225_194109_HDR.jpg)
