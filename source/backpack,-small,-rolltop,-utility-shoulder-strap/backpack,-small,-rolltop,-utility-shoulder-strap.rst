@@ -11,10 +11,6 @@ Materials
 .. image:: backpack,-small,-rolltop,-utility-shoulder-strap_main_pattern.svg
 
 
-| Material              | Quantity  | Unit | Note              |
-|-----------------------|-----------|------|-------------------|
-| main fabric           | 1 meter   | Meter     |            |
-
 
 
 
