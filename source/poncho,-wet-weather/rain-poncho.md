@@ -25,7 +25,7 @@ The leg end of the bag can be fully closed to make a foot box.
 Assuming a 220 cm x 150 cm rain poncho 
 
 | name                      | quantity      | note                                              | link
-|---------------------------|---------------|---------------------------------------------------|
+|---------------------------|---------------|---------------------------------------------------|----------------
 | Main fabric (150 cm wide) | 220cm + 50cm  | length of the poncho + fabric for the hood        |
 | shock cord, 4mm           | 1-2 meter     | used for to tighten the hood                      | [link](https://www.shelbyoutdoor.com/product_info.php?cPath=402_644_121&products_id=73)
 | chord lock                | 1...3 pcs     | depending on how fancy the hood is                | [link](https://www.varusteleka.fi/fi/product/narulukko/62725)
