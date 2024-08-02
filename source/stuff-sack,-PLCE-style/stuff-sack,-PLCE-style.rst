@@ -8,6 +8,12 @@ That size is optimized so that the width of the cut fabric is 35*2 = 70 cm.
 When adding some seam allowance, it will perfectly use half the width of a 1.5m wide roll of fabric.
 So make two, and there won't be any excess fabric left.
 
+
+
+.. image:: IMG_20230217_223410.jpg
+
+
+
 Materials
 ---------
 
