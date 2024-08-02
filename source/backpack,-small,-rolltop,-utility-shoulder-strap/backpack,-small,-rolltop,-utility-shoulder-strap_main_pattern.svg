@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1001.7927mm"
+   height="1484.2292mm"
+   viewBox="0 0 1001.7924 1484.2291"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       id="ArrowDIN-start"
+       class="path248-6-5 path-effect249-3-7 measure-arrow-marker"
+       orient="auto"
+       refX="0"
+       refY="0">
+      <path
+         d="M -8,0 8,-2.11 v 4.22 z"
+         class="path248-6-5 path-effect249-3-7 measure-arrow"
+         id="ArrowDIN-start_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDIN-end"
+       class="path248-6-5 path-effect249-3-7 measure-arrow-marker"
+       orient="auto"
+       refX="0"
+       refY="0">
+      <path
+         d="M 8,0 -8,2.11 v -4.22 z"
+         class="path248-6-5 path-effect249-3-7 measure-arrow"
+         id="ArrowDIN-end_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+  </defs>
+  <g
+     id="layer3"
+     transform="translate(1e-6,-2e-5)">
+    <path
+       style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path248"
+       width="25.4"
+       height="100"
+       x="1465.6931"
+       y="-1199.9312"
+       transform="translate(-1247.8132,1369.0007)"
+       d="m 1465.6931,-1199.9312 h 25.4 v 100 h -25.4 z"
+       class="UnoptimicedTransforms" />
+    <path
+       style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path248-2"
+       width="25.4"
+       height="100"
+       x="1465.6931"
+       y="-1199.9312"
+       transform="rotate(90,-107.0978,-936.76086)"
+       d="m 1465.6931,-1199.9312 h 25.4 v 100 h -25.4 z"
+       class="UnoptimicedTransforms" />
+    <path
+       style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path248-2-0"
+       width="25.4"
+       height="100"
+       x="1465.6931"
+       y="-1199.9312"
+       transform="rotate(90,71.312753,-758.35028)"
+       d="m 1465.6931,-1199.9312 h 25.4 v 100 h -25.4 z"
+       class="UnoptimicedTransforms" />
+    <path
+       style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path248-6"
+       width="25.4"
+       height="320"
+       x="1465.6931"
+       y="-1199.9312"
+       transform="rotate(-90,1619.8338,-128.49068)"
+       d="m 1465.6931,-1199.9312 h 25.4 v 320.00005 h -25.4 z"
+       class="UnoptimicedTransforms"
+       ry="0" />
+    <path
+       style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path248-6-9"
+       width="25.4"
+       height="320"
+       x="1465.6931"
+       y="-1199.9312"
+       transform="rotate(90,-42.300971,-704.10498)"
+       d="m 1465.6931,-1199.9312 h 25.4 v 320.00005 h -25.4 z"
+       class="UnoptimicedTransforms"
+       ry="0" />
+    <path
+       style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path248-6-5"
+       width="25.4"
+       height="1200"
+       x="1465.6931"
+       y="-1199.9312"
+       transform="translate(-540.68144,1483.4105)"
+       d="m 1465.6931,-1199.9312 h 25.4 V 0.06884766 h -25.4 z"
+       class="UnoptimicedTransforms"
+       ry="0" />
+    <rect
+       style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path248-6-5-5"
+       width="25.4"
+       height="1200"
+       x="842.00012"
+       y="393.39481"
+       class="UnoptimicedTransforms"
+       ry="0"
+       transform="translate(130.09252,-109.41555)" />
+    <rect
+       style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4"
+       width="25.4"
+       height="100"
+       x="202.35168"
+       y="278.48505"
+       class="UnoptimicedTransforms"
+       transform="translate(130.09252,-109.41555)" />
+    <path
+       id="path9435"
+       style="vector-effect:non-scaling-stroke;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.259331;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.509002;-inkscape-stroke:hairline"
+       d="m -11,128 v -13 c 0,-2 -2,-4 -4,-4 h -16 c -2,0 -4,1 -4,3 v 14 m 4,0 0.0105,-12.9028 C -30.988607,114 -30,114 -28,114 c 2,0 3,4e-5 3,1 0,2 -1,8 -1,13 m 6,0 c 0,-5 -1,-11 -1,-13 0,-1.00499 1.262515,-1 3,-1 1.737486,0 3,-0.30383 3,1 v 13 m 4,0 v 13 c 0,2 -2,4 -4,4 h -16 c -2,0 -4,-1 -4,-3 v -14 m 4,0 0.0105,12.9028 C -30.988607,142 -30,142 -28,142 c 2,0 3,-4e-5 3,-1 0,-2 -1,-8 -1,-13 m 6,0 c 0,5 -1,11 -1,13 0,1.00499 1.262515,1 3,1 1.737486,0 3,0.30383 3,-1 v -13"
+       class="UnoptimicedTransforms"
+       transform="rotate(90,392.24121,673.47047)" />
+    <path
+       id="path20"
+       style="vector-effect:non-scaling-stroke;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.259331;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.509002;-inkscape-stroke:hairline"
+       d="m -11,128 v -13 c 0,-2 -2,-4 -4,-4 h -16 c -2,0 -4,1 -4,3 v 14 m 4,0 0.0105,-12.9028 C -30.988607,114 -30,114 -28,114 c 2,0 3,4e-5 3,1 0,2 -1,8 -1,13 m 6,0 c 0,-5 -1,-11 -1,-13 0,-1.00499 1.262515,-1 3,-1 1.737486,0 3,-0.30383 3,1 v 13 m 4,0 v 13 c 0,2 -2,4 -4,4 h -16 c -2,0 -4,-1 -4,-3 v -14 m 4,0 0.0105,12.9028 C -30.988607,142 -30,142 -28,142 c 2,0 3,-4e-5 3,-1 0,-2 -1,-8 -1,-13 m 6,0 c 0,5 -1,11 -1,13 0,1.00499 1.262515,1 3,1 1.737486,0 3,0.30383 3,-1 v -13"
+       class="UnoptimicedTransforms"
+       transform="rotate(90,415.7817,697.01095)" />
+    <path
+       id="path1664"
+       style="vector-effect:non-scaling-stroke;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.259331;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.509002;-inkscape-stroke:hairline"
+       d="m -32.058179,111 c -1.999996,0 -2.941939,0.99982 -2.941939,2.99982 V 128 h 4.000273 l 0.01034,-12.37341 c 8.93e-4,-1.0972 0.989486,-1.09761 2.989482,-1.09761 5.258465,0.0148 -1.181758,-0.009 3.349576,-0.0305 6.53394,-0.086 9.650683,6.50152 9.650683,10.73347 V 128 h 3.999755 v -2.76804 C -11.000009,119 -16.116507,111 -23.116173,111 Z m 0,34 c -1.999996,0 -2.941939,-0.99982 -2.941939,-2.99982 V 128 h 4.000273 l 0.01034,12.37341 c 8.93e-4,1.0972 0.989486,1.09761 2.989482,1.09761 5.258465,-0.0148 -1.181758,0.009 3.349576,0.0305 6.53394,0.086 9.650683,-6.50152 9.650683,-10.73347 V 128 h 3.999755 v 2.76804 C -11.000009,137 -16.116507,145 -23.116173,145 Z"
+       transform="rotate(-90,171.77978,-45.180945)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path1664"
+       id="use21"
+       transform="translate(-114.31408)" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0.509002;-inkscape-stroke:hairline"
+       d="m 94.808965,170 c 0,-7 3,-9 13.000005,-16 h 21 l 6,2 v 14 h -5 v -14 h -4 v 14 h -4 v -14 h -5 v 14 h -4 v -14 h -3 v 14 z m 0,0 c 0,7 3,9 13.000005,16 h 21 l 6,-2 v -14 h -5 v 14 h -4 v -14 h -4 v 14 h -5 v -14 h -4 v 14 h -3 v -14 z"
+       id="path10958"
+       class="UnoptimicedTransforms"
+       transform="rotate(180,331.08766,409.36504)" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0.509002;-inkscape-stroke:hairline"
+       d="m 94.808965,170 c 0,-7 3,-9 13.000005,-16 h 21 l 6,2 v 14 h -5 v -14 h -4 v 14 h -4 v -14 h -5 v 14 h -4 v -14 h -3 v 14 z m 0,0 c 0,7 3,9 13.000005,16 h 21 l 6,-2 v -14 h -5 v 14 h -4 v -14 h -4 v 14 h -5 v -14 h -4 v 14 h -3 v -14 z"
+       id="path33"
+       class="UnoptimicedTransforms"
+       transform="translate(-94.808966,478.73005)" />
+    <g
+       id="g49"
+       transform="translate(130.09252,-109.41555)">
+      <rect
+         style="fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect333"
+         height="600"
+         x="-70.609528"
+         y="978.26642"
+         width="450" />
+      <rect
+         style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect335"
+         width="470"
+         height="25"
+         x="-80.609528"
+         y="953.26642" />
+      <path
+         id="rect337"
+         style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m -80.609477,953.2665 v 25 600 9.9999 H 389.39025 v -9.9999 -600 -25 z m 9.9999,25 H 379.39035 v 600 H -70.609577 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:monospace;-inkscape-font-specification:monospace;font-variation-settings:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="77.938438"
+         y="1282.9834"
+         id="text36"><tspan
+           id="tspan36"
+           style="stroke:none;stroke-width:0.5"
+           x="77.938438"
+           y="1282.9834">Posterior panel</tspan></text>
+    </g>
+    <g
+       id="g50"
+       transform="translate(130.09252,-109.41555)">
+      <rect
+         style="fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect462"
+         width="190"
+         height="130"
+         x="483.30093"
+         y="1448.2665" />
+      <path
+         id="rect466"
+         style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 473.30096,1438.2668 v 9.9999 129.9998 9.9999 h 210.0001 v -9.9999 -129.9998 -9.9999 z m 9.9999,9.9999 h 190.0003 v 129.9998 h -190.0003 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:monospace;-inkscape-font-specification:monospace;font-variation-settings:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="506.92978"
+         y="1517.9834"
+         id="text37"><tspan
+           style="stroke-width:0.5"
+           x="506.92978"
+           y="1517.9834"
+           id="tspan38">Inferior panel</tspan></text>
+    </g>
+    <g
+       id="g47"
+       transform="translate(130.09252,-109.41555)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="rect343"
+         width="190"
+         height="370"
+         x="59.390469"
+         y="418.39496" />
+      <path
+         id="rect345"
+         style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 49.390471,393.3948 v 25.0001 370.0001 9.9999 H 259.39057 V 788.395 418.3949 393.3948 Z m 9.99991,25.0001 H 249.39067 V 788.395 H 59.390381 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:monospace;-inkscape-font-specification:monospace;font-variation-settings:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="83.627022"
+         y="590.02856"
+         id="text39"><tspan
+           id="tspan39"
+           style="stroke-width:0.5"
+           x="83.627022"
+           y="590.02856">Anterior panel</tspan><tspan
+           style="stroke-width:0.5"
+           x="83.627022"
+           y="611.19519"
+           id="tspan41">pocket section</tspan></text>
+    </g>
+    <g
+       id="g48"
+       transform="translate(130.09252,-109.41555)">
+      <rect
+         style="fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect111"
+         width="190"
+         height="600"
+         x="483.30099"
+         y="188.3949" />
+      <path
+         id="rect273"
+         style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 473.30096,163.39492 v 25.00003 600.00005 9.9999 h 210.0001 V 788.395 188.39495 163.39492 Z m 9.9999,25.00003 H 673.30115 V 788.395 H 483.30086 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:monospace;-inkscape-font-specification:monospace;font-variation-settings:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="507.60779"
+         y="476.66986"
+         id="text42"><tspan
+           style="stroke-width:0.5"
+           x="507.60779"
+           y="476.66986"
+           id="tspan44">Anterior panel</tspan><tspan
+           style="stroke-width:0.5"
+           x="507.60779"
+           y="497.83649"
+           id="tspan46">main section</tspan></text>
+    </g>
+  </g>
+  <path
+     id="infoline-0-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-0-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-0-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-0-path-effect249"
+     class="path248 path-effect249 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-1-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-1-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-1-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-1-path-effect249"
+     class="path248 path-effect249 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-2-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-2-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-2-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-2-path-effect249"
+     class="path248 path-effect249 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-on-start-3-path-effect249"
+     class="path248 path-effect249 measure-helper-line measure-line"
+     d="m 217.87992,269.06951 h -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-3-path-effect249"
+     class="path248 path-effect249 measure-label"
+     x="-219.06952"
+     y="201.83104"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1"
+     transform="rotate(-90)"><tspan
+       id="tspan4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1">100mm</tspan></text>
+  <path
+     id="infoline-on-end-3-path-effect249"
+     class="path248 path-effect249 measure-helper-line measure-line"
+     d="m 217.87992,169.06951 h -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <path
+     id="infoline-3-path-effect249"
+     class="path248 path-effect249 measure-DIM-line measure-line"
+     d="m 197.87992,265.06951 v -46 m 0,0 v -46"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-0-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-0-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-0-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-0-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-1-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-1-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-1-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-1-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-2-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-2-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-2-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-2-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-on-start-3-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-helper-line measure-line"
+     d="m 56.072494,636.03002 v -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-3-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-label"
+     x="106.07249"
+     y="619.98114"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1"><tspan
+       id="tspan8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1">100mm</tspan></text>
+  <path
+     id="infoline-on-end-3-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-helper-line measure-line"
+     d="m 156.07249,636.03002 v -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <path
+     id="infoline-3-path-effect249-1"
+     class="path248-2 path-effect249-1 measure-DIM-line measure-line"
+     d="m 60.072494,616.03002 h 45.999996 m 0,0 h 46"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-0-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-0-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-0-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-0-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-1-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-1-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-1-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-1-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-2-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-2-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-2-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-2-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan11"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-on-start-3-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-helper-line measure-line"
+     d="m 412.89363,636.03004 v -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-3-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-label"
+     x="462.89362"
+     y="619.98114"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1"><tspan
+       id="tspan12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1">100mm</tspan></text>
+  <path
+     id="infoline-on-end-3-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-helper-line measure-line"
+     d="m 512.89363,636.03004 v -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <path
+     id="infoline-3-path-effect249-1-7"
+     class="path248-2-0 path-effect249-1-7 measure-DIM-line measure-line"
+     d="m 416.89363,616.03004 h 46 m 0,0 h 46"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-0-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-0-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-0-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-0-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan13"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-1-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-1-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-1-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-1-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-2-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-2-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-2-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-2-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-on-start-3-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-helper-line measure-line"
+     d="m 868.39333,25.649965 v 22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-3-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-label"
+     x="708.39331"
+     y="49.601078"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1"><tspan
+       id="tspan16"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1">320mm</tspan></text>
+  <path
+     id="infoline-on-end-3-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-helper-line measure-line"
+     d="m 548.39333,25.649965 v 22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <path
+     id="infoline-3-path-effect249-3"
+     class="path248-6 path-effect249-3 measure-DIM-line measure-line"
+     d="m 864.39333,45.649965 h -156 m 0,0 h -156"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-0-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-0-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-0-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-0-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan17"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-1-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-1-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-1-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-1-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-2-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-2-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-2-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-2-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan19"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-on-start-3-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-helper-line measure-line"
+     d="m 133.5252,803.88907 v -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-3-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-label"
+     x="293.52521"
+     y="787.84021"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1"><tspan
+       id="tspan20"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1">320mm</tspan></text>
+  <path
+     id="infoline-on-end-3-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-helper-line measure-line"
+     d="m 453.5252,803.88907 v -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <path
+     id="infoline-3-path-effect249-3-2"
+     class="path248-6-9 path-effect249-3-2 measure-DIM-line measure-line"
+     d="m 137.5252,783.88907 h 156 m 0,0 h 156"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-0-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-0-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-0-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-0-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan21"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-1-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-1-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-1-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-1-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan22"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-2-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-start-2-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <path
+     id="infoline-on-end-2-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="m 1e-6,-2e-5 v 0"
+     style="display:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+  <text
+     xml:space="preserve"
+     id="text-on-2-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-label"
+     x="1e-06"
+     y="-1.9999999e-05"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1"><tspan
+       id="tspan23"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;display:none;fill:#000000;fill-opacity:1">0mm</tspan></text>
+  <path
+     id="infoline-on-start-3-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-helper-line measure-line"
+     d="m 925.01168,1483.4793 h -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-3-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-label"
+     x="-883.47931"
+     y="908.96277"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1"
+     transform="rotate(-90)"><tspan
+       id="tspan24"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Monospace;fill:#000000;fill-opacity:1">1200mm</tspan></text>
+  <path
+     id="infoline-on-end-3-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-helper-line measure-line"
+     d="m 925.01168,283.47931 h -22"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <path
+     id="infoline-3-path-effect249-3-7"
+     class="path248-6-5 path-effect249-3-7 measure-DIM-line measure-line"
+     d="M 905.01168,1479.4793 V 883.47931 m 0,0 v -596"
+     style="stroke:#000000;stroke-width:0.5;stroke-opacity:1;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end)" />
+</svg>
