@@ -133,7 +133,7 @@ Materials
 The pack consists of one main fabric that functions as both the posterior and medial sections of the pack. The anterior panel is made up of two layers: the main section and the pocket section that creates the exterior pocket where the foam pad and carrying harness can be stowed.
 
 
-.. image:: backpack,-small,-rolltop,-utility-shoulder-strap_main_pattern.png
+.. image:: overview.png
 
 
 
