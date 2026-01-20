@@ -49,6 +49,7 @@ Below is a list of all the documented patterns so far. The undocumented ones are
     :caption: Pouches & Sacks
     :glob:
 
+    PALS-Modules/pouch,pals-3x4,flap-closure/pouch,pals-3x4,flap-closure
     PALS-Modules/*
     navigation-pouch/navigation-pouch
     pouch*/*

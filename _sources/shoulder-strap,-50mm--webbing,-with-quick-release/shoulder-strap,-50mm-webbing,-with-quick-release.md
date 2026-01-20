@@ -9,7 +9,8 @@ Notable features:
 - top intended to attach to a D-ring on the pack using a tri-glide buckle
  
 Two pairs of finished shoulder straps. One with Quick release and the other with a conventional adjustment buckle:
-![](../finished-shoulder-straps.jpg)
+
+![](finished-shoulder-straps.jpg)
 
 ## Sewing pattern
 
@@ -34,6 +35,7 @@ side release buckle, receptacle | 1 pcs
 The side-release buckles are optional. You can change the plug-receptacle pair to a conventional adjustment buckle.  
 
 ![](complete.png)
+
 ## Cut pattern
 
 Cut the webbing to length according to the pattern.
