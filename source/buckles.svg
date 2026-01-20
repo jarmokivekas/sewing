@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.51158923"
-     inkscape:cx="1261.7545"
-     inkscape:cy="1520.7513"
+     inkscape:zoom="0.71043406"
+     inkscape:cx="66.860533"
+     inkscape:cy="610.89413"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -1076,34 +1076,6 @@
        centers="false"
        maxmin="false"
        helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
-    <marker
-       id="ArrowDIN-start"
-       class="path22796 path-effect22812 measure-arrow-marker"
-       inkscape:stockid="ArrowDIN-start"
-       orient="auto"
-       refX="0"
-       refY="0"
-       sodipodi:insensitive="true">
-      <path
-         d="M -8,0 8,-2.11 v 4.22 z"
-         class="path22796 path-effect22812 measure-arrow"
-         id="ArrowDIN-start_path"
-         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
-    </marker>
-    <marker
-       id="ArrowDIN-end"
-       class="path22796 path-effect22812 measure-arrow-marker"
-       inkscape:stockid="ArrowDIN-end"
-       orient="auto"
-       refX="0"
-       refY="0"
-       sodipodi:insensitive="true">
-      <path
-         d="M 8,0 -8,2.11 v -4.22 z"
-         class="path22796 path-effect22812 measure-arrow"
-         id="ArrowDIN-end_path"
-         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
-    </marker>
     <inkscape:path-effect
        effect="measure_segments"
        linked_items=""
@@ -1418,6 +1390,84 @@
        split_items="false"
        split_open="false"
        link_styles="false" />
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect249-9"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Monospace 28"
+       precision="0"
+       fix_overlaps="0"
+       position="20"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.5"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist="0,1"
+       active_projection="false"
+       whitelist="true"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect249-9-0"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Monospace 28"
+       precision="0"
+       fix_overlaps="0"
+       position="20"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.5"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist="0,1"
+       active_projection="false"
+       whitelist="true"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt; Display and position dimension lines and labels  &lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt; Show a line with measurements based on the selected items  &lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt; Options for color, precision, label formatting and display  &lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style. &lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps. &lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections. &lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -2298,6 +2348,28 @@
        inkscape:path-effect="#path-effect1668-2"
        inkscape:original-d="m -32.058179,111 c -1.999996,0 -2.941939,0.99982 -2.941939,2.99982 v 26.69973 h 4.000273 l 0.01034,-25.07296 c 8.93e-4,-1.0972 0.989486,-1.09761 2.989482,-1.09761 5.258465,0.0148 -1.181758,-0.009 3.349576,-0.0305 6.53394,-0.086 9.650683,6.50152 9.650683,10.73347 V 128 h 3.999755 v -2.76804 C -11.000009,119 -16.116507,111 -23.116173,111 Z"
        sodipodi:nodetypes="sscccccsccsss" />
+    <path
+       style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path248-3"
+       width="100.00001"
+       height="100.00003"
+       x="1465.6931"
+       y="-1199.9312"
+       transform="translate(-1939.8841,1419.9311)"
+       inkscape:path-effect="#path-effect249-9"
+       sodipodi:type="rect"
+       d="m 1465.6931,-1199.9312 h 100 v 100.0001 h -100 z"
+       class="UnoptimicedTransforms" />
+    <path
+       style="fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path248-3-6"
+       width="90.000038"
+       height="89.999977"
+       x="1514.4048"
+       y="-1159.177"
+       transform="translate(-1983.5958,1384.177)"
+       sodipodi:type="rect"
+       class="UnoptimicedTransforms" />
   </g>
   <path
      id="infoline-0-path-effect245"
@@ -3269,4 +3341,195 @@
      sodipodi:insensitive="true"
      inkscape:label="dinline"
      style="marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-0-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="m -135.65909,110.46043 h 29.48502 m 33.02996,0 h 29.485023"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-0-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="m -139.65909,130.46043 v -22"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-end-0-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="m -39.659087,130.46043 v -22"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-0-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-label"
+     sodipodi:insensitive="true"
+     x="-103.69682"
+     y="114.41154"
+     style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px"><tspan
+       sodipodi:role="line"
+       id="tspan1">100mm</tspan></text>
+  <path
+     id="infoline-1-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="m -19.659087,134.46043 v 29.48503 m 0,33.02996 v 29.48504"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-1-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="m -39.659087,130.46043 h 22"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-end-1-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="m -39.659087,230.46046 h 22"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-1-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-label"
+     sodipodi:insensitive="true"
+     x="-29.74571"
+     y="180.46044"
+     style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px"
+     transform="rotate(-90,-15.707976,180.46044)"><tspan
+       sodipodi:role="line"
+       id="tspan3">100mm</tspan></text>
+  <path
+     id="infoline-2-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-2-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-end-2-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-2-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-label"
+     sodipodi:insensitive="true"
+     x="0"
+     y="0"
+     style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px;display:none"><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px;display:none">0mm</tspan></text>
+  <path
+     id="infoline-on-start-3-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-helper-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-3-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-label"
+     sodipodi:insensitive="true"
+     x="0"
+     y="0"
+     style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px;display:none"><tspan
+       sodipodi:role="line"
+       id="tspan5"
+       style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px;display:none">0mm</tspan></text>
+  <path
+     id="infoline-on-end-3-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-helper-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-3-path-effect249-9"
+     class="path248-3 path-effect249-9 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-2-path-effect249-9-0"
+     class="path248-3-6 path-effect249-9-0 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-2-path-effect249-9-0"
+     class="path248-3-6 path-effect249-9-0 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-end-2-path-effect249-9-0"
+     class="path248-3-6 path-effect249-9-0 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-2-path-effect249-9-0"
+     class="path248-3-6 path-effect249-9-0 measure-label"
+     sodipodi:insensitive="true"
+     x="0"
+     y="0"
+     style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px;display:none"><tspan
+       sodipodi:role="line"
+       id="tspan8"
+       style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px;display:none">0mm</tspan></text>
+  <path
+     id="infoline-3-path-effect249-9-0"
+     class="path248-3-6 path-effect249-9-0 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-3-path-effect249-9-0"
+     class="path248-3-6 path-effect249-9-0 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-end-3-path-effect249-9-0"
+     class="path248-3-6 path-effect249-9-0 measure-DIM-line measure-line"
+     d="M 0,0 V 0"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.5;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-3-path-effect249-9-0"
+     class="path248-3-6 path-effect249-9-0 measure-label"
+     sodipodi:insensitive="true"
+     x="0"
+     y="0"
+     style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px;display:none"><tspan
+       sodipodi:role="line"
+       id="tspan9"
+       style="font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:9.87778px;display:none">0mm</tspan></text>
 </svg>
