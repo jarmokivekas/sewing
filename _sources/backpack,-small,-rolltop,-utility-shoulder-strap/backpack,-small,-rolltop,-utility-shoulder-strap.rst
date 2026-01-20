@@ -150,14 +150,60 @@ Suggested cut pattern for 140cm wide fabric rolls
 Construction
 ------------
 
+Anterior panel pocket section
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Finish the top edge of the pocket section with a folded edge. Fold the seam allowance to the wrong side of the fabric. Similarly finish the bottom corners of the pocket panel by folding off a 6x6cm triangle from each of the corners. The adjustment strap buckles will stow through the holes that the triangles will create.
 
 .. image:: pocket.png
 
+Anterior panel main section
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Sew on the adjuster buckle and d-ring hardware for the shoulder harness attachment. The adjuster buckles are bar tacked to the seam allowance of the anterior panel main section leave 1cm gap from the adjuster buckle and the seam-line at the bottom of the panel.
+
+Sew int the shoulder harness anchor d-rings and the reiforcement webbing. Depending on your sewing machine, you have two options for this step:
+
+- bar tack the d-ring anchors to the fabric, then overlay the reiforcement webbing over it: this works better if your sewing machine struggles with bar tacking through three layers of webbing
+- bar tack the d-ring anchors and reinforcement webbing at the same time: needs bar tacking through 3 layers of webbing, but leave the bar tack visible and easier to inspect or alter later
+
+Sew a line of straight stiches horizontally across the top and bottom edge of the reinforcement webbing.
 
 .. image:: anterior-panel-main-section.png
 
+Panel assembly
+^^^^^^^^^^^^^^
 
+All three of your panels should be completed now. Next the posterior and anterior panels together along the long edges. Then sew in the inferior panel at the bottom end and complete the roll-rop closure at the top end.
+
+.. image:: panel-assembly.png
+
+
+Rolltop closure
+^^^^^^^^^^^^^^^
+
+The rolltop closure is made in two steps:
+
+1. Fold the seam allowance around the entire opening to finish the edge, while simltaneously embedding the rolltop stiffener in the anterior side of the opening.
+2. Once the opening edge is completed, fix the rolltop closure webbing and bucles to the posterior half of the opening. The main rolltop webbing is left on the right side of the posterior panel fully visible.
+
+First finish the edge and embed the stiffener inside the rolled hem:
+
+.. image:: rolltop-reinforcement.png
+
+Sew the rolltop closure onto the exterior face of the posterior half of the opening: 
+
+.. image:: rolltop.png
+
+Shoulder harness
+^^^^^^^^^^^^^^^^
+
+
+The pack is still missing the shoulder harness. For this, you can use any utility strap or shoulder harness module that can attach to d-rings at the top and terminates in a webbing at the bottom end.
+
+In this version we use a very simple tri-glide utility strap. Simply bar tack a tri-glide bulcke to one end of both shoulder strap webbing sections. The webbing is sewn around the center post of the tri-glide buckle.
+
+.. image:: utility-strap-assembly.png
 
 .. image:: IMG_20230601_090145.jpg
 
