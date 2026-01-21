@@ -1,0 +1,30 @@
+<table class="rental-inventory">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>1 day (€)</th>
+      <th>3 days (€)</th>
+      <th>1 week (€)</th>
+      <th>Condition</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for item in items %}
+    <tr>
+      <td>{{ item.name }}</td>
+      <td>{{ item.rent_1_day_eur }}</td>
+      <td>{{ item.rent_3_days_eur }}</td>
+      <td>{{ item.rent_1_week_eur }}</td>
+      <td>{{ item.condition }}</td>
+      <td>
+        {% if item.hyperlink %}
+          <a href="{{ item.hyperlink }}" target="_blank" rel="noopener">Manufacturer</a>
+        {% else %}
+          &mdash;
+        {% endif %}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>

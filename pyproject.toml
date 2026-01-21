@@ -1,0 +1,9 @@
+[project]
+name = "sewing-site"
+version = "0.1.0"
+dependencies = [
+  "sphinx",
+  "myst-parser",
+  "sphinx-book-theme",
+  "jinja2",
+]
