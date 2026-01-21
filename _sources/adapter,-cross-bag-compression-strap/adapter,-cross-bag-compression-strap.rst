@@ -43,8 +43,8 @@ Materials
                 bom.materials[material_key].unit_cost = unit_cost
             }
             // specific material and pattern calculations for this type of 
-            // stuff sack
             bom.materials.webbing.quantity = bom.pattern.adapter_length.value + 0.10
+            bom.make_bom_table()
 
 
         }
@@ -67,11 +67,11 @@ Materials
                 "unit":         "meter",
                 "unit_cost":    1.8,
             },
-            "buckle, receptacle": {
+            "buckle": {
                 "item":         "ITW Classic SR buckle, black",
                 "quantity":     2,
                 "unit":         "pcs",
-                "unit_cost":    0.65,
+                "unit_cost":    2,
             },
 
         }
