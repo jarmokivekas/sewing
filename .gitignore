@@ -4,3 +4,5 @@ measurement
 myst_parser
 myst-parser
 build
+*.sqlite
+*.sqlite3
