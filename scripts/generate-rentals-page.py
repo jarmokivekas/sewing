@@ -4,7 +4,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 # Paths
 REPO_ROOT = Path(__file__).parent.parent
-DB_PATH = REPO_ROOT / "database/rental-inventory.sqlite"
+DB_PATH = REPO_ROOT / "database/products.sqlite"
 TEMPLATE_DIR = REPO_ROOT / "templates"
 
 SOURCES_DIR = REPO_ROOT / "source"

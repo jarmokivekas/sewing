@@ -6,7 +6,6 @@ The purpose of the cross-bag compression strap adapter is to change typical side
 
 
 
-
 A cross-bag compression strap is convenient when carrying bulky items like boxes or canisters on the outside of a larger pack.
 Or they can be used to compress a smaller daypack to the back of a larger rucksack. 
 
@@ -109,7 +108,7 @@ Usage
 -----
 
 Typically you would have two of these adapters: one for the top pair of compression straps, and another for the bottom pair.
-In the below picture the adapers are used to keep a small daypack (:doc:`../backpack,-small,-rolltop,-utility-shoulder-strap` ) on the back of a Savotta Jääkäri XL rucksack.
+In the below picture the adapers are used to keep a small daypack (:doc:`../backpack,-small,-rolltop,-utility-shoulder-strap/backpack,-small,-rolltop,-utility-shoulder-strap` ) on the back of a Savotta Jääkäri XL rucksack.
 
 
 .. image:: adapter1.jpg

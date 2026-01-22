@@ -1,8 +1,16 @@
-Rental Equipment
+Rentals
 ================
 
 Below is a selection of outdoor equipment available for rent.
 Availability may vary seasonally.
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Leiriytyminen
+    :glob:
+    
+    ./products/*hawu*
 
 
 .. raw:: html

@@ -75,8 +75,8 @@ def main():
     )
     parser.add_argument(
         "--db",
-        default="bom.sqlite",
-        help="Path to SQLite database (default: bom.sqlite)"
+        default="database/products.sqlite",
+        help="Path to SQLite database (default: database/products.sqlite)"
     )
     parser.add_argument(
         "--dry-run",
