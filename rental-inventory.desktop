@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Rental Inventory
-Comment=Edit rental inventory database
-Exec=sqlitebrowser /home/%u/projects/sewing/rental-inventory.sqlite
-Icon=sqlitebrowser
-Terminal=false
-Categories=Office;Utility;
-StartupNotify=true
