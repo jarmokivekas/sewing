@@ -156,7 +156,7 @@ This assumes the pack has asdjustment the adjustement buckesl. We just need to p
 ### Pack attachment utility strap
 
 
-Different packs may have different ways of attaching to the shoulder harness. For packs with two d-ring attachment points, use a [utility strap, short](../utility-strap,-short/utility-strap,-short)
+Different packs may have different ways of attaching to the shoulder harness. For packs with two d-ring attachment points, use a [utility strap, short](../utility-strap,short/utility-strap,short)
 
 To attach the pack:
 

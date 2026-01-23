@@ -33,7 +33,7 @@ And then to the main content, the sewing patterns and instructions
     :caption: Packs & Modules
     :glob:
     
-    utility-strap,short/utility-strap,-short
+    utility-strap,short/utility-strap,short
     shoulder-harness,-yoke/shoulder-harness,-yoke
     shoulder-strap,-50mm--webbing,-with-quick-release/shoulder-strap,-50mm-webbing,-with-quick-release
     sternum-strap,-20mm,-modular/sternum-strap,-20mm,-modular

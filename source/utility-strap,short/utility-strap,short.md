@@ -27,7 +27,7 @@ Material for one strap
 4. check the buckle is right-side-up
 5. bar tack twice to secure the buckle
 
-![utility strap, short](utility-strap,-short.svg)
+![utility strap, short](utility-strap,short.svg)
 
 ## Usage
 
