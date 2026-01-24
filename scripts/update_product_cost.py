@@ -5,7 +5,8 @@ import sqlite3
 import sys
 
 
-PRICE_MULTIPLIER = 1.6
+PRICE_MULTIPLIER = 2
+FIXED_OVERHEAD = 1+1+5.70
 
 
 def calculate_material_cost(conn, product_sku):
@@ -15,6 +16,7 @@ def calculate_material_cost(conn, product_sku):
     query = """
     SELECT
         b.quantity,
+        b.usage,
         m.price_per_unit,
         m.name,
         m.unit
@@ -32,10 +34,12 @@ def calculate_material_cost(conn, product_sku):
     total_cost = 0.0
 
     print("BOM breakdown:")
-    for quantity, price_per_unit, name, unit in rows:
+    for quantity, usage, price_per_unit, name, unit in rows:
         line_cost = quantity * price_per_unit
         total_cost += line_cost
-        print(f"  - {name}: {quantity} {unit} × {price_per_unit:.2f} € = {line_cost:.2f} €")
+        print(f"""  - {usage}:
+        {name}:
+        {quantity} {unit} × {price_per_unit:.2f} € = {line_cost:.2f} €""")
 
     return total_cost
 
