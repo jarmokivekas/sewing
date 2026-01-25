@@ -2,6 +2,9 @@
 
 # Backpack, daypack, large
 
+
+![](images/IMG_20220228_223428_HDR.jpg)
+
 ## Patterns for all pieces
 
 The pack is made from 4 main pieces:
@@ -48,7 +51,20 @@ Exterior face of the posterior panel main section:
 ![](images/IMG_20220225_194109_HDR.jpg)
 
 
+## Posterior panel pocket section
 
+This is the section of the posterior panel that goes on the interior face of the panel. It creates the two zipper pockets inside the pack. When assemling this section, we don't acually make the pockets yet. The pockets get created once we sew this section together with the exterior section and complete the posterior panel assembly
+
+I'f you're unsure how much allowance your zippers will eat from the fabric, you can cut these fabric pieces a little too high, and the trim fabric from the inferior edge so that the height of this section exactly matches the height of the main section of this panel.
+
+
+![](./posterior-panel,pocket-section,interior-face.png)
+
+
+![](images/IMG_20220227_133704_HDR.jpg)
+![](images/IMG_20220227_141012_HDR.jpg)
+![](images/IMG_20220227_141038_HDR.jpg)
+![](images/IMG_20220227_143255_HDR.jpg)
 
 ## Shoulder harness inferior anchor point
 
@@ -61,6 +77,15 @@ Materials per each:
 - Square piece of pack main fabric
 - Webbing
 - D-ring
+
+
+The _inferior section_ of the shoulder harness is connected to the pack with a steel D-ring.
+
+- Fold the rectangular piece of fabric twice to make a triangle
+- first fold made so wrong sides of the fabric face each other
+- fold the length of webbing in half, leaving the D-ring in the fold
+- insert the folded webbing into the second fold of the fabric
+
 
 ![](rect12074.png)
 
@@ -78,15 +103,11 @@ A completed anchor point looks like this:
 So save some work and shorten the webbing to 10cm, and bartack it the this reinforcement triangle.
 
 
-The _inferior section_ of the shoulder harness is connected to the pack with a steel D-ring.
-
-- Fold the rectangular piece of fabric twice to make a triangle
-- first fold made so wrong sides of the fabric face each other
-- fold the length of webbing in half, leaving the D-ring in the fold
-- insert the folded webbing into the second fold of the fabric
-
 
 These anchor points will be sewn into the seam between the anterior panel and medial panel. Both triangles are identical if you use D-ring. You you connect ladderlock buckles into these instead of D-ring, you need to make sure they are mirrored: the left and right anchor points have the buckle flipped. But in this case we use the D-ring, so both are identical.
+
+
+
 
 ## Shoulder harness module
 
@@ -117,10 +138,7 @@ This pack is compatible with modular shoulder harnesses. See wither of these for
 ![](images/IMG_20220226_212859_HDR.jpg)
 ![](images/IMG_20220226_222959_HDR.jpg)
 ![](images/IMG_20220226_223013_HDR.jpg)
-![](images/IMG_20220227_133704_HDR.jpg)
-![](images/IMG_20220227_141012_HDR.jpg)
-![](images/IMG_20220227_141038_HDR.jpg)
-![](images/IMG_20220227_143255_HDR.jpg)
+
 ![](images/IMG_20220227_164834_HDR.jpg)
 ![](images/IMG_20220227_164856_HDR.jpg)
 ![](images/IMG_20220227_190723_HDR.jpg)
