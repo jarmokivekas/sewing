@@ -31,9 +31,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.088643886"
-     inkscape:cx="5206.2248"
-     inkscape:cy="4754.9811"
+     inkscape:zoom="0.17728777"
+     inkscape:cx="7566.7937"
+     inkscape:cy="2275.9607"
      inkscape:window-width="3360"
      inkscape:window-height="1291"
      inkscape:window-x="40"
@@ -691,8 +691,8 @@
     <g
        id="g274978"
        style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.26349919,0,0,0.26349919,-2036.5892,-680.25915)"
-       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/posterior-panel,main-section,exterior-face.png"
+       transform="matrix(0.26349919,0,0,0.26349919,-2439.6811,-680.25915)"
+       inkscape:export-filename="posterior-panel,main-section,exterior-face.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
@@ -716,7 +716,7 @@
        id="rect122879"
        width="267.49948"
        height="403.93765"
-       x="-2479.011"
+       x="-2882.1028"
        y="-550.25537"
        ry="100.38656" />
     <text
@@ -736,7 +736,7 @@
        id="rect27113"
        width="267.49948"
        height="25.295927"
-       x="-2479.011"
+       x="-2882.1028"
        y="-475.16473"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -746,14 +746,14 @@
        id="rect16377"
        width="267.49945"
        height="303.55112"
-       x="-2479.011"
+       x="-2882.1028"
        y="-449.8688" />
     <rect
        style="fill:#6c5d53;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
        id="rect28737"
        width="129.46735"
        height="49.795124"
-       x="-2409.9951"
+       x="-2813.0869"
        y="-524.95966"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -763,7 +763,7 @@
        id="rect30985"
        width="267.49948"
        height="25.295927"
-       x="-2479.011"
+       x="-2882.1028"
        y="-550.25537"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -872,7 +872,7 @@
        x="-1566.0946"
        y="-45.767464"
        id="text59443"
-       transform="matrix(0.26349919,0,0,0.26349919,-2053.9089,-709.31958)"><tspan
+       transform="matrix(0.26349919,0,0,0.26349919,-2457.0008,-709.31958)"><tspan
          x="-1566.0946"
          y="-45.767464"
          id="tspan8">Posterior panel
@@ -1068,7 +1068,7 @@
        transform="rotate(90)" />
     <g
        id="g274984"
-       transform="matrix(0.26349919,0,0,0.26349919,-587.90453,-692.79983)"
+       transform="matrix(0.26349919,0,0,0.26349919,-189.21277,-692.79983)"
        style="stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none">
       <rect
          style="fill:#504416;stroke:#000000;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1089,29 +1089,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#d3bc5f;fill-opacity:1;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-961.48212"
+       x="-562.79034"
        y="-350.12793"
        id="text122891"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="-961.48212"
+         x="-562.79034"
          y="-350.12793"
          id="tspan122883"
          style="stroke-width:0.49795">PASL panel</tspan><tspan
          sodipodi:role="line"
-         x="-961.48212"
+         x="-562.79034"
          y="-336.95306"
          id="tspan122885"
          style="stroke-width:0.49795"> - 6 rows</tspan><tspan
          sodipodi:role="line"
-         x="-961.48212"
+         x="-562.79034"
          y="-323.77817"
          id="tspan122887"
          style="stroke-width:0.49795"> - 6 columns</tspan><tspan
          sodipodi:role="line"
-         x="-961.48212"
+         x="-562.79034"
          y="-310.6033"
          id="tspan122889"
          style="stroke-width:0.49795" /></text>
@@ -1120,7 +1120,7 @@
        id="rect122925"
        width="267.49948"
        height="403.93765"
-       x="-1030.3231"
+       x="-631.63135"
        y="-562.79608"
        ry="100.38656" />
     <rect
@@ -1128,7 +1128,7 @@
        id="rect122929"
        width="267.49948"
        height="403.93765"
-       x="-1030.3231"
+       x="-631.63135"
        y="-562.79608"
        ry="100.38656" />
     <rect
@@ -1136,21 +1136,21 @@
        id="rect122881"
        width="267.49945"
        height="303.55112"
-       x="-1030.3231"
+       x="-631.63135"
        y="-462.40948" />
     <rect
        style="fill:#666666;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect275074"
        width="297.37653"
        height="317.34055"
-       x="-611.9826"
+       x="-213.29085"
        y="-461.26035" />
     <rect
        style="fill:#666666;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect275076"
        width="297.37656"
        height="26.445047"
-       x="-611.9826"
+       x="-213.29085"
        y="-487.70541"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -1160,14 +1160,14 @@
        id="rect123350"
        width="267.49945"
        height="303.55112"
-       x="-597.04724"
+       x="-198.35548"
        y="-462.40948" />
     <rect
        style="fill:#b3b3b3;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect123448"
        width="267.49948"
        height="25.295927"
-       x="-597.04724"
+       x="-198.35548"
        y="-487.70541"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -1175,46 +1175,46 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-651.26013"
+       x="-252.56837"
        y="-631.24878"
        id="text126048"><tspan
          sodipodi:role="line"
          id="tspan126046"
-         x="-651.26013"
+         x="-252.56837"
          y="-631.24878"
          style="stroke-width:0.49795">Interior hydration pocket for the anterior panel</tspan><tspan
          sodipodi:role="line"
-         x="-651.26013"
+         x="-252.56837"
          y="-618.07391"
          id="tspan481004"
          style="stroke-width:0.49795" /><tspan
          sodipodi:role="line"
-         x="-651.26013"
+         x="-252.56837"
          y="-604.89905"
          id="tspan156791"
          style="stroke-width:0.49795">- optional</tspan><tspan
          sodipodi:role="line"
-         x="-651.26013"
+         x="-252.56837"
          y="-591.72418"
          id="tspan156793"
          style="stroke-width:0.49795">- on the interior face of the anterior panel</tspan><tspan
          sodipodi:role="line"
-         x="-651.26013"
+         x="-252.56837"
          y="-578.54926"
          id="tspan141321"
          style="stroke-width:0.49795">- add a few cm width to the pocket to give space</tspan><tspan
          sodipodi:role="line"
-         x="-651.26013"
+         x="-252.56837"
          y="-565.37439"
          id="tspan141323"
          style="stroke-width:0.49795">for the hudration bladder. if the anterior exterior panel</tspan><tspan
          sodipodi:role="line"
-         x="-651.26013"
+         x="-252.56837"
          y="-552.19952"
          id="tspan141325"
          style="stroke-width:0.49795">if the same width as the hydration pocket panel, the pack</tspan><tspan
          sodipodi:role="line"
-         x="-651.26013"
+         x="-252.56837"
          y="-539.02466"
          id="tspan141327"
          style="stroke-width:0.49795">will buldge out against the wearers back</tspan></text>
@@ -1223,7 +1223,7 @@
        id="rect133344"
        width="267.49945"
        height="100.38656"
-       x="-2479.011"
+       x="-2882.1028"
        y="-550.25537"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -1234,7 +1234,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="2421.1445"
+       y="2824.2363"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -1246,7 +1246,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="2307.313"
+       y="2710.4048"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -1258,7 +1258,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="2345.2571"
+       y="2748.3489"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -1270,7 +1270,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="2231.4255"
+       y="2634.5173"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -1282,7 +1282,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="2383.2007"
+       y="2786.2925"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -1294,7 +1294,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="2269.3691"
+       y="2672.4609"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -1306,7 +1306,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="2193.4814"
+       y="2596.5732"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -1318,7 +1318,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="2459.0886"
+       y="2862.1804"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -1328,14 +1328,14 @@
        style="opacity:1;fill:#d3bc5f;fill-opacity:0.0668873;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path135855"
        sodipodi:type="arc"
-       sodipodi:cx="-862.28827"
+       sodipodi:cx="-463.59653"
        sodipodi:cy="-463.33136"
        sodipodi:rx="99.09819"
        sodipodi:ry="99.09819"
        sodipodi:start="0"
        sodipodi:end="6.2588636"
        sodipodi:arc-type="arc"
-       d="m -763.19008,-463.33136 a 99.09819,99.09819 0 0 1 -98.49563,99.09636 99.09819,99.09819 0 0 1 -99.69342,-97.89127 99.09819,99.09819 0 0 1 97.28328,-100.28679 99.09819,99.09819 0 0 1 100.87646,96.6717"
+       d="m -364.49834,-463.33136 a 99.09819,99.09819 0 0 1 -98.49563,99.09636 99.09819,99.09819 0 0 1 -99.69342,-97.89127 99.09819,99.09819 0 0 1 97.28329,-100.28679 99.09819,99.09819 0 0 1 100.87645,96.6717"
        sodipodi:open="true"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -1344,14 +1344,14 @@
        style="opacity:1;fill:#d3bc5f;fill-opacity:0.0668873;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path136095"
        sodipodi:type="arc"
-       sodipodi:cx="-930.85822"
+       sodipodi:cx="-532.16644"
        sodipodi:cy="-463.3313"
        sodipodi:rx="99.09819"
        sodipodi:ry="99.09819"
        sodipodi:start="0.19258716"
        sodipodi:end="0.16485633"
        sodipodi:arc-type="arc"
-       d="m -833.59212,-444.36402 a 99.09819,99.09819 0 0 1 -115.55861,78.42797 99.09819,99.09819 0 0 1 -79.22717,-115.01211 99.09819,99.09819 0 0 1 114.46006,-80.02265 99.09819,99.09819 0 0 1 80.81424,113.90258"
+       d="m -434.90035,-444.36402 a 99.09819,99.09819 0 0 1 -115.55861,78.42797 99.09819,99.09819 0 0 1 -79.22721,-115.01211 99.09819,99.09819 0 0 1 114.4601,-80.02265 99.09819,99.09819 0 0 1 80.81424,113.90258"
        sodipodi:open="true"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -1483,31 +1483,34 @@
        ry="0"
        transform="rotate(90)" />
     <rect
-       style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect274691"
-       width="297.37656"
-       height="433.81522"
-       x="-1561.8972"
-       y="-577.73511"
-       ry="114.76783" />
+       width="299.97699"
+       height="440.00003"
+       x="-1456.5609"
+       y="-571.37927"
+       ry="116.40405"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/posterior-panel,pocket-section,interior-face.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
-       style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect274828"
-       width="297.37656"
-       height="318.48965"
-       x="-1561.8972"
-       y="-462.40952" />
+       width="299.97699"
+       height="323.03027"
+       x="-1456.5609"
+       y="-454.40945" />
     <path
        id="rect142979"
-       style="fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -1446.5733,-562.79608 c -55.6141,0 -100.3866,44.77248 -100.3866,100.38663 v 203.16435 100.38663 h 100.3866 66.7267 100.3861 v -100.30705 c 0,-0.0265 5e-4,-0.0531 5e-4,-0.0796 v -203.16435 c 0,-55.61415 -44.7725,-100.38663 -100.3866,-100.38663 z" />
+       style="fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1340.2284,-556.22724 c -56.1004,0 -101.2645,45.41079 -101.2645,101.81782 v 206.06081 101.81782 h 101.2645 67.3102 101.2639 v -101.7371 c 0,-0.0269 5e-4,-0.0539 5e-4,-0.0807 V -454.4094 c 0,-56.40703 -45.164,-101.81782 -101.2644,-101.81782 z" />
     <rect
        style="fill:#a0892c;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect140923"
        width="78.729965"
        height="25.295927"
-       x="261.12247"
-       y="-958.88678"
+       x="364.31149"
+       y="-573.78015"
        transform="rotate(-75)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -1517,84 +1520,86 @@
        id="rect141104"
        width="78.729965"
        height="25.295927"
-       x="725.22302"
-       y="773.16052"
+       x="622.034"
+       y="388.05386"
        transform="matrix(-0.25881905,-0.96592583,-0.96592583,0.25881905,0,0)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.503675;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect143389"
-       width="300.00003"
-       height="25.295929"
-       x="-1564.5298"
-       y="-506.33099"
+       width="302.62338"
+       height="25.656567"
+       x="-1459.2166"
+       y="-456.05023"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       style="fill:#999999;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#999999;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect143409"
-       width="220.00005"
-       height="25.295929"
-       x="-1524.5298"
-       y="-506.33099"
+       width="229.9498"
+       height="25.656567"
+       x="-1418.8668"
+       y="-456.05023"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       style="fill:#918a6f;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#918a6f;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect33"
-       width="297.37659"
-       height="25.777405"
-       x="-1561.8972"
-       y="-311.37927"
+       width="299.97702"
+       height="26.144907"
+       x="-1456.5609"
+       y="-301.22601"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       style="fill:#999999;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#999999;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect143411"
-       width="239.99983"
-       height="25.777401"
-       x="-1534.5298"
-       y="-311.37927"
+       width="240.03728"
+       height="25.922302"
+       x="-1428.9542"
+       y="-301.22601"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-1429.7664"
-       y="-295.07825"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6611px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-1326.8851"
+       y="-283.91794"
        id="text145615"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       transform="scale(0.99727893,1.0027285)"><tspan
          sodipodi:role="line"
          id="tspan145613"
-         x="-1429.7664"
-         y="-295.07825"
-         style="stroke-width:0.49795">zipper</tspan></text>
+         x="-1326.8851"
+         y="-283.91794"
+         style="stroke-width:0.503675">zipper</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-1429.7664"
-       y="-490.7753"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6611px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-1326.8851"
+       y="-439.07477"
        id="text149105"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-ydpi="96"
+       transform="scale(0.99727893,1.0027285)"><tspan
          sodipodi:role="line"
          id="tspan149103"
-         x="-1429.7664"
-         y="-490.7753"
-         style="stroke-width:0.49795">zipper</tspan></text>
+         x="-1326.8851"
+         y="-439.07477"
+         style="stroke-width:0.503675">zipper</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-2369.7542"
+       x="-2772.8459"
        y="-496.84927"
        id="text149991"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -1602,27 +1607,27 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan149989"
-         x="-2369.7542"
+         x="-2772.8459"
          y="-496.84927"
          style="stroke-width:0.49795">velcro</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-1090.0275"
+       x="-691.33569"
        y="-643.86597"
        id="text156617"><tspan
          sodipodi:role="line"
          id="tspan156615"
-         x="-1090.0275"
+         x="-691.33569"
          y="-643.86597"
          style="stroke-width:0.49795">Shoulder strap superior</tspan><tspan
          sodipodi:role="line"
-         x="-1090.0275"
+         x="-691.33569"
          y="-630.6911"
          id="tspan280379"
          style="stroke-width:0.49795">connection point </tspan><tspan
          sodipodi:role="line"
-         x="-1090.0275"
+         x="-691.33569"
          y="-617.51624"
          id="tspan157081"
          style="stroke-width:0.49795" /></text>
@@ -2393,7 +2398,7 @@
        width="118.23218"
        height="25.295927"
        x="422.90732"
-       y="-909.2215"
+       y="-510.52975"
        transform="rotate(-90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -2401,7 +2406,7 @@
     <text
        xml:space="preserve"
        style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-885.46454"
+       x="-486.7728"
        y="-283.58127"
        id="text99131"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -2409,17 +2414,17 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan99129"
-         x="-885.46454"
+         x="-486.7728"
          y="-283.58127"
          style="stroke-width:0.49795">Hydration bladder</tspan><tspan
          sodipodi:role="line"
-         x="-885.46454"
+         x="-486.7728"
          y="-270.4064"
          id="tspan102811"
          style="stroke-width:0.49795">suspension</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -843.44938,-305.52127 -53.1241,-117.386"
+       d="m -444.75762,-305.52127 -53.1241,-117.386"
        id="path104846"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -2427,24 +2432,24 @@
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -967.93788,-572.48091 -49.14842,-42.71951"
+       d="m -569.24612,-572.48091 -49.14842,-42.71951"
        id="path104848" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -841.50958,-579.028 -175.57672,-36.17242 v 0"
+       d="m -442.81782,-579.028 -175.57672,-36.17242 v 0"
        id="path104850" />
     <path
        style="opacity:0.610443;fill:none;fill-opacity:0.731181;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path108216-3"
        sodipodi:type="arc"
-       sodipodi:cx="944.51093"
-       sodipodi:cy="331.97391"
+       sodipodi:cx="559.4043"
+       sodipodi:cy="435.16293"
        sodipodi:rx="21.741457"
        sodipodi:ry="21.741457"
        sodipodi:start="0"
        sodipodi:end="3.1415927"
        sodipodi:arc-type="slice"
-       d="m 966.25238,331.97391 a 21.741457,21.741457 0 0 1 -10.87073,18.82865 21.741457,21.741457 0 0 1 -21.74145,0 21.741457,21.741457 0 0 1 -10.87073,-18.82865 h 21.74146 z"
+       d="m 581.14575,435.16293 a 21.741457,21.741457 0 0 1 -10.87072,18.82866 21.741457,21.741457 0 0 1 -21.74146,0 21.741457,21.741457 0 0 1 -10.87073,-18.82866 h 21.74146 z"
        transform="rotate(-165)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -2453,14 +2458,14 @@
        style="opacity:0.610443;fill:none;fill-opacity:0.731181;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path108325"
        sodipodi:type="arc"
-       sodipodi:cx="787.53589"
-       sodipodi:cy="796.07452"
+       sodipodi:cx="402.42923"
+       sodipodi:cy="692.8855"
        sodipodi:rx="21.741457"
        sodipodi:ry="21.741457"
        sodipodi:start="0"
        sodipodi:end="3.1415927"
        sodipodi:arc-type="slice"
-       d="m 809.27735,796.07452 a 21.741457,21.741457 0 0 1 -10.87073,18.82866 21.741457,21.741457 0 0 1 -21.74146,0 21.741457,21.741457 0 0 1 -10.87073,-18.82866 h 21.74146 z"
+       d="m 424.17069,692.8855 a 21.741457,21.741457 0 0 1 -10.87073,18.82865 21.741457,21.741457 0 0 1 -21.74146,0 21.741457,21.741457 0 0 1 -10.87073,-18.82865 h 21.74146 z"
        transform="rotate(165)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -2507,33 +2512,29 @@
          id="tspan65">exiting the buckle by mistake</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-1556.5734"
-       y="-702.18488"
-       id="text139409"><tspan
-         sodipodi:role="line"
-         id="tspan139407"
-         x="-1556.5734"
-         y="-702.18488"
-         style="stroke-width:0.49795">Interior zipper pockets for the posterior panel</tspan><tspan
-         sodipodi:role="line"
-         x="-1556.5734"
-         y="-689.01001"
-         id="tspan223776"
-         style="stroke-width:0.49795" /><tspan
-         sodipodi:role="line"
-         x="-1556.5734"
-         y="-675.83514"
-         id="tspan141549"
-         style="stroke-width:0.49795">- Sew onto the interior face of the posterior panel</tspan><tspan
-         sodipodi:role="line"
-         x="-1556.5734"
-         y="-662.66028"
-         id="tspan141151"
-         style="stroke-width:0.49795">- This panel is optional</tspan></text>
+       style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;white-space:pre;inline-size:300;display:inline;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-1226.5734"
+       y="-391.37924"
+       id="text139409"
+       transform="translate(109.98944)"><tspan
+         x="-1226.5734"
+         y="-391.37924"
+         id="tspan66">Interior zipper pockets for the posterior panel
+</tspan><tspan
+         x="-1226.5734"
+         y="-378.20438"
+         id="tspan67">
+</tspan><tspan
+         x="-1226.5734"
+         y="-365.02952"
+         id="tspan68">- Sew onto the interior face of the posterior </tspan><tspan
+         x="-1226.5734"
+         y="-351.85465"
+         id="tspan69">panel wrong side facing together
+</tspan></text>
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m -1561.8972,-330.16409 h 297.3766"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.505748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.04599, 1.0115;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m -1456.5608,-320.27867 h 299.977"
        id="path141664"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -2542,69 +2543,62 @@
     <text
        xml:space="preserve"
        style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-1492.8683"
-       y="-356.41779"
+       x="-1046.584"
+       y="-261.37924"
        id="text144792"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan144790"
-         x="-1492.8683"
-         y="-356.41779"
+         x="-1046.584"
+         y="-261.37924"
          style="stroke-width:0.49795">Pocket separator seam</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -1456.7915,-349.90974 11.4025,19.74568"
-       id="path145883"
-       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -950.87128,-552.00222 -0.903,4.41269 -2.9883,-3.37001 -0.903,4.4127 -2.9882,-3.37001 -0.903,4.41272 -2.9886,-3.37003 -0.9029,4.41269 -2.9883,-3.37001 -0.903,4.41271 -2.9885,-3.37003 1.0429,3.89136 0.9029,-4.4127 2.9882,3.37005 c 0,0 0.9031,-4.41273 0.9031,-4.41273 l 2.9884,3.37003 0.903,-4.41271 2.9882,3.37002 0.9032,-4.41274 2.9882,3.37006 0.9031,-4.41274 2.9884,3.37005 -1.0428,-3.89137 v 0"
+       d="m -552.17952,-552.00222 -0.903,4.41269 -2.9883,-3.37001 -0.903,4.4127 -2.9882,-3.37001 -0.903,4.41272 -2.9886,-3.37003 -0.9029,4.41269 -2.9883,-3.37001 -0.903,4.41271 -2.9885,-3.37003 1.0429,3.89136 0.9029,-4.4127 2.9882,3.37005 c 0,0 0.9031,-4.41273 0.9031,-4.41273 l 2.9884,3.37003 0.903,-4.41271 2.9882,3.37002 0.9032,-4.41274 2.9882,3.37006 0.9031,-4.41274 2.9884,3.37005 -1.0428,-3.89137 v 0"
        id="path159186"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -946.96188,-536.93672 -0.9029,4.41273 -2.9883,-3.37004 -0.9031,4.41271 -2.9884,-3.37004 -0.903,4.41273 -2.9883,-3.37003 -0.903,4.41271 -2.9883,-3.37004 -0.903,4.41272 -2.9885,-3.37002 1.0428,3.89138 0.9031,-4.41273 2.9881,3.37003 c 0,0 0.9031,-4.41272 0.9031,-4.41272 l 2.9883,3.37002 0.9031,-4.4127 2.9883,3.37002 0.903,-4.41271 2.9883,3.37003 0.9031,-4.41271 2.9884,3.37002 -1.0428,-3.89136 v 0"
+       d="m -548.27012,-536.93672 -0.9029,4.41273 -2.9883,-3.37004 -0.9031,4.41271 -2.9884,-3.37004 -0.903,4.41273 -2.9883,-3.37003 -0.903,4.41271 -2.9883,-3.37004 -0.903,4.41272 -2.9885,-3.37002 1.0428,3.89138 0.9031,-4.41273 2.9881,3.37003 c 0,0 0.9031,-4.41272 0.9031,-4.41272 l 2.9883,3.37002 0.9031,-4.4127 2.9883,3.37002 0.903,-4.41271 2.9883,3.37003 0.9031,-4.41271 2.9884,3.37002 -1.0428,-3.89136 v 0"
        id="path159268"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -942.72058,-521.13787 -0.903,4.41271 -2.9884,-3.37004 -0.9031,4.4127 -2.9882,-3.37001 -0.903,4.41271 -2.9883,-3.37002 -0.9031,4.41272 -2.9882,-3.37002 -0.9032,4.4127 -2.9883,-3.37002 1.0426,3.89136 0.9032,-4.41271 2.9883,3.37003 c 0,0 0.9029,-4.41271 0.9029,-4.41271 l 2.9884,3.37001 0.903,-4.4127 2.9883,3.37004 0.9031,-4.41274 2.9883,3.37005 0.903,-4.41273 2.9884,3.37004 -1.0427,-3.89137 v 0"
+       d="m -544.02882,-521.13787 -0.903,4.41271 -2.9884,-3.37004 -0.9031,4.4127 -2.9882,-3.37001 -0.903,4.41271 -2.9883,-3.37002 -0.9031,4.41272 -2.9882,-3.37002 -0.9032,4.4127 -2.9883,-3.37002 1.0426,3.89136 0.9032,-4.41271 2.9883,3.37003 c 0,0 0.9029,-4.41271 0.9029,-4.41271 l 2.9884,3.37001 0.903,-4.4127 2.9883,3.37004 0.9031,-4.41274 2.9883,3.37005 0.903,-4.41273 2.9884,3.37004 -1.0427,-3.89137 v 0"
        id="path159270"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -842.13968,-552.00229 0.9031,4.41269 2.9883,-3.37002 0.903,4.41271 2.9884,-3.37002 0.903,4.4127 2.9883,-3.37001 0.903,4.41271 2.9884,-3.37003 0.9029,4.4127 2.9884,-3.37003 -1.0426,3.89139 -0.903,-4.41271 -2.9883,3.37002 c 0,0 -0.9032,-4.41271 -0.9032,-4.41271 l -2.9882,3.37002 -0.903,-4.41271 -2.9884,3.37003 -0.903,-4.41272 -2.9884,3.37002 -0.903,-4.41271 -2.9883,3.37004 1.0426,-3.89136 v 0"
+       d="m -443.44792,-552.00229 0.9031,4.41269 2.9883,-3.37002 0.903,4.41271 2.9884,-3.37002 0.903,4.4127 2.9883,-3.37001 0.903,4.41271 2.9884,-3.37003 0.9029,4.4127 2.9884,-3.37003 -1.0426,3.89139 -0.903,-4.41271 -2.9883,3.37002 c 0,0 -0.9032,-4.41271 -0.9032,-4.41271 l -2.9882,3.37002 -0.903,-4.41271 -2.9884,3.37003 -0.903,-4.41272 -2.9884,3.37002 -0.903,-4.41271 -2.9883,3.37004 1.0426,-3.89136 v 0"
        id="path159272"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -846.04898,-536.93679 0.903,4.41271 2.9884,-3.37002 0.9029,4.41269 2.9883,-3.37002 0.9031,4.41271 2.9883,-3.37004 0.903,4.41273 2.9883,-3.37002 0.9031,4.41269 2.9884,-3.37 -1.0428,3.89137 -0.9029,-4.41274 -2.9884,3.37003 c 0,0 -0.903,-4.41271 -0.903,-4.41271 l -2.9884,3.37003 -0.903,-4.41271 -2.9882,3.37002 -0.9031,-4.4127 -2.9884,3.37001 -0.903,-4.41268 -2.9884,3.36999 1.0428,-3.89134 v 0"
+       d="m -447.35722,-536.93679 0.903,4.41271 2.9884,-3.37002 0.9029,4.41269 2.9883,-3.37002 0.9031,4.41271 2.9883,-3.37004 0.903,4.41273 2.9883,-3.37002 0.9031,4.41269 2.9884,-3.37 -1.0428,3.89137 -0.9029,-4.41274 -2.9884,3.37003 c 0,0 -0.903,-4.41271 -0.903,-4.41271 l -2.9884,3.37003 -0.903,-4.41271 -2.9882,3.37002 -0.9031,-4.4127 -2.9884,3.37001 -0.903,-4.41268 -2.9884,3.36999 1.0428,-3.89134 v 0"
        id="path159274"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -850.29028,-521.13795 0.903,4.4127 2.9884,-3.37003 0.903,4.4127 2.9883,-3.37001 0.903,4.4127 2.9884,-3.37003 0.9029,4.41275 2.9885,-3.37004 0.903,4.4127 2.9882,-3.37002 -1.0425,3.89138 -0.9031,-4.41272 -2.9883,3.37002 c 0,0 -0.903,-4.4127 -0.903,-4.4127 l -2.9885,3.37001 -0.903,-4.41272 -2.9882,3.37005 -0.903,-4.41273 -2.9884,3.37003 -0.9031,-4.4127 -2.9883,3.37002 1.0427,-3.89136 v 0"
+       d="m -451.59852,-521.13795 0.903,4.4127 2.9884,-3.37003 0.903,4.4127 2.9883,-3.37001 0.903,4.4127 2.9884,-3.37003 0.9029,4.41275 2.9885,-3.37004 0.903,4.4127 2.9882,-3.37002 -1.0425,3.89138 -0.9031,-4.41272 -2.9883,3.37002 c 0,0 -0.903,-4.4127 -0.903,-4.4127 l -2.9885,3.37001 -0.903,-4.41272 -2.9882,3.37005 -0.903,-4.41273 -2.9884,3.37003 -0.9031,-4.4127 -2.9883,3.37002 1.0427,-3.89136 v 0"
        id="path159276"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -906.64508,-537.47726 2.0142,4.02861 2.0144,-4.02861 2.0144,4.02861 2.0144,-4.02861 2.0142,4.02861 2.0143,-4.02861 2.0144,4.02861 2.0142,-4.02861 2.0143,4.02861 2.0144,-4.02861 v 4.02861 l -2.0144,-4.02861 -2.0143,4.02861 c 0,0 -2.0142,-4.02861 -2.0142,-4.02861 l -2.0144,4.02861 -2.0143,-4.02861 -2.0142,4.02861 -2.0144,-4.02861 -2.0143,4.02861 -2.0145,-4.02861 -2.0142,4.02861 v -4.02861 0"
+       d="m -507.95332,-537.47726 2.0142,4.02861 2.0144,-4.02861 2.0144,4.02861 2.0144,-4.02861 2.0142,4.02861 2.0143,-4.02861 2.0144,4.02861 2.0142,-4.02861 2.0143,4.02861 2.0144,-4.02861 v 4.02861 l -2.0144,-4.02861 -2.0143,4.02861 c 0,0 -2.0142,-4.02861 -2.0142,-4.02861 l -2.0144,4.02861 -2.0143,-4.02861 -2.0142,4.02861 -2.0144,-4.02861 -2.0143,4.02861 -2.0145,-4.02861 -2.0142,4.02861 v -4.02861 0"
        id="path159358"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -2646,13 +2640,13 @@
        transform="matrix(0.26349919,0,0,0.26349919,-332.4752,-1264.1172)"><tspan
          x="-1913.0927"
          y="5799.4731"
-         id="tspan66">This edge is sewn into the seam </tspan><tspan
+         id="tspan70">This edge is sewn into the seam </tspan><tspan
          x="-1913.0927"
          y="5849.4731"
-         id="tspan67">between the anterior panel and </tspan><tspan
+         id="tspan71">between the anterior panel and </tspan><tspan
          x="-1913.0927"
          y="5899.4731"
-         id="tspan68">the intermediate panel</tspan></text>
+         id="tspan72">the intermediate panel</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -962.11214,865.47899 47.28712,67.23024 171.81139,-67.23024"
@@ -2685,28 +2679,28 @@
        transform="matrix(0.26349919,0,0,0.26349919,-2004.181,-759.72637)"><tspan
          x="-1947.7443"
          y="-631.80548"
-         id="tspan69">This drawing is originally a SVG (scalable vector graphics) file. I've not called out </tspan><tspan
+         id="tspan73">This drawing is originally a SVG (scalable vector graphics) file. I've not called out </tspan><tspan
          x="-1947.7443"
          y="-581.80548"
-         id="tspan70">deminsions, since everything is drawn to-scale. Both a SVG and PDF version can be opened </tspan><tspan
+         id="tspan74">deminsions, since everything is drawn to-scale. Both a SVG and PDF version can be opened </tspan><tspan
          x="-1947.7443"
          y="-531.80548"
-         id="tspan71">with a vector drawing program such as Inkscape to see the dimensions of any part. A scale </tspan><tspan
+         id="tspan75">with a vector drawing program such as Inkscape to see the dimensions of any part. A scale </tspan><tspan
          x="-1947.7443"
          y="-481.80548"
-         id="tspan72">bar is provided at the top just in case.
+         id="tspan76">bar is provided at the top just in case.
 </tspan><tspan
          x="-1947.7443"
          y="-431.80548"
-         id="tspan73">
+         id="tspan77">
 </tspan><tspan
          x="-1947.7443"
          y="-381.80548"
-         id="tspan74">Seam allowances are either 1 cm or 1.5 cm, and are indicated by a darker color.
+         id="tspan78">Seam allowances are either 1 cm or 1.5 cm, and are indicated by a darker color.
 </tspan></text>
     <g
        id="g491010"
-       transform="matrix(0.26349919,0,0,0.26349919,-1890.7225,-692.79984)"
+       transform="matrix(0.26349919,0,0,0.26349919,-1624.4722,-692.79984)"
        style="stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none">
       <rect
          style="opacity:1;fill:#ececec;fill-opacity:0.979998;stroke:#000000;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none"
@@ -2880,56 +2874,56 @@
     <text
        xml:space="preserve"
        style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-935.39917"
+       x="-669.14886"
        y="-918.46436"
        id="text197178"><tspan
          sodipodi:role="line"
          id="tspan197176"
-         x="-935.39917"
+         x="-669.14886"
          y="-918.46436"
          style="stroke-width:0.49795">Scale for inches</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-935.12634"
+       x="-668.87604"
        y="-881.72052"
        id="text201094"><tspan
          sodipodi:role="line"
          id="tspan201092"
-         x="-935.12634"
+         x="-668.87604"
          y="-881.72052"
          style="stroke-width:0.49795">Metric</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-935.24475"
+       x="-668.99445"
        y="-850.52826"
        id="text201332"><tspan
          sodipodi:role="line"
          id="tspan201330"
-         x="-935.24475"
+         x="-668.99445"
          y="-850.52826"
          style="stroke-width:0.49795">mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-885.39075"
+       x="-619.14044"
        y="-850.67749"
        id="text205722"><tspan
          sodipodi:role="line"
          id="tspan205720"
-         x="-885.39075"
+         x="-619.14044"
          y="-850.67749"
          style="stroke-width:0.49795">cm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-687.98749"
+       x="-421.73718"
        y="-850.67749"
        id="text208432"><tspan
          sodipodi:role="line"
          id="tspan208430"
-         x="-687.98749"
+         x="-421.73718"
          y="-850.67749"
          style="stroke-width:0.49795">dm</tspan></text>
     <text
@@ -2938,33 +2932,33 @@
        x="2108.1438"
        y="-195.25174"
        id="text227894"
-       transform="matrix(0.26349919,0,0,0.26349919,-1642.0677,-716.45497)"><tspan
+       transform="matrix(0.26349919,0,0,0.26349919,-1243.376,-716.45497)"><tspan
          x="2108.1438"
          y="-195.25174"
-         id="tspan75">Anterior panel
+         id="tspan79">Anterior panel
 </tspan><tspan
          x="2108.1438"
          y="-145.25174"
-         id="tspan76">
+         id="tspan80">
 </tspan><tspan
          x="2108.1438"
          y="-95.25174"
-         id="tspan77">- the webbing for the shoulder strap superior connection </tspan><tspan
+         id="tspan81">- the webbing for the shoulder strap superior connection </tspan><tspan
          x="2108.1438"
          y="-45.25174"
-         id="tspan78">point can be sewn either on the exterior on interior face </tspan><tspan
+         id="tspan82">point can be sewn either on the exterior on interior face </tspan><tspan
          x="2108.1438"
          y="4.7482605"
-         id="tspan79">of the panel. It is simpler to sew them to the exterior </tspan><tspan
+         id="tspan83">of the panel. It is simpler to sew them to the exterior </tspan><tspan
          x="2108.1438"
          y="54.74826"
-         id="tspan80">face, as it can be done before the final assembly of the </tspan><tspan
+         id="tspan84">face, as it can be done before the final assembly of the </tspan><tspan
          x="2108.1438"
          y="104.74826"
-         id="tspan81">pack. Else the webbing must only be bartacked in the seam </tspan><tspan
+         id="tspan85">pack. Else the webbing must only be bartacked in the seam </tspan><tspan
          x="2108.1438"
          y="154.74826"
-         id="tspan82">allowance, and finalised after final assembly.   </tspan></text>
+         id="tspan86">allowance, and finalised after final assembly.   </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
@@ -2997,7 +2991,7 @@
        id="path267779" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2201.0129,-269.8007 -4.0286,2.01431 4.0286,2.01431 -4.0286,2.01435 4.0286,2.01433 -4.0286,2.01428 4.0286,2.01432 -4.0286,2.01433 4.0286,2.01428 -4.0286,2.01435 4.0286,2.0143 h -4.0286 l 4.0286,-2.01433 -4.0286,-2.01429 c 0,0 4.0286,-2.01434 4.0286,-2.01434 l -4.0286,-2.0143 4.0286,-2.01432 -4.0286,-2.01428 4.0286,-2.01435 -4.0286,-2.01431 4.0286,-2.01435 -4.0286,-2.01429 h 4.0286 v 0"
+       d="m -2604.1048,-269.8007 -4.0286,2.01431 4.0286,2.01431 -4.0286,2.01435 4.0286,2.01433 -4.0286,2.01428 4.0286,2.01432 -4.0286,2.01433 4.0286,2.01428 -4.0286,2.01435 4.0286,2.0143 h -4.0286 l 4.0286,-2.01433 -4.0286,-2.01429 c 0,0 4.0286,-2.01434 4.0286,-2.01434 l -4.0286,-2.0143 4.0286,-2.01432 -4.0286,-2.01428 4.0286,-2.01435 -4.0286,-2.01431 4.0286,-2.01435 -4.0286,-2.01429 h 4.0286 v 0"
        id="path267779-2"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -3026,7 +3020,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="2421.1445"
+       y="2824.2363"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -3035,7 +3029,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="2307.313"
+       y="2710.4048"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -3044,7 +3038,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="2345.2571"
+       y="2748.3489"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -3053,7 +3047,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="2231.4255"
+       y="2634.5173"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -3062,7 +3056,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="2383.2007"
+       y="2786.2925"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -3071,7 +3065,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="2269.3691"
+       y="2672.4609"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -3080,7 +3074,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="2193.4814"
+       y="2596.5732"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -3089,7 +3083,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="2459.0886"
+       y="2862.1804"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -3098,7 +3092,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="2421.1445"
+       y="2824.2363"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3110,7 +3104,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="2307.313"
+       y="2710.4048"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3122,7 +3116,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="2345.2571"
+       y="2748.3489"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3134,7 +3128,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="2231.4255"
+       y="2634.5173"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3146,7 +3140,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="2383.2007"
+       y="2786.2925"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3158,7 +3152,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="2269.3691"
+       y="2672.4609"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3170,7 +3164,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="2193.4814"
+       y="2596.5732"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3182,7 +3176,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="2459.0886"
+       y="2862.1804"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3194,7 +3188,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="2421.1445"
+       y="2824.2363"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3206,7 +3200,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="2307.313"
+       y="2710.4048"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3218,7 +3212,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="2345.2571"
+       y="2748.3489"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3230,7 +3224,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="2231.4255"
+       y="2634.5173"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3242,7 +3236,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="2383.2007"
+       y="2786.2925"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3254,7 +3248,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="2269.3691"
+       y="2672.4609"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3266,7 +3260,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="2193.4814"
+       y="2596.5732"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3278,7 +3272,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="2459.0886"
+       y="2862.1804"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3290,7 +3284,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="2421.1445"
+       y="2824.2363"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3302,7 +3296,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="2307.313"
+       y="2710.4048"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3314,7 +3308,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="2345.2571"
+       y="2748.3489"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3326,7 +3320,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="2231.4255"
+       y="2634.5173"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3338,7 +3332,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="2383.2007"
+       y="2786.2925"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3350,7 +3344,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="2269.3691"
+       y="2672.4609"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3362,7 +3356,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="2193.4814"
+       y="2596.5732"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3374,7 +3368,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="2459.0886"
+       y="2862.1804"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3386,7 +3380,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="2421.1445"
+       y="2824.2363"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3398,7 +3392,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="2307.313"
+       y="2710.4048"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3410,7 +3404,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="2345.2571"
+       y="2748.3489"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3422,7 +3416,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="2231.4255"
+       y="2634.5173"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3434,7 +3428,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="2383.2007"
+       y="2786.2925"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3446,7 +3440,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="2269.3691"
+       y="2672.4609"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3460,14 +3454,14 @@
        inkscape:original-d="M -3.96152,182.03189 -3.999756,170.9999 H 0.99993886 L 1.03848,182.03189 m 30,0 -0.02229,-13.98117 -8.977715,-0.0188 -3,5.99997 H 7.0384749 l -3.0227044,-6.01128 c -4.97729564,0.0113 -9.1846996,0.34273 -13.015743,0.97944 -0.9615475,5.03184 -1.9615475,8.03185 -1.9615475,13.03184"
        inkscape:path-effect="#path-effect7"
        class="UnoptimicedTransforms"
-       transform="matrix(-1.2705044,0,0,-1.2705044,-2247.5087,-180.92562)" />
+       transform="matrix(-1.2705044,0,0,-1.2705044,-2650.6006,-180.92562)" />
     <rect
        style="opacity:1;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect117553"
        width="25.295927"
        height="49.795124"
        x="-424.57672"
-       y="2196.5735"
+       y="2599.6653"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3479,7 +3473,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="2193.4814"
+       y="2596.5732"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3490,7 +3484,7 @@
        id="rect136896"
        width="95.80584"
        height="100.38656"
-       x="-2307.3174"
+       x="-2710.4092"
        y="-550.25537"
        rx="0"
        ry="0"
@@ -3503,19 +3497,15 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="2459.0886"
+       y="2862.1804"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -928.78893,-50.256738 -976.57334,-201.37927"
-       id="path275332" />
     <g
        id="g320757"
-       transform="matrix(0.26349919,0,0,0.26349919,-587.90453,-692.79983)"
+       transform="matrix(0.26349919,0,0,0.26349919,-189.21277,-692.79983)"
        style="fill:#786721;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none">
       <rect
          style="fill:#786721;stroke:#000000;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none"
@@ -3536,29 +3526,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#d3bc5f;fill-opacity:1;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-961.48212"
+       x="-562.79034"
        y="-350.12793"
        id="text320767"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="-961.48212"
+         x="-562.79034"
          y="-350.12793"
          id="tspan320759"
          style="stroke-width:0.49795">PASL panel</tspan><tspan
          sodipodi:role="line"
-         x="-961.48212"
+         x="-562.79034"
          y="-336.95306"
          id="tspan320761"
          style="stroke-width:0.49795"> - 6 rows</tspan><tspan
          sodipodi:role="line"
-         x="-961.48212"
+         x="-562.79034"
          y="-323.77817"
          id="tspan320763"
          style="stroke-width:0.49795"> - 6 columns</tspan><tspan
          sodipodi:role="line"
-         x="-961.48212"
+         x="-562.79034"
          y="-310.6033"
          id="tspan320765"
          style="stroke-width:0.49795" /></text>
@@ -3567,7 +3557,7 @@
        id="rect320769"
        width="267.49948"
        height="403.93765"
-       x="-1030.3231"
+       x="-631.63135"
        y="-562.79608"
        ry="100.38656" />
     <rect
@@ -3575,7 +3565,7 @@
        id="rect320771"
        width="267.49948"
        height="403.93765"
-       x="-1030.3231"
+       x="-631.63135"
        y="-562.79608"
        ry="100.38656" />
     <rect
@@ -3583,20 +3573,20 @@
        id="rect320773"
        width="267.49945"
        height="303.55112"
-       x="-1030.3231"
+       x="-631.63135"
        y="-462.40948" />
     <path
        style="opacity:1;fill:#d3bc5f;fill-opacity:0.0668873;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path320775"
        sodipodi:type="arc"
-       sodipodi:cx="-862.28827"
+       sodipodi:cx="-463.59653"
        sodipodi:cy="-463.33136"
        sodipodi:rx="99.09819"
        sodipodi:ry="99.09819"
        sodipodi:start="0"
        sodipodi:end="6.2588636"
        sodipodi:arc-type="arc"
-       d="m -763.19008,-463.33136 a 99.09819,99.09819 0 0 1 -98.49563,99.09636 99.09819,99.09819 0 0 1 -99.69342,-97.89127 99.09819,99.09819 0 0 1 97.28328,-100.28679 99.09819,99.09819 0 0 1 100.87646,96.6717"
+       d="m -364.49834,-463.33136 a 99.09819,99.09819 0 0 1 -98.49563,99.09636 99.09819,99.09819 0 0 1 -99.69342,-97.89127 99.09819,99.09819 0 0 1 97.28329,-100.28679 99.09819,99.09819 0 0 1 100.87645,96.6717"
        sodipodi:open="true"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -3605,14 +3595,14 @@
        style="opacity:1;fill:#d3bc5f;fill-opacity:0.0668873;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path320777"
        sodipodi:type="arc"
-       sodipodi:cx="-930.85822"
+       sodipodi:cx="-532.16644"
        sodipodi:cy="-463.3313"
        sodipodi:rx="99.09819"
        sodipodi:ry="99.09819"
        sodipodi:start="0.19258716"
        sodipodi:end="0.16485633"
        sodipodi:arc-type="arc"
-       d="m -833.59212,-444.36402 a 99.09819,99.09819 0 0 1 -115.55861,78.42797 99.09819,99.09819 0 0 1 -79.22717,-115.01211 99.09819,99.09819 0 0 1 114.46006,-80.02265 99.09819,99.09819 0 0 1 80.81424,113.90258"
+       d="m -434.90035,-444.36402 a 99.09819,99.09819 0 0 1 -115.55861,78.42797 99.09819,99.09819 0 0 1 -79.22721,-115.01211 99.09819,99.09819 0 0 1 114.4601,-80.02265 99.09819,99.09819 0 0 1 80.81424,113.90258"
        sodipodi:open="true"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -3622,8 +3612,8 @@
        id="rect320779"
        width="78.729965"
        height="25.295927"
-       x="261.12247"
-       y="-958.88678"
+       x="364.31149"
+       y="-573.78015"
        transform="rotate(-75)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -3633,8 +3623,8 @@
        id="rect320781"
        width="78.729965"
        height="25.295927"
-       x="725.22302"
-       y="773.16052"
+       x="622.034"
+       y="388.05386"
        transform="matrix(-0.25881905,-0.96592583,-0.96592583,0.25881905,0,0)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -3645,7 +3635,7 @@
        width="118.23218"
        height="25"
        x="422.90732"
-       y="-909.2215"
+       y="-510.52975"
        transform="rotate(-90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -3653,7 +3643,7 @@
     <text
        xml:space="preserve"
        style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-1163.4972"
+       x="-764.1319"
        y="-331.37927"
        id="text320789"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3661,17 +3651,17 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan320785"
-         x="-1163.4972"
+         x="-764.1319"
          y="-331.37927"
          style="stroke-width:0.49795">Hydration bladder</tspan><tspan
          sodipodi:role="line"
-         x="-1163.4972"
+         x="-764.1319"
          y="-318.20441"
          id="tspan320787"
          style="stroke-width:0.49795">suspension</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -843.44938,-305.52127 -53.1241,-117.386"
+       d="m -444.75762,-305.52127 -53.1241,-117.386"
        id="path320791"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -3679,24 +3669,24 @@
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -967.93788,-572.48091 -49.14842,-42.71951"
+       d="m -569.24612,-572.48091 -49.14842,-42.71951"
        id="path320793" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -841.50958,-579.028 -175.57672,-36.17242 v 0"
+       d="m -442.81782,-579.028 -175.57672,-36.17242 v 0"
        id="path320795" />
     <path
        style="opacity:0.610443;fill:none;fill-opacity:0.731181;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path320797"
        sodipodi:type="arc"
-       sodipodi:cx="944.51093"
-       sodipodi:cy="331.97391"
+       sodipodi:cx="559.4043"
+       sodipodi:cy="435.16293"
        sodipodi:rx="21.741457"
        sodipodi:ry="21.741457"
        sodipodi:start="0"
        sodipodi:end="3.1415927"
        sodipodi:arc-type="slice"
-       d="m 966.25238,331.97391 a 21.741457,21.741457 0 0 1 -10.87073,18.82865 21.741457,21.741457 0 0 1 -21.74145,0 21.741457,21.741457 0 0 1 -10.87073,-18.82865 h 21.74146 z"
+       d="m 581.14575,435.16293 a 21.741457,21.741457 0 0 1 -10.87072,18.82866 21.741457,21.741457 0 0 1 -21.74146,0 21.741457,21.741457 0 0 1 -10.87073,-18.82866 h 21.74146 z"
        transform="rotate(-165)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -3705,63 +3695,63 @@
        style="opacity:0.610443;fill:none;fill-opacity:0.731181;stroke:#000000;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path320799"
        sodipodi:type="arc"
-       sodipodi:cx="787.53589"
-       sodipodi:cy="796.07452"
+       sodipodi:cx="402.42923"
+       sodipodi:cy="692.8855"
        sodipodi:rx="21.741457"
        sodipodi:ry="21.741457"
        sodipodi:start="0"
        sodipodi:end="3.1415927"
        sodipodi:arc-type="slice"
-       d="m 809.27735,796.07452 a 21.741457,21.741457 0 0 1 -10.87073,18.82866 21.741457,21.741457 0 0 1 -21.74146,0 21.741457,21.741457 0 0 1 -10.87073,-18.82866 h 21.74146 z"
+       d="m 424.17069,692.8855 a 21.741457,21.741457 0 0 1 -10.87073,18.82865 21.741457,21.741457 0 0 1 -21.74146,0 21.741457,21.741457 0 0 1 -10.87073,-18.82865 h 21.74146 z"
        transform="rotate(165)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -950.87128,-552.00222 -0.903,4.41269 -2.9883,-3.37001 -0.903,4.4127 -2.9882,-3.37001 -0.903,4.41272 -2.9886,-3.37003 -0.9029,4.41269 -2.9883,-3.37001 -0.903,4.41271 -2.9885,-3.37003 1.0429,3.89136 0.9029,-4.4127 2.9882,3.37005 c 0,0 0.9031,-4.41273 0.9031,-4.41273 l 2.9884,3.37003 0.903,-4.41271 2.9882,3.37002 0.9032,-4.41274 2.9882,3.37006 0.9031,-4.41274 2.9884,3.37005 -1.0428,-3.89137 v 0"
+       d="m -552.17952,-552.00222 -0.903,4.41269 -2.9883,-3.37001 -0.903,4.4127 -2.9882,-3.37001 -0.903,4.41272 -2.9886,-3.37003 -0.9029,4.41269 -2.9883,-3.37001 -0.903,4.41271 -2.9885,-3.37003 1.0429,3.89136 0.9029,-4.4127 2.9882,3.37005 c 0,0 0.9031,-4.41273 0.9031,-4.41273 l 2.9884,3.37003 0.903,-4.41271 2.9882,3.37002 0.9032,-4.41274 2.9882,3.37006 0.9031,-4.41274 2.9884,3.37005 -1.0428,-3.89137 v 0"
        id="path320801"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -946.96188,-536.93672 -0.9029,4.41273 -2.9883,-3.37004 -0.9031,4.41271 -2.9884,-3.37004 -0.903,4.41273 -2.9883,-3.37003 -0.903,4.41271 -2.9883,-3.37004 -0.903,4.41272 -2.9885,-3.37002 1.0428,3.89138 0.9031,-4.41273 2.9881,3.37003 c 0,0 0.9031,-4.41272 0.9031,-4.41272 l 2.9883,3.37002 0.9031,-4.4127 2.9883,3.37002 0.903,-4.41271 2.9883,3.37003 0.9031,-4.41271 2.9884,3.37002 -1.0428,-3.89136 v 0"
+       d="m -548.27012,-536.93672 -0.9029,4.41273 -2.9883,-3.37004 -0.9031,4.41271 -2.9884,-3.37004 -0.903,4.41273 -2.9883,-3.37003 -0.903,4.41271 -2.9883,-3.37004 -0.903,4.41272 -2.9885,-3.37002 1.0428,3.89138 0.9031,-4.41273 2.9881,3.37003 c 0,0 0.9031,-4.41272 0.9031,-4.41272 l 2.9883,3.37002 0.9031,-4.4127 2.9883,3.37002 0.903,-4.41271 2.9883,3.37003 0.9031,-4.41271 2.9884,3.37002 -1.0428,-3.89136 v 0"
        id="path320803"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -942.72058,-521.13787 -0.903,4.41271 -2.9884,-3.37004 -0.9031,4.4127 -2.9882,-3.37001 -0.903,4.41271 -2.9883,-3.37002 -0.9031,4.41272 -2.9882,-3.37002 -0.9032,4.4127 -2.9883,-3.37002 1.0426,3.89136 0.9032,-4.41271 2.9883,3.37003 c 0,0 0.9029,-4.41271 0.9029,-4.41271 l 2.9884,3.37001 0.903,-4.4127 2.9883,3.37004 0.9031,-4.41274 2.9883,3.37005 0.903,-4.41273 2.9884,3.37004 -1.0427,-3.89137 v 0"
+       d="m -544.02882,-521.13787 -0.903,4.41271 -2.9884,-3.37004 -0.9031,4.4127 -2.9882,-3.37001 -0.903,4.41271 -2.9883,-3.37002 -0.9031,4.41272 -2.9882,-3.37002 -0.9032,4.4127 -2.9883,-3.37002 1.0426,3.89136 0.9032,-4.41271 2.9883,3.37003 c 0,0 0.9029,-4.41271 0.9029,-4.41271 l 2.9884,3.37001 0.903,-4.4127 2.9883,3.37004 0.9031,-4.41274 2.9883,3.37005 0.903,-4.41273 2.9884,3.37004 -1.0427,-3.89137 v 0"
        id="path320805"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -842.13968,-552.00229 0.9031,4.41269 2.9883,-3.37002 0.903,4.41271 2.9884,-3.37002 0.903,4.4127 2.9883,-3.37001 0.903,4.41271 2.9884,-3.37003 0.9029,4.4127 2.9884,-3.37003 -1.0426,3.89139 -0.903,-4.41271 -2.9883,3.37002 c 0,0 -0.9032,-4.41271 -0.9032,-4.41271 l -2.9882,3.37002 -0.903,-4.41271 -2.9884,3.37003 -0.903,-4.41272 -2.9884,3.37002 -0.903,-4.41271 -2.9883,3.37004 1.0426,-3.89136 v 0"
+       d="m -443.44792,-552.00229 0.9031,4.41269 2.9883,-3.37002 0.903,4.41271 2.9884,-3.37002 0.903,4.4127 2.9883,-3.37001 0.903,4.41271 2.9884,-3.37003 0.9029,4.4127 2.9884,-3.37003 -1.0426,3.89139 -0.903,-4.41271 -2.9883,3.37002 c 0,0 -0.9032,-4.41271 -0.9032,-4.41271 l -2.9882,3.37002 -0.903,-4.41271 -2.9884,3.37003 -0.903,-4.41272 -2.9884,3.37002 -0.903,-4.41271 -2.9883,3.37004 1.0426,-3.89136 v 0"
        id="path320807"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -846.04898,-536.93679 0.903,4.41271 2.9884,-3.37002 0.9029,4.41269 2.9883,-3.37002 0.9031,4.41271 2.9883,-3.37004 0.903,4.41273 2.9883,-3.37002 0.9031,4.41269 2.9884,-3.37 -1.0428,3.89137 -0.9029,-4.41274 -2.9884,3.37003 c 0,0 -0.903,-4.41271 -0.903,-4.41271 l -2.9884,3.37003 -0.903,-4.41271 -2.9882,3.37002 -0.9031,-4.4127 -2.9884,3.37001 -0.903,-4.41268 -2.9884,3.36999 1.0428,-3.89134 v 0"
+       d="m -447.35722,-536.93679 0.903,4.41271 2.9884,-3.37002 0.9029,4.41269 2.9883,-3.37002 0.9031,4.41271 2.9883,-3.37004 0.903,4.41273 2.9883,-3.37002 0.9031,4.41269 2.9884,-3.37 -1.0428,3.89137 -0.9029,-4.41274 -2.9884,3.37003 c 0,0 -0.903,-4.41271 -0.903,-4.41271 l -2.9884,3.37003 -0.903,-4.41271 -2.9882,3.37002 -0.9031,-4.4127 -2.9884,3.37001 -0.903,-4.41268 -2.9884,3.36999 1.0428,-3.89134 v 0"
        id="path320809"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -850.29028,-521.13795 0.903,4.4127 2.9884,-3.37003 0.903,4.4127 2.9883,-3.37001 0.903,4.4127 2.9884,-3.37003 0.9029,4.41275 2.9885,-3.37004 0.903,4.4127 2.9882,-3.37002 -1.0425,3.89138 -0.9031,-4.41272 -2.9883,3.37002 c 0,0 -0.903,-4.4127 -0.903,-4.4127 l -2.9885,3.37001 -0.903,-4.41272 -2.9882,3.37005 -0.903,-4.41273 -2.9884,3.37003 -0.9031,-4.4127 -2.9883,3.37002 1.0427,-3.89136 v 0"
+       d="m -451.59852,-521.13795 0.903,4.4127 2.9884,-3.37003 0.903,4.4127 2.9883,-3.37001 0.903,4.4127 2.9884,-3.37003 0.9029,4.41275 2.9885,-3.37004 0.903,4.4127 2.9882,-3.37002 -1.0425,3.89138 -0.9031,-4.41272 -2.9883,3.37002 c 0,0 -0.903,-4.4127 -0.903,-4.4127 l -2.9885,3.37001 -0.903,-4.41272 -2.9882,3.37005 -0.903,-4.41273 -2.9884,3.37003 -0.9031,-4.4127 -2.9883,3.37002 1.0427,-3.89136 v 0"
        id="path320811"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -906.64508,-537.47726 2.0142,4.02861 2.0144,-4.02861 2.0144,4.02861 2.0144,-4.02861 2.0142,4.02861 2.0143,-4.02861 2.0144,4.02861 2.0142,-4.02861 2.0143,4.02861 2.0144,-4.02861 v 4.02861 l -2.0144,-4.02861 -2.0143,4.02861 c 0,0 -2.0142,-4.02861 -2.0142,-4.02861 l -2.0144,4.02861 -2.0143,-4.02861 -2.0142,4.02861 -2.0144,-4.02861 -2.0143,4.02861 -2.0145,-4.02861 -2.0142,4.02861 v -4.02861 0"
+       d="m -507.95332,-537.47726 2.0142,4.02861 2.0144,-4.02861 2.0144,4.02861 2.0144,-4.02861 2.0142,4.02861 2.0143,-4.02861 2.0144,4.02861 2.0142,-4.02861 2.0143,4.02861 2.0144,-4.02861 v 4.02861 l -2.0144,-4.02861 -2.0143,4.02861 c 0,0 -2.0142,-4.02861 -2.0142,-4.02861 l -2.0144,4.02861 -2.0143,-4.02861 -2.0142,4.02861 -2.0144,-4.02861 -2.0143,4.02861 -2.0145,-4.02861 -2.0142,4.02861 v -4.02861 0"
        id="path320813"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -3795,7 +3785,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2200.2871,-421.89468 -4.0288,2.01432 4.0288,2.0143 -4.0288,2.01434 4.0288,2.01434 -4.0288,2.01427 4.0288,2.01432 -4.0288,2.01433 4.0288,2.01429 -4.0288,2.01434 4.0288,2.01428 h -4.0288 l 4.0288,-2.0143 -4.0288,-2.01431 c 0,0 4.0288,-2.01434 4.0288,-2.01434 l -4.0288,-2.01429 4.0288,-2.01432 -4.0288,-2.01427 4.0288,-2.01436 -4.0288,-2.01429 4.0288,-2.01437 -4.0288,-2.01428 h 4.0288 v 0"
+       d="m -2603.379,-421.89468 -4.0288,2.01432 4.0288,2.0143 -4.0288,2.01434 4.0288,2.01434 -4.0288,2.01427 4.0288,2.01432 -4.0288,2.01433 4.0288,2.01429 -4.0288,2.01434 4.0288,2.01428 h -4.0288 l 4.0288,-2.0143 -4.0288,-2.01431 c 0,0 4.0288,-2.01434 4.0288,-2.01434 l -4.0288,-2.01429 4.0288,-2.01432 -4.0288,-2.01427 4.0288,-2.01436 -4.0288,-2.01429 4.0288,-2.01437 -4.0288,-2.01428 h 4.0288 v 0"
        id="path400191-7"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -3841,7 +3831,7 @@
          style="stroke-width:0.49795">Rev: 1</tspan></text>
     <g
        id="g491034"
-       transform="matrix(0.26349919,0,0,0.26349919,-1890.7225,-692.79984)"
+       transform="matrix(0.26349919,0,0,0.26349919,-1624.4722,-692.79984)"
        style="stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none">
       <rect
          style="opacity:1;fill:#ececec;fill-opacity:0.979998;stroke:#000000;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none"
@@ -4001,12 +3991,12 @@
     <text
        xml:space="preserve"
        style="font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-892.9649"
+       x="-494.27316"
        y="-129.8756"
        id="text522711-6"><tspan
          sodipodi:role="line"
          id="tspan522709-0"
-         x="-892.9649"
+         x="-494.27316"
          y="-129.8756"
          style="stroke-width:0.49795">inferior edge</tspan></text>
     <text
@@ -4160,14 +4150,14 @@
        inkscape:original-d="M -3.96152,182.03189 -3.999756,170.9999 H 0.99993886 L 1.03848,182.03189 m 30,0 -0.02229,-13.98117 -8.977715,-0.0188 -3,5.99997 H 7.0384749 l -3.0227044,-6.01128 c -4.97729564,0.0113 -9.1846996,0.34273 -13.015743,0.97944 -0.9615475,5.03184 -1.9615475,8.03185 -1.9615475,13.03184"
        inkscape:path-effect="#path-effect24"
        class="UnoptimicedTransforms"
-       transform="matrix(1.2705044,0,0,1.2705044,-2442.159,-643.47025)" />
+       transform="matrix(1.2705044,0,0,1.2705044,-2845.2509,-643.47025)" />
     <rect
        style="opacity:1;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect117391"
        width="25.295927"
        height="49.795124"
        x="-424.57672"
-       y="2444.6838"
+       y="2847.7756"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4175,7 +4165,7 @@
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2486.1922,-421.5618 -4.0287,2.01432 4.0287,2.0143 -4.0287,2.01434 4.0287,2.01433 -4.0287,2.01428 4.0287,2.01432 -4.0287,2.01433 4.0287,2.01429 -4.0287,2.01435 4.0287,2.01429 h -4.0287 l 4.0287,-2.01432 -4.0287,-2.01431 c 0,0 4.0287,-2.01433 4.0287,-2.01433 l -4.0287,-2.0143 4.0287,-2.01432 -4.0287,-2.01428 4.0287,-2.01436 -4.0287,-2.01428 4.0287,-2.01437 -4.0287,-2.01428 h 4.0287 v 0"
+       d="m -2889.2841,-421.5618 -4.0287,2.01432 4.0287,2.0143 -4.0287,2.01434 4.0287,2.01433 -4.0287,2.01428 4.0287,2.01432 -4.0287,2.01433 4.0287,2.01429 -4.0287,2.01435 4.0287,2.01429 h -4.0287 l 4.0287,-2.01432 -4.0287,-2.01431 c 0,0 4.0287,-2.01433 4.0287,-2.01433 l -4.0287,-2.0143 4.0287,-2.01432 -4.0287,-2.01428 4.0287,-2.01436 -4.0287,-2.01428 4.0287,-2.01437 -4.0287,-2.01428 h 4.0287 v 0"
        id="path400191-0"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -4188,14 +4178,14 @@
        inkscape:original-d="M -3.96152,182.03189 -3.999756,170.9999 H 0.99993886 L 1.03848,182.03189 m 30,0 -0.02229,-13.98117 -8.977715,-0.0188 -3,5.99997 H 7.0384749 l -3.0227044,-6.01128 c -4.97729564,0.0113 -9.1846996,0.34273 -13.015743,0.97944 -0.9615475,5.03184 -1.9615475,8.03185 -1.9615475,13.03184"
        inkscape:path-effect="#path-effect26"
        class="UnoptimicedTransforms"
-       transform="matrix(1.2705044,0,0,1.2705044,-2442.159,-491.33327)" />
+       transform="matrix(1.2705044,0,0,1.2705044,-2845.2509,-491.33327)" />
     <rect
        style="opacity:1;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect117307"
        width="25.295927"
        height="49.795124"
        x="-272.80118"
-       y="2444.1548"
+       y="2847.2466"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4203,7 +4193,7 @@
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2486.6417,-269.94415 -4.0285,2.01433 4.0285,2.01429 -4.0285,2.01435 4.0285,2.01431 -4.0285,2.0143 4.0285,2.01433 -4.0285,2.01429 4.0285,2.01432 -4.0285,2.01433 4.0285,2.0143 h -4.0285 l 4.0285,-2.01433 -4.0285,-2.01428 c 0,0 4.0285,-2.01435 4.0285,-2.01435 l -4.0285,-2.01428 4.0285,-2.01433 -4.0285,-2.0143 4.0285,-2.01434 -4.0285,-2.01429 4.0285,-2.01434 -4.0285,-2.01431 h 4.0285 v 0"
+       d="m -2889.7336,-269.94415 -4.0285,2.01433 4.0285,2.01429 -4.0285,2.01435 4.0285,2.01431 -4.0285,2.0143 4.0285,2.01433 -4.0285,2.01429 4.0285,2.01432 -4.0285,2.01433 4.0285,2.0143 h -4.0285 l 4.0285,-2.01433 -4.0285,-2.01428 c 0,0 4.0285,-2.01435 4.0285,-2.01435 l -4.0285,-2.01428 4.0285,-2.01433 -4.0285,-2.0143 4.0285,-2.01434 -4.0285,-2.01429 4.0285,-2.01434 -4.0285,-2.01431 h 4.0285 v 0"
        id="path400191-9"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -4216,14 +4206,14 @@
        inkscape:original-d="M -3.96152,182.03189 -3.999756,170.9999 H 0.99993886 L 1.03848,182.03189 m 30,0 -0.02229,-13.98117 -8.977715,-0.0188 -3,5.99997 H 7.0384749 l -3.0227044,-6.01128 c -4.97729564,0.0113 -9.1846996,0.34273 -13.015743,0.97944 -0.9615475,5.03184 -1.9615475,8.03185 -1.9615475,13.03184"
        inkscape:path-effect="#path-effect28"
        class="UnoptimicedTransforms"
-       transform="matrix(-1.2705044,0,0,-1.2705044,-2247.5087,-29.040256)" />
+       transform="matrix(-1.2705044,0,0,-1.2705044,-2650.6006,-29.040256)" />
     <rect
        style="opacity:1;fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect117555"
        width="25.295927"
        height="49.795124"
        x="-272.80118"
-       y="2196.5735"
+       y="2599.6653"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4231,32 +4221,32 @@
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.49795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2201.0129,-269.8007 -4.0286,2.01431 4.0286,2.01431 -4.0286,2.01435 4.0286,2.01433 -4.0286,2.01428 4.0286,2.01432 -4.0286,2.01433 4.0286,2.01428 -4.0286,2.01435 4.0286,2.0143 h -4.0286 l 4.0286,-2.01433 -4.0286,-2.01429 c 0,0 4.0286,-2.01434 4.0286,-2.01434 l -4.0286,-2.0143 4.0286,-2.01432 -4.0286,-2.01428 4.0286,-2.01435 -4.0286,-2.01431 4.0286,-2.01435 -4.0286,-2.01429 h 4.0286 v 0"
+       d="m -2604.1048,-269.8007 -4.0286,2.01431 4.0286,2.01431 -4.0286,2.01435 4.0286,2.01433 -4.0286,2.01428 4.0286,2.01432 -4.0286,2.01433 4.0286,2.01428 -4.0286,2.01435 4.0286,2.0143 h -4.0286 l 4.0286,-2.01433 -4.0286,-2.01429 c 0,0 4.0286,-2.01434 4.0286,-2.01434 l -4.0286,-2.0143 4.0286,-2.01432 -4.0286,-2.01428 4.0286,-2.01435 -4.0286,-2.01431 4.0286,-2.01435 -4.0286,-2.01429 h 4.0286 v 0"
        id="path400191"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -1546.842,-511.37927 h 271.7127"
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.505748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.04599, 1.0115;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m -1441.3739,-461.17051 h 274.0887"
        id="path41922"
        sodipodi:nodetypes="cc" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m -1561.0948,-476.67097 h 295.7718"
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.505748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.04599, 1.0115;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m -1455.7514,-425.96738 h 298.3582"
        id="path28"
        sodipodi:nodetypes="cc" />
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m -1561.8972,-315.48949 h 297.3675"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.505748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.04599, 1.0115;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m -1456.5608,-305.39486 h 299.9679"
        id="path29"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        sodipodi:nodetypes="cc" />
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m -1561.8972,-280.40594 h 297.3766"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.505748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.04599, 1.0115;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m -1456.5608,-269.81113 h 299.977"
        id="path30"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -4268,14 +4258,14 @@
        inkscape:transform-center-x="0.30390326"
        inkscape:transform-center-y="-0.43295562"
        d="m -30.999845,111 c -1.999996,0 -4.000273,0.99982 -4.000273,2.99982 V 128 h 4.000273 l 0.01034,-12.90257 c 8.93e-4,-1.0972 0.989486,-1.09761 2.989482,-1.09761 1.999996,0 2.999816,-2e-5 2.999816,0.99994 0,0.091 -0.0023,0.19318 -0.0062,0.30024 h 4.013192 c -0.004,-0.10706 -0.0067,-0.20926 -0.0067,-0.30024 0,-1.00499 1.262336,-0.99994 2.999817,-0.99994 0.542963,0 1.039899,-0.0295 1.46606,-0.0305 0.937556,-0.002 1.534274,0.13405 1.534274,1.03043 V 128 h 3.999755 v -13.00024 c 0,-2 -1.999759,-3.99976 -3.999755,-3.99976 z m 0,34 c -1.999996,0 -4.000273,-0.99982 -4.000273,-2.99982 V 128 h 4.000273 l 0.01034,12.90257 c 8.93e-4,1.0972 0.989486,1.09761 2.989482,1.09761 1.999996,0 2.999816,2e-5 2.999816,-0.99994 0,-0.091 -0.0023,-0.19318 -0.0062,-0.30024 h 4.013192 c -0.004,0.10706 -0.0067,0.20926 -0.0067,0.30024 0,1.00499 1.262336,0.99994 2.999817,0.99994 0.542963,0 1.039899,0.0295 1.46606,0.0305 0.937556,0.002 1.534274,-0.13405 1.534274,-1.03043 V 128 h 3.999755 v 13.00024 c 0,2 -1.999759,3.99976 -3.999755,3.99976 z"
-       transform="rotate(90,-156.05893,-612.43844)"
+       transform="rotate(90,43.28695,-413.09256)"
        inkscape:path-effect="#path-effect9542"
        inkscape:original-d="m -30.999845,111 c -1.999996,0 -4.000273,0.99982 -4.000273,2.99982 V 128 h 4.000273 l 0.01034,-12.90257 c 8.93e-4,-1.0972 0.989486,-1.09761 2.989482,-1.09761 1.999996,0 2.999816,-2e-5 2.999816,0.99994 0,0.091 -0.0023,0.19318 -0.0062,0.30024 h 4.013192 c -0.004,-0.10706 -0.0067,-0.20926 -0.0067,-0.30024 0,-1.00499 1.262336,-0.99994 2.999817,-0.99994 0.542963,0 1.039899,-0.0295 1.46606,-0.0305 0.937556,-0.002 1.534274,0.13405 1.534274,1.03043 V 128 h 3.999755 v -13.00024 c 0,-2 -1.999759,-3.99976 -3.999755,-3.99976 z"
        class="UnoptimicedTransforms" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
        id="path33"
-       d="m -914.66408,-446.72725 c -14.247,4.6926 -28.521,9.29886 -42.5405,14.65284 -5.6876,2.17204 -11.3234,4.4772 -16.9851,6.71579 -19.0726,7.84394 -37.71302,16.73912 -55.74792,26.74461 -9.1199,5.05955 -18.9382,10.90792 -27.4632,17.03067 -3.1279,2.24645 -6.0395,4.77957 -9.0592,7.16936 -5.9424,5.20983 -11.1471,11.17092 -16.3884,17.06399 -0.096,0.13112 1.7585,1.48502 1.8542,1.3539 v 0 c 5.4459,-5.56475 10.6371,-11.40344 16.7115,-16.31352 3.0359,-2.27198 5.9785,-4.67419 9.1075,-6.81599 8.7934,-6.01895 18.2136,-11.41034 27.5619,-16.48023 18.0263,-9.77617 36.52442,-18.68162 55.39652,-26.70305 5.5865,-2.31108 11.1477,-4.6845 16.7596,-6.93327 7.4191,-2.97294 17.1759,-6.59315 24.8483,-9.38424 1.9271,-0.70102 11.0753,-3.93042 13.8232,-4.97446 1.1195,-0.42537 2.2181,-0.90382 3.3271,-1.35573 0.1252,-0.0852 -1.0803,-1.85592 -1.2055,-1.77067 z" />
+       d="m -515.97232,-446.72725 c -14.247,4.6926 -28.521,9.29886 -42.5405,14.65284 -5.6876,2.17204 -11.3234,4.4772 -16.9851,6.71579 -19.0726,7.84394 -37.71302,16.73912 -55.74792,26.74461 -9.1199,5.05955 -18.9382,10.90792 -27.4632,17.03067 -3.1279,2.24645 -6.0395,4.77957 -9.0592,7.16936 -5.9424,5.20983 -11.1471,11.17092 -16.3884,17.06399 -0.096,0.13112 1.7585,1.48502 1.8542,1.3539 v 0 c 5.4459,-5.56475 10.6371,-11.40344 16.7115,-16.31352 3.0359,-2.27198 5.9785,-4.67419 9.1075,-6.81599 8.7934,-6.01895 18.2136,-11.41034 27.5619,-16.48023 18.0263,-9.77617 36.52442,-18.68162 55.39652,-26.70305 5.5865,-2.31108 11.1477,-4.6845 16.7596,-6.93327 7.4191,-2.97294 17.1759,-6.59315 24.8483,-9.38424 1.9271,-0.70102 11.0753,-3.93042 13.8232,-4.97446 1.1195,-0.42537 2.2181,-0.90382 3.3271,-1.35573 0.1252,-0.0852 -1.0803,-1.85592 -1.2055,-1.77067 z" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
        id="path34"
@@ -4301,7 +4291,7 @@
     <g
        id="g44"
        style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.26349919,0,0,0.26349919,-1531.6509,-680.25915)"
+       transform="matrix(0.26349919,0,0,0.26349919,-1934.7428,-680.25915)"
        inkscape:export-filename="posterior-panel,main-section,exterior-face.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -4326,7 +4316,7 @@
        id="rect45"
        width="267.49948"
        height="403.93765"
-       x="-1974.0729"
+       x="-2377.1648"
        y="-550.25537"
        ry="100.38656" />
     <rect
@@ -4334,7 +4324,7 @@
        id="rect46"
        width="267.49948"
        height="25.295927"
-       x="-1974.0729"
+       x="-2377.1648"
        y="-475.16473"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -4344,14 +4334,14 @@
        id="rect47"
        width="267.49945"
        height="303.55112"
-       x="-1974.0729"
+       x="-2377.1648"
        y="-449.8688" />
     <rect
        style="fill:#6c5d53;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
        id="rect48"
        width="129.46735"
        height="49.795124"
-       x="-1905.057"
+       x="-2308.1489"
        y="-524.95966"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -4361,7 +4351,7 @@
        id="rect49"
        width="267.49948"
        height="25.295927"
-       x="-1974.0729"
+       x="-2377.1648"
        y="-550.25537"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -4371,7 +4361,7 @@
        id="rect50"
        width="267.49945"
        height="100.38656"
-       x="-1974.0729"
+       x="-2377.1648"
        y="-550.25537"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
        inkscape:export-xdpi="96"
@@ -4382,7 +4372,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="1916.2064"
+       y="2319.2983"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4394,7 +4384,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="1802.3749"
+       y="2205.4668"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4406,7 +4396,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="1840.319"
+       y="2243.4109"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4418,7 +4408,7 @@
        width="25.295929"
        height="66.421425"
        x="-247.5027"
-       y="1698.01"
+       y="2101.1018"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4430,7 +4420,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="1878.2626"
+       y="2281.3545"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4442,7 +4432,7 @@
        width="25.295927"
        height="37.94389"
        x="-247.5027"
-       y="1764.431"
+       y="2167.5229"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4451,7 +4441,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5399px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49795;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-1864.816"
+       x="-2267.908"
        y="-496.84927"
        id="text58"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4459,7 +4449,7 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan58"
-         x="-1864.816"
+         x="-2267.908"
          y="-496.84927"
          style="stroke-width:0.49795">velcro</tspan></text>
     <rect
@@ -4468,7 +4458,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="1916.2064"
+       y="2319.2983"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -4477,7 +4467,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="1802.3749"
+       y="2205.4668"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -4486,7 +4476,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="1840.319"
+       y="2243.4109"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -4495,7 +4485,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="1726.4874"
+       y="2129.5793"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -4504,7 +4494,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="1878.2626"
+       y="2281.3545"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -4513,7 +4503,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="1764.431"
+       y="2167.5229"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -4522,7 +4512,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="1688.5433"
+       y="2091.6353"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -4531,7 +4521,7 @@
        width="25.295927"
        height="37.94389"
        x="-196.91083"
-       y="1954.1505"
+       y="2357.2424"
        ry="0"
        transform="rotate(90)" />
     <rect
@@ -4540,7 +4530,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="1916.2064"
+       y="2319.2983"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4552,7 +4542,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="1802.3749"
+       y="2205.4668"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4564,7 +4554,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="1840.319"
+       y="2243.4109"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4576,7 +4566,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="1726.4874"
+       y="2129.5793"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4588,7 +4578,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="1878.2626"
+       y="2281.3545"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4600,7 +4590,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="1764.431"
+       y="2167.5229"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4612,7 +4602,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="1688.5433"
+       y="2091.6353"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4624,7 +4614,7 @@
        width="25.295927"
        height="37.94389"
        x="-298.09711"
-       y="1954.1505"
+       y="2357.2424"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4636,7 +4626,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="1916.2064"
+       y="2319.2983"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4648,7 +4638,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="1802.3749"
+       y="2205.4668"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4660,7 +4650,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="1840.319"
+       y="2243.4109"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4672,7 +4662,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="1726.4874"
+       y="2129.5793"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4684,7 +4674,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="1878.2626"
+       y="2281.3545"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4696,7 +4686,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="1764.431"
+       y="2167.5229"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4708,7 +4698,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="1688.5433"
+       y="2091.6353"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4720,7 +4710,7 @@
        width="25.295927"
        height="37.94389"
        x="-348.6889"
-       y="1954.1505"
+       y="2357.2424"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4732,7 +4722,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="1916.2064"
+       y="2319.2983"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4744,7 +4734,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="1802.3749"
+       y="2205.4668"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4756,7 +4746,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="1840.319"
+       y="2243.4109"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4768,7 +4758,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="1726.4874"
+       y="2129.5793"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4780,7 +4770,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="1878.2626"
+       y="2281.3545"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4792,7 +4782,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="1764.431"
+       y="2167.5229"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4804,7 +4794,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="1688.5433"
+       y="2091.6353"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4816,7 +4806,7 @@
        width="25.295927"
        height="37.94389"
        x="-399.28076"
-       y="1954.1505"
+       y="2357.2424"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4828,7 +4818,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="1916.2064"
+       y="2319.2983"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4840,7 +4830,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="1802.3749"
+       y="2205.4668"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4852,7 +4842,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="1840.319"
+       y="2243.4109"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4864,7 +4854,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="1726.4874"
+       y="2129.5793"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4876,7 +4866,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="1878.2626"
+       y="2281.3545"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4888,7 +4878,7 @@
        width="25.295927"
        height="37.94389"
        x="-449.87259"
-       y="1764.431"
+       y="2167.5229"
        ry="0"
        transform="rotate(90)"
        inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
@@ -4899,7 +4889,7 @@
        id="rect99"
        width="95.80584"
        height="100.38656"
-       x="-1802.3793"
+       x="-2205.4712"
        y="-550.25537"
        rx="0"
        ry="0"
@@ -4908,7 +4898,7 @@
        inkscape:export-ydpi="96" />
     <path
        style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
-       d="m -1726.084,-222.20677 c 28.1314,-0.062 39.9782,4.1378 39.9782,-0.1725 v -24.9997 l -40,-2e-4"
+       d="m -2129.1759,-222.20677 c 28.1314,-0.062 39.9782,4.1378 39.9782,-0.1725 v -24.9997 l -40,-2e-4"
        id="path118-2-3"
        sodipodi:nodetypes="cccc" />
     <path
@@ -4917,22 +4907,22 @@
        d="M -3.96152,182.03189 -3.999756,170.9999 H 0.99993886 L 1.03848,182.03189 m 30,0 -0.02229,-13.98117 -8.977715,-0.0188 -3,5.99997 H 7.0384749 l -3.0227044,-6.01128 c -4.97729564,0.0113 -9.1846996,0.34273 -13.015743,0.97944 -0.9615475,5.03184 -1.9615475,8.03185 -1.9615475,13.03184 m 7,0 -0.038236,11.03199 H 0.99993886 L 1.03848,182.03189 m 30,0 -0.02229,13.98117 -8.977715,0.0188 -3,-5.99997 H 7.0384749 l -3.0227044,6.01128 c -4.97729564,-0.0113 -9.1846996,-0.34273 -13.015743,-0.97944 -0.9615475,-5.03184 -1.9615475,-8.03185 -1.9615475,-13.03184"
        sodipodi:nodetypes="cccccccccccc"
        class="UnoptimicedTransforms"
-       transform="matrix(1.2705044,0,0,1.2705044,-1685.7224,-466.36743)"
+       transform="matrix(1.2705044,0,0,1.2705044,-2088.8143,-466.36743)"
        inkscape:original-d="M -3.96152,182.03189 -3.999756,170.9999 H 0.99993886 L 1.03848,182.03189 m 30,0 -0.02229,-13.98117 -8.977715,-0.0188 -3,5.99997 H 7.0384749 l -3.0227044,-6.01128 c -4.97729564,0.0113 -9.1846996,0.34273 -13.015743,0.97944 -0.9615475,5.03184 -1.9615475,8.03185 -1.9615475,13.03184"
        inkscape:path-effect="#path-effect119" />
     <path
        id="path119-3-6"
        style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -1726.1057,-247.37897 c 20,0 39.9999,-3.9873 39.9999,-3e-4 v 25 c 0,-4.0237 -19.9781,0.1725 -39.9781,0.1725"
+       d="m -2129.1976,-247.37897 c 20,0 39.9999,-3.9873 39.9999,-3e-4 v 25 c 0,-4.0237 -19.9781,0.1725 -39.9781,0.1725"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -1723.1057,-223.87927 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 v 0"
+       d="m -2126.1976,-223.87927 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 3,-1 -3,-1 v 0"
        id="path121-1"
        sodipodi:nodetypes="ccccccccccccccccccccccccc" />
     <g
        id="g126"
-       transform="translate(54.534816,-202.36989)">
+       transform="translate(-348.55704,-202.36989)">
       <path
          style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
          d="m -1781.0222,-222.20677 c 28.1314,-0.062 39.9781,4.1378 39.9781,-0.1725 v -24.9997 l -40,-2e-4"
@@ -4960,7 +4950,7 @@
     </g>
     <g
        id="g129"
-       transform="matrix(-1,0,0,1,-3735.1943,-202.49342)">
+       transform="matrix(-1,0,0,1,-4138.2862,-202.49342)">
       <path
          style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
          d="m -1781.0222,-222.20677 c 28.1314,-0.062 39.9781,4.1378 39.9781,-0.1725 v -24.9997 l -40,-2e-4"
@@ -4988,7 +4978,7 @@
     </g>
     <g
        id="g133"
-       transform="matrix(-1,0,0,1,-3735.1943,-0.12353081)">
+       transform="matrix(-1,0,0,1,-4138.2862,-0.12353081)">
       <path
          style="fill:#9d8c41;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
          d="m -1781.0222,-222.20677 c 28.1314,-0.062 39.9781,4.1378 39.9781,-0.1725 v -24.9997 l -40,-2e-4"
@@ -5017,56 +5007,349 @@
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
        id="path134"
-       d="m -2167.1195,-441.77808 c -22.964,14.96488 -44.7545,31.65493 -66.1429,48.77011 -5.1243,4.35383 -12.3899,10.37241 -17.4868,15.18952 -1.313,1.24092 -2.5824,2.5337 -3.7574,3.90602 -0.3754,0.43846 -1.2021,1.02605 -0.8692,1.49764 1.6012,2.26883 3.0837,0.76626 4.4534,-0.0371 0.5135,-0.43717 1.0269,-0.87435 1.5404,-1.31154 0.098,-0.1097 -1.4529,-1.50138 -1.5513,-1.39169 v 0 c -0.4422,0.36817 -0.8843,0.73634 -1.3264,1.10451 -0.34,0.19907 -3.1852,1.28246 -1.2843,2.59786 0.3714,0.25702 0.4939,-0.76329 0.8086,-1.08738 1.2334,-1.27058 2.5077,-2.50315 3.8253,-3.68618 4.9441,-4.43899 12.8546,-10.93277 17.6339,-14.91715 21.3583,-16.98771 43.0568,-33.59028 65.5776,-49.01642 0.1144,-0.10046 -1.3065,-1.71871 -1.4209,-1.61824 z" />
+       d="m -2570.2114,-441.77808 c -22.964,14.96488 -44.7545,31.65493 -66.1429,48.77011 -5.1243,4.35383 -12.3899,10.37241 -17.4868,15.18952 -1.313,1.24092 -2.5824,2.5337 -3.7574,3.90602 -0.3754,0.43846 -1.2021,1.02605 -0.8692,1.49764 1.6012,2.26883 3.0837,0.76626 4.4534,-0.0371 0.5135,-0.43717 1.0269,-0.87435 1.5404,-1.31154 0.098,-0.1097 -1.4529,-1.50138 -1.5513,-1.39169 v 0 c -0.4422,0.36817 -0.8843,0.73634 -1.3264,1.10451 -0.34,0.19907 -3.1852,1.28246 -1.2843,2.59786 0.3714,0.25702 0.4939,-0.76329 0.8086,-1.08738 1.2334,-1.27058 2.5077,-2.50315 3.8253,-3.68618 4.9441,-4.43899 12.8546,-10.93277 17.6339,-14.91715 21.3583,-16.98771 43.0568,-33.59028 65.5776,-49.01642 0.1144,-0.10046 -1.3065,-1.71871 -1.4209,-1.61824 z" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
        id="path135"
-       d="m -2251.4635,-442.916 c 11.7065,14.92879 26.9008,26.83594 42.84,36.96448 3.3618,2.13625 6.8588,4.05194 10.2881,6.07791 8.2027,4.26196 16.8673,7.65646 25.9885,9.32526 2.0355,0.3724 4.1126,0.46247 6.1689,0.69371 0.1511,0.0545 0.9223,-2.08341 0.7711,-2.13794 v 0 c -1.9731,-0.22569 -3.9664,-0.31676 -5.9194,-0.67704 -8.909,-1.64354 -17.3752,-4.94308 -25.3759,-9.13982 -3.3837,-2.01247 -6.8311,-3.92147 -10.1511,-6.03737 -15.7333,-10.02723 -30.7157,-21.68469 -42.716,-36.05514 -0.07,-0.13396 -1.9639,0.85199 -1.8942,0.98595 z" />
+       d="m -2654.5554,-442.916 c 11.7065,14.92879 26.9008,26.83594 42.84,36.96448 3.3618,2.13625 6.8588,4.05194 10.2881,6.07791 8.2027,4.26196 16.8673,7.65646 25.9885,9.32526 2.0355,0.3724 4.1126,0.46247 6.1689,0.69371 0.1511,0.0545 0.9223,-2.08341 0.7711,-2.13794 v 0 c -1.9731,-0.22569 -3.9664,-0.31676 -5.9194,-0.67704 -8.909,-1.64354 -17.3752,-4.94308 -25.3759,-9.13982 -3.3837,-2.01247 -6.8311,-3.92147 -10.1511,-6.03737 -15.7333,-10.02723 -30.7157,-21.68469 -42.716,-36.05514 -0.07,-0.13396 -1.9639,0.85199 -1.8942,0.98595 z" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.726268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
        id="path136"
-       d="m -2176.5104,-411.96168 c 22.8862,-7.07809 46.1489,-13.42404 70.1487,-16.92886 4.8757,-0.71203 9.8012,-1.13552 14.7016,-1.70326 14.5182,-1.23375 29.3389,-2.33683 43.5441,1.13749 0.2034,0.0952 1.746,-2.41123 1.5427,-2.50636 v 0 c -15.0579,-4.06471 -30.9383,-3.04955 -46.4319,-1.7242 -4.9709,0.57804 -9.9667,1.01145 -14.9126,1.73417 -24.1065,3.52269 -47.5073,9.90185 -70.3059,17.47784 -0.2038,0.10569 1.5095,2.61884 1.7133,2.51318 z" />
+       d="m -2579.6023,-411.96168 c 22.8862,-7.07809 46.1489,-13.42404 70.1487,-16.92886 4.8757,-0.71203 9.8012,-1.13552 14.7016,-1.70326 14.5182,-1.23375 29.3389,-2.33683 43.5441,1.13749 0.2034,0.0952 1.746,-2.41123 1.5427,-2.50636 v 0 c -15.0579,-4.06471 -30.9383,-3.04955 -46.4319,-1.7242 -4.9709,0.57804 -9.9667,1.01145 -14.9126,1.73417 -24.1065,3.52269 -47.5073,9.90185 -70.3059,17.47784 -0.2038,0.10569 1.5095,2.61884 1.7133,2.51318 z" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.621868;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
        id="path137"
-       d="m -2047.9618,-432.07688 c -3.7949,-19.06844 -4.6166,-38.95127 -1.193,-58.25438 0.9572,-5.39743 2.4693,-10.60406 3.7039,-15.9061 4.7227,-15.75338 10.9003,-29.5301 20.0167,-41.7076 10.2489,-13.69088 22.5208,-23.78997 34.7558,-34.14275 12.1253,-9.56549 24.8996,-17.60151 38.2921,-23.71399 10.918,-4.98318 22.2205,-8.55993 33.3721,-12.53186 0.1662,-0.11017 -1.036,-3.15545 -1.2022,-3.04534 v 0 c -11.2706,3.87012 -22.6621,7.46857 -33.6683,12.50433 -13.5453,6.19757 -26.4767,14.33218 -38.7377,24.02207 -9.2276,7.87201 -16.339,13.44886 -24.8294,22.58907 -6.9004,7.4286 -13.4528,15.84798 -18.7007,25.32843 -6.1576,11.12365 -7.6805,17.30587 -11.9925,29.82815 -1.2452,5.44049 -2.7779,10.78414 -3.7358,16.32145 -3.4107,19.71533 -2.5069,40.04161 1.6579,59.40613 0.039,0.20716 2.2992,-0.49045 2.2611,-0.69761 z" />
+       d="m -2451.0537,-432.07688 c -3.7949,-19.06844 -4.6166,-38.95127 -1.193,-58.25438 0.9572,-5.39743 2.4693,-10.60406 3.7039,-15.9061 4.7227,-15.75338 10.9003,-29.5301 20.0167,-41.7076 10.2489,-13.69088 22.5208,-23.78997 34.7558,-34.14275 12.1253,-9.56549 24.8996,-17.60151 38.2921,-23.71399 10.918,-4.98318 22.2205,-8.55993 33.3721,-12.53186 0.1662,-0.11017 -1.036,-3.15545 -1.2022,-3.04534 v 0 c -11.2706,3.87012 -22.6621,7.46857 -33.6683,12.50433 -13.5453,6.19757 -26.4767,14.33218 -38.7377,24.02207 -9.2276,7.87201 -16.339,13.44886 -24.8294,22.58907 -6.9004,7.4286 -13.4528,15.84798 -18.7007,25.32843 -6.1576,11.12365 -7.6805,17.30587 -11.9925,29.82815 -1.2452,5.44049 -2.7779,10.78414 -3.7358,16.32145 -3.4107,19.71533 -2.5069,40.04161 1.6579,59.40613 0.039,0.20716 2.2992,-0.49045 2.2611,-0.69761 z" />
     <text
        xml:space="preserve"
        style="font-size:14.1111px;line-height:1.5;font-variation-settings:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:240;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
        x="-1916.5734"
        y="-641.37927"
        id="text138"
-       transform="translate(20.000902,-59.999997)"><tspan
+       transform="translate(-383.09095,-59.999997)"><tspan
          x="-1916.5734"
          y="-641.37927"
-         id="tspan84"><tspan
-           style="font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.49795"
-           id="tspan83">Bartack the buckles onto the </tspan></tspan><tspan
-         x="-1916.5734"
-         y="-620.21264"
-         id="tspan86"><tspan
-           style="font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.49795"
-           id="tspan85">end of the PALS webbing </tspan></tspan><tspan
-         x="-1916.5734"
-         y="-599.04602"
          id="tspan88"><tspan
            style="font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.49795"
-           id="tspan87">instead of inseting webbing </tspan></tspan><tspan
+           id="tspan87">Bartack the buckles onto the </tspan></tspan><tspan
          x="-1916.5734"
-         y="-577.87939"
+         y="-620.21264"
          id="tspan90"><tspan
            style="font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.49795"
-           id="tspan89">tabs into the sema between </tspan></tspan><tspan
+           id="tspan89">end of the PALS webbing </tspan></tspan><tspan
          x="-1916.5734"
-         y="-556.71277"
+         y="-599.04602"
          id="tspan92"><tspan
            style="font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.49795"
-           id="tspan91">the posterior and medial </tspan></tspan><tspan
+           id="tspan91">instead of inseting webbing </tspan></tspan><tspan
          x="-1916.5734"
-         y="-535.54614"
+         y="-577.87939"
          id="tspan94"><tspan
            style="font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.49795"
-           id="tspan93">panels</tspan></tspan></text>
+           id="tspan93">tabs into the sema between </tspan></tspan><tspan
+         x="-1916.5734"
+         y="-556.71277"
+         id="tspan96"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.49795"
+           id="tspan95">the posterior and medial </tspan></tspan><tspan
+         x="-1916.5734"
+         y="-535.54614"
+         id="tspan98"><tspan
+           style="font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.49795"
+           id="tspan97">panels</tspan></tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="path138"
+       d="m -1145.0552,-437.28338 c 13.7399,-9.3884 27.7306,-18.40984 41.325,-28.01107 3.0835,-2.17778 6.1188,-4.42304 9.1782,-6.63456 5.1772,-4.31977 12.5059,-8.55212 15.1291,-15.20332 0.8131,-2.06129 0.8268,-3.2648 1.0865,-5.40753 -0.068,-2.92447 0.081,-1.55342 -0.3728,-4.12036 -0.022,-0.15065 -2.1521,0.15518 -2.1305,0.30583 v 0 c 0.3658,2.21332 0.2455,1.01934 0.2898,3.58844 -0.2166,1.76932 -0.2555,3.05364 -0.9498,4.73536 -0.8871,2.14876 -2.1435,3.59925 -3.8642,5.20673 -3.381,3.15838 -7.6268,6.0479 -11.2902,8.73347 -16.6675,11.71409 -33.6305,23.02463 -49.9297,35.25174 -0.1099,0.10808 1.4186,1.66335 1.5286,1.55527 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.5;font-family:monospace;-inkscape-font-specification:monospace;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:250;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       x="-1236.5732"
+       y="-561.37927"
+       id="text139"
+       transform="translate(129.99032,2.5406235)"><tspan
+         x="-1236.5732"
+         y="-561.37927"
+         id="tspan100"><tspan
+           style="stroke-width:0.49795"
+           id="tspan99">This zipper is better if moved up. </tspan></tspan><tspan
+         x="-1236.5732"
+         y="-544.44595"
+         id="tspan102"><tspan
+           style="stroke-width:0.49795"
+           id="tspan101">It was originally here so we don't </tspan></tspan><tspan
+         x="-1236.5732"
+         y="-527.5126"
+         id="tspan104"><tspan
+           style="stroke-width:0.49795"
+           id="tspan103">need to deal with the curve in the </tspan></tspan><tspan
+         x="-1236.5732"
+         y="-510.57925"
+         id="tspan106"><tspan
+           style="stroke-width:0.49795"
+           id="tspan105">top corners of this panel.</tspan></tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="path139"
+       d="m -1148.5166,-314.12483 c 12.155,4.23667 24.8033,6.78143 37.2227,10.07919 15.156,4.0244 15.2647,4.26474 30.3019,9.0613 15.2811,5.08481 30.4714,10.44032 45.5677,16.04896 0.1597,0.1021 1.6035,-2.15609 1.4438,-2.25819 v 0 c -2.3283,-0.98528 -4.6366,-2.01933 -6.985,-2.95585 -12.6235,-5.03423 -25.4831,-9.46285 -38.3464,-13.83506 -5.114,-1.62854 -10.1931,-3.37087 -15.3419,-4.88564 -5.0411,-1.48307 -10.1261,-2.81625 -15.2202,-4.10559 -12.497,-3.16304 -25.209,-5.45526 -37.5909,-9.07648 -0.1363,-0.0744 -1.188,1.85298 -1.0517,1.92736 z" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m -2392.1034,-317.62348 h 297.3766"
+       id="path140"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="path141"
+       d="m -2397.1814,-319.20469 c -9.7605,2.58979 -19.6712,5.06719 -28.8273,9.44671 -6.9723,3.33494 -9.646,5.47116 -16.1648,9.81964 -13.015,9.55201 -25.2002,20.27843 -35.8966,32.39452 -7.5793,8.58523 -9.5704,11.77687 -16.3054,21.02668 -5.9145,8.6529 -11.7317,17.40712 -16.7765,26.60536 -0.044,0.0808 -3.1494,5.60607 -3.1365,7.12991 0,0.5121 0.5212,0.88175 0.7818,1.32263 3.3994,-1.50498 2.0467,-0.43564 4.2037,-3.01485 0.083,-0.12674 -1.7094,-1.30181 -1.7925,-1.17504 v 0 c -1.5648,1.91764 -1.5259,0.96334 -1.0858,2.65152 -0.093,1.76374 -0.1158,0.53067 0.785,-1.25852 0.781,-1.5512 1.6397,-3.06292 2.5154,-4.56274 5.2558,-9.00231 11.0304,-17.69507 16.9581,-26.26487 6.6079,-9.06438 8.6947,-12.36911 16.1174,-20.78783 10.5696,-11.98806 22.602,-22.61897 35.4132,-32.14278 6.3561,-4.27143 8.9532,-6.37624 15.7667,-9.61996 9.0534,-4.31011 18.8663,-6.6821 28.4009,-9.62522 0.1375,-0.0676 -0.8192,-2.01282 -0.9568,-1.94516 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.5;font-family:monospace;-inkscape-font-specification:monospace;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:150;display:inline;opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       x="-2156.5732"
+       y="-181.37929"
+       id="text141"
+       transform="translate(-413.09095,-9.9999626)"><tspan
+         x="-2156.5732"
+         y="-181.37929"
+         id="tspan108"><tspan
+           style="stroke-width:0.49795"
+           id="tspan107">Seam that separates </tspan></tspan><tspan
+         x="-2156.5732"
+         y="-164.44593"
+         id="tspan110"><tspan
+           style="stroke-width:0.49795"
+           id="tspan109">the top and bottom </tspan></tspan><tspan
+         x="-2156.5732"
+         y="-147.51258"
+         id="tspan112"><tspan
+           style="stroke-width:0.49795"
+           id="tspan111">interior pockets from </tspan></tspan><tspan
+         x="-2156.5732"
+         y="-130.57923"
+         id="tspan114"><tspan
+           style="stroke-width:0.49795"
+           id="tspan113">eachother once the </tspan></tspan><tspan
+         x="-2156.5732"
+         y="-113.64589"
+         id="tspan116"><tspan
+           style="stroke-width:0.49795"
+           id="tspan115">full panel assembly is </tspan></tspan><tspan
+         x="-2156.5732"
+         y="-96.712536"
+         id="tspan118"><tspan
+           style="stroke-width:0.49795"
+           id="tspan117">complete</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.5;font-family:monospace;-inkscape-font-specification:monospace;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:200;display:inline;opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       x="-1166.5734"
+       y="-191.37926"
+       id="text142"
+       transform="translate(-349.99911,120.00001)"><tspan
+         x="-1166.5734"
+         y="-191.37926"
+         id="tspan123"><tspan
+           style="stroke-width:0.49795"
+           id="tspan122">Don't terminate the zipper in </tspan></tspan><tspan
+         x="-1166.5734"
+         y="-174.4459"
+         id="tspan125"><tspan
+           style="stroke-width:0.49795"
+           id="tspan124">the seam, extend the zipper </tspan></tspan><tspan
+         x="-1166.5734"
+         y="-157.51255"
+         id="tspan127"><tspan
+           style="stroke-width:0.49795"
+           id="tspan126">tape with a piece of fabric </tspan></tspan><tspan
+         x="-1166.5734"
+         y="-140.5792"
+         id="tspan129"><tspan
+           style="stroke-width:0.49795"
+           id="tspan128">which then terminates the in </tspan></tspan><tspan
+         x="-1166.5734"
+         y="-123.64585"
+         id="tspan131"><tspan
+           style="stroke-width:0.49795"
+           id="tspan130">the seam</tspan></tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.497951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="path142"
+       d="m -1581.8671,-215.0485 c 0.9102,0.9204 1.8025,1.85882 2.7305,2.76121 6.5501,6.36946 3.3429,2.91288 10.8865,10.5476 5.5077,5.57431 10.9279,11.31256 16.0825,17.21355 2.9691,3.39896 5.8152,6.90342 8.7227,10.35515 10.576,13.18939 19.7796,27.43108 26.8716,42.79174 2.9361,6.35956 3.354,7.94284 5.5357,14.12055 1.1152,3.84516 2.1613,7.84331 2.0938,11.88956 -0.01,0.42419 -0.1406,0.83678 -0.211,1.25512 -0.037,0.14638 2.0303,0.67276 2.0676,0.52657 v 0 c 0.1308,-0.55398 0.3463,-1.09463 0.3923,-1.66201 0.3431,-4.22692 -0.7603,-8.47252 -1.7938,-12.51284 -0.687,-2.1366 -1.294,-4.30046 -2.0608,-6.40976 -6.852,-18.85003 -17.5678,-35.99087 -30.0886,-51.57625 -2.9499,-3.46817 -5.8291,-6.9977 -8.8497,-10.40446 -5.1985,-5.8632 -10.8315,-11.68969 -16.4539,-17.16253 -5.6045,-5.45537 -6.0144,-5.61103 -11.2546,-10.29668 -0.9714,-0.86858 -1.9271,-1.75456 -2.8907,-2.63186 -0.085,-0.12587 -1.8646,1.06945 -1.7801,1.19534 z" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.505748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.04599, 1.0115;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m -1182.0903,-430.39369 v -25.65656 h -0.1881"
+       id="path143" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.505747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.04599, 1.0115;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m -1431.0154,-455.94137 -0.226,25.54768 0.226,-0.32654"
+       id="path144" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.505747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.04599, 1.0115;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m -1435.6636,-301.22604 v 26.1449"
+       id="path145" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.505747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.04599, 1.0115;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m -1181.7139,-301.22604 v 26.1449"
+       id="path146" />
+    <rect
+       style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect164"
+       width="299.97705"
+       height="160.00002"
+       x="-1916.5504"
+       y="-201.37926" />
+    <rect
+       style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect161"
+       width="299.97708"
+       height="170.75795"
+       x="-1916.5504"
+       y="-441.37927" />
+    <path
+       id="rect146"
+       style="fill:#d1c17f;fill-opacity:1;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1800.1461,-641.3796 c -64.4878,0 -116.4042,51.91644 -116.4042,116.40427 v 0.56585 13.03022 h 299.977 5e-4 v -13.03022 h -5e-4 v -0.56585 c 0,-64.48783 -51.9159,-116.40427 -116.4037,-116.40427 z"
+       sodipodi:nodetypes="ssccccccsss" />
+    <path
+       id="path147"
+       style="fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1800.2175,-626.22747 c -55.5553,0 -100.3858,44.53268 -101.2517,100.17683 h 269.8135 c -0.8659,-55.64415 -45.6963,-100.17683 -101.2517,-100.17683 z"
+       sodipodi:nodetypes="sccss" />
+    <rect
+       style="fill:#999999;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect149"
+       width="240.00005"
+       height="29.999987"
+       x="-1886.5734"
+       y="-491.37927"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#999999;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect151"
+       width="240.03734"
+       height="25.922298"
+       x="-1888.9437"
+       y="-360.46802"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6611px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-1788.1293"
+       y="-342.99884"
+       id="text151"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(0.99727913,1.0027283)"><tspan
+         sodipodi:role="line"
+         id="tspan151"
+         x="-1788.1293"
+         y="-342.99884"
+         style="stroke-width:0.503675">zipper</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6611px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-1795.8678"
+       y="-469.55832"
+       id="text152"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(0.99727913,1.0027283)"><tspan
+         sodipodi:role="line"
+         id="tspan152"
+         x="-1795.8678"
+         y="-469.55832"
+         style="stroke-width:0.503675">zipper</tspan></text>
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.503675;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="rect162"
+       width="270"
+       height="130"
+       x="-1900.515"
+       y="-186.14169" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.503674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="rect163"
+       width="270.00006"
+       height="139.99998"
+       x="-1901.4827"
+       y="-425.77286" />
+    <rect
+       style="fill:#918a6f;stroke:#000000;stroke-width:0.503674;stroke-miterlimit:4;stroke-dasharray:none;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="rect165"
+       width="50.001537"
+       height="29.999987"
+       x="-1956.5734"
+       y="-491.37927"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.503674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="rect166"
+       width="50.001537"
+       height="29.999987"
+       x="-1626.5734"
+       y="-491.37927"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#999999;stroke:#000000;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect167"
+       width="240.00005"
+       height="29.999987"
+       x="-1886.5734"
+       y="-251.91911"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6611px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503675;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-1795.8678"
+       y="-185.63524"
+       id="text167"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(0.99727913,1.0027283)"><tspan
+         sodipodi:role="line"
+         id="tspan167"
+         x="-1795.8678"
+         y="-185.63524"
+         style="stroke-width:0.503675">zipper</tspan></text>
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.503674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="rect168"
+       width="50.001537"
+       height="29.999987"
+       x="-1956.5734"
+       y="-251.91911"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#918a6f;fill-opacity:1;stroke:#000000;stroke-width:0.503674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="rect169"
+       width="50.001537"
+       height="29.999987"
+       x="-1626.5734"
+       y="-251.91911"
+       inkscape:export-filename="/home/jarmo/projects/sewing/PALS-daypack-sndrias/rect27113.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.552531;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="path169"
+       d="m -1458.6742,-283.76191 c -0.7573,1.34299 -1.4939,2.70285 -2.2718,4.02894 -5.4899,9.36012 -2.8554,4.37214 -9.1307,15.51049 -4.5816,8.13238 -9.0504,16.43819 -13.2298,24.86904 -2.4073,4.85617 -4.6758,9.80637 -7.0137,14.70955 -8.4035,18.59481 -15.2779,38.08908 -19.8791,58.36791 -1.905,8.39572 -2.0686,10.4034 -3.2536,18.38236 -0.4967,4.90233 -0.9007,9.96978 -0.1917,14.80139 0.077,0.50575 0.2723,0.96581 0.4086,1.44864 0.059,0.16561 -1.9082,1.34141 -1.9685,1.17603 v 0 c -0.2176,-0.62947 -0.5173,-1.22064 -0.653,-1.88851 -1.0111,-4.9755 -0.5896,-10.35463 -0.2049,-15.46932 0.3427,-2.74178 0.6019,-5.49512 1.0283,-8.22519 3.8095,-24.39754 11.7247,-47.76498 21.6781,-69.74396 2.3773,-4.93405 4.6747,-9.92301 7.132,-14.8021 4.2289,-8.39713 8.8949,-16.86477 13.6064,-24.90579 4.6967,-8.01535 5.0787,-8.30995 9.5358,-15.30678 0.8263,-1.29702 1.6342,-2.61074 2.4513,-3.91614 0.065,-0.17319 2.0201,0.79029 1.9563,0.96344 z" />
   </g>
   <metadata
      id="metadata38085">
