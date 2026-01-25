@@ -38,9 +38,8 @@ And then to the main content, the sewing patterns and instructions
     shoulder-strap,-50mm--webbing,-with-quick-release/shoulder-strap,-50mm-webbing,-with-quick-release
     sternum-strap,-20mm,-modular/sternum-strap,-20mm,-modular
     adapter,-cross-bag-compression-strap/*
-    kanken/kanken
-    backpack,-daypack,-large/*
-    backpack,-small,-rolltop,-utility-shoulder-strap/*
+    backpack,kanken/kanken
+    backpack,*/*
     kid-carrier/kid-carrier
     kit-bag/kit-bag
     bikepack,-frame-bag-sling
