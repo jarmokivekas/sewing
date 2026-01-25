@@ -6,3 +6,4 @@ myst-parser
 build
 *.sqlite
 *.sqlite3
+reciepts
