@@ -6,7 +6,41 @@ import sys
 
 
 PRICE_MULTIPLIER = 2
-FIXED_OVERHEAD = 1+1+5.70
+HOURLY = 5
+
+def calculate_overhead_cost(conn, product_sku):
+    """
+    Returns total material cost for a given product SKU.
+    """
+    
+    query = """
+    SELECT
+        shipping_cost,
+        overhead_cost,
+        labor_hours
+    FROM products
+    WHERE sku = ?
+    """
+
+    cursor = conn.execute(query, (product_sku,))
+    rows = cursor.fetchall()
+
+    if not rows:
+        raise ValueError(f"No BOM items found for product SKU '{product_sku}'")
+
+    total_overhead_cost = 0.0
+
+    print("Overhead breakdown:")
+    for shipping_cost, overhead_cost, labor_hours in rows:
+        line_cost = shipping_cost + overhead_cost
+        labor_overhead = labor_hours * HOURLY
+        line_cost += labor_overhead
+        total_overhead_cost += line_cost
+        print(f"""   - shipping cost: {shipping_cost} €
+   - labor: {labor_overhead} €
+   - other overhead: {overhead_cost} €
+        """)
+    return total_overhead_cost
 
 
 def calculate_material_cost(conn, product_sku):
@@ -25,27 +59,30 @@ def calculate_material_cost(conn, product_sku):
     WHERE b.product_sku = ?
     """
 
+
+
     cursor = conn.execute(query, (product_sku,))
     rows = cursor.fetchall()
 
     if not rows:
         raise ValueError(f"No BOM items found for product SKU '{product_sku}'")
 
-    total_cost = 0.0
+    total_material_cost = 0.0
 
     print("BOM breakdown:")
     for quantity, usage, price_per_unit, name, unit in rows:
         line_cost = quantity * price_per_unit
-        total_cost += line_cost
+        total_material_cost += line_cost
         print(f"""  - {usage}:
         {name}:
         {quantity} {unit} × {price_per_unit:.2f} € = {line_cost:.2f} €""")
 
-    return total_cost
+    return total_material_cost
 
 
-def update_product(conn, product_sku, material_cost, dry_run):
+def update_product(conn, product_sku, material_cost, overhead_cost, dry_run):
     price = material_cost * PRICE_MULTIPLIER
+    price += overhead_cost
 
     print(f"\nComputed totals:")
     print(f"  Material cost: {material_cost:.2f} €")
@@ -95,7 +132,8 @@ def main():
         conn.execute("PRAGMA foreign_keys = ON")
 
         material_cost = calculate_material_cost(conn, args.sku)
-        update_product(conn, args.sku, material_cost, args.dry_run)
+        overhead_cost = calculate_overhead_cost(conn, args.sku)
+        update_product(conn, args.sku, material_cost, overhead_cost, args.dry_run)
 
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
