@@ -93,7 +93,7 @@ A completed anchor point looks like this:
 
 ![](images/IMG_20220225_200537_HDR.jpg)
 
-**NOTE**: I have changed webbing to 10cm, it was 10. It now does NOT extend out from the triangle as it does in the photo. Otherwise there is way too much in material in the seam when this gets inserted in the seam between the anterior and medial panel. It's:
+**NOTE**: I have changed webbing to 10cm, it was 20. It now does NOT extend out from the triangle as it does in the photo. Otherwise there is way too much in material in the seam when this gets inserted in the seam between the anterior and medial panel. It's:
 - 4 layers of codura from this triangle
 - 2 layers form the anterior panel
 - 2 layers form the exterior panel
